@@ -1,4 +1,4 @@
-College Readiness as a Predictor of College Completion
+## College Readiness as a Predictor of College Completion
 A Population-Level Analysis | Classes of 2016–2025
 
 1. Study Overview
