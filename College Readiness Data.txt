@@ -1,909 +1,909 @@
 Student_Number	Name	Class Of	GPA	Test	Met GPA?	Met at Least 1 Benchmark?	College Ready?	Match Field	College Status	Met Both Benchmarks?
-101147	"Akpati, Ogochukwu"	2016	3.27	ACT	Yes	Yes	Yes	101147 | 2016	Graduated (2-Year)	No
-101097	"Aquino Cruz, Guadalupe"	2016	3.32	ACT	Yes	No	No	101097 | 2016	No Longer Enrolled	No
-101111	"Arce, Jason"	2016	3.32	ACT	Yes	No	No	101111 | 2016	No Longer Enrolled	No
-101100	"Ayala-Arenas, Guisell"	2016	3.52	ACT	Yes	Yes	Yes	101100 | 2016	No Longer Enrolled	Yes
-101157	"Barrera, Stephanie"	2016	3.57	ACT	Yes	Yes	Yes	101157 | 2016	Credential Received	No
-101158	"Becerra, Stephanie"	2016	3.49	ACT	Yes	No	No	101158 | 2016	No Longer Enrolled	No
-101146	"Bozicevich, Noah Michael"	2016	2.95	ACT	No	Yes	No	101146 | 2016	No Longer Enrolled	No
-101123	"Campos Molina, Juan de Dios"	2016	3.54	ACT	Yes	Yes	Yes	101123 | 2016	Graduated (4-Year)	No
-101078	"Cantos-Figueroa, Cassandra Melissa"	2016	3.45	ACT	Yes	Yes	Yes	101078 | 2016	No Longer Enrolled	No
-101159	"Castellon-Silverio, Stephanie"	2016	3.34	ACT	Yes	Yes	Yes	101159 | 2016	No Longer Enrolled	No
-101163	"Castro-Herrera, Uriel"	2016	3.27	ACT	Yes	No	No	101163 | 2016	No Longer Enrolled	No
-101109	"Clemente Valdepena, Jannely"	2016	3.23	ACT	Yes	No	No	101109 | 2016	Graduated (2-Year)	No
-101294	"Crespo-Arreola, Joshua"	2016	3.74	ACT	Yes	Yes	Yes	101294 | 2016	No Longer Enrolled	Yes
-101302	"Cuate-Ramirez, Jeimmy"	2016	3.34	ACT	Yes	Yes	Yes	101302 | 2016	No Longer Enrolled	No
-101127	"Cuzco, Kathy"	2016	3.61	ACT	Yes	Yes	Yes	101127 | 2016	Graduated (4-Year)	Yes
-101295	"Cuzco-Paucar, Jonathan"	2016	3.23	ACT	Yes	No	No	101295 | 2016	Graduated (4-Year)	No
-101135	"De La Luz, Luz Maria"	2016	2.85	ACT	No	Yes	No	101135 | 2016	No Longer Enrolled	No
-101176	"De los Santos Monroy, Luz de Abril"	2016	2.86	ACT	No	No	No	101176 | 2016	Never Enrolled	No
-101113	"Delgado, Jennifer Marilu"	2016	3.46	ACT	Yes	No	No	101113 | 2016	Graduated (4-Year)	No
-101155	"Galvan Castro, Sharidiana"	2016	3.26	ACT	Yes	No	No	101155 | 2016	No Longer Enrolled	No
-101130	"Gavilan-Cuate, Krystal Banelly"	2016	3.34	ACT	Yes	No	No	101130 | 2016	Graduated (4-Year)	No
-101088	"Gavilan-Tepozteco, Diego Jesus"	2016	3.14	ACT	Yes	No	No	101088 | 2016	Graduated (4-Year)	No
-101165	"Gomez, Valerie"	2016	3.22	ACT	Yes	No	No	101165 | 2016	Graduated (2-Year)	No
-101139	"Guaman Carchi, Mark Jefferson"	2016	2.91	ACT	No	No	No	101139 | 2016	No Longer Enrolled	No
-101092	"Guiracocha, Elizabeth Johanna"	2016	3.26	ACT	Yes	Yes	Yes	101092 | 2016	Credential Received	No
-101066	"Hernandez-Hernandez, Alma Edith"	2016	3.12	ACT	Yes	No	No	101066 | 2016	No Longer Enrolled	No
-101081	"Hopson, Cierra Da'Nae"	2016	3.35	ACT	Yes	No	No	101081 | 2016	No Longer Enrolled	No
-101112	"Jenkins, Jenae' Rhea"	2016	3.24	ACT	Yes	Yes	Yes	101112 | 2016	No Longer Enrolled	No
-101090	"Lobley, Drakarr"	2016	3.24	ACT	Yes	No	No	101090 | 2016	No Longer Enrolled	No
-101144	"Loeza-Rodriguez, Monserrat"	2016	3.49	ACT	Yes	Yes	Yes	101144 | 2016	Graduated (4-Year)	No
-101136	"Lopez-Ciriaco, Marcos"	2016	3.24	ACT	Yes	No	No	101136 | 2016	Credential Received	No
-101297	"Luciano Santamaria, Amy"	2016	3.46	ACT	Yes	No	No	101297 | 2016	No Longer Enrolled	Yes
-101071	"Luna Sanchez, Ariel"	2016	3.21	ACT	Yes	No	No	101071 | 2016	Credential Received	No
-101131	"Macario-Alatoma, Lesley"	2016	3.53	ACT	Yes	Yes	Yes	101131 | 2016	Graduated (4-Year)	No
-101128	"Machuca, Kathy"	2016	3.11	ACT	Yes	No	No	101128 | 2016	Graduated (2-Year)	No
-101075	"Marcial Rojas, Brisseida"	2016	3.21	ACT	Yes	No	No	101075 | 2016	Credential Received	No
-101069	"Massaquoi, Angel Rose"	2016	3.4	ACT	Yes	No	No	101069 | 2016	Graduated (4-Year)	No
-101145	"McCullough, Myrianna"	2016	3.05	ACT	Yes	Yes	Yes	101145 | 2016	No Longer Enrolled	No
-101080	"Mejia Rodriguez, Christian A"	2016	3.17	ACT	Yes	Yes	Yes	101080 | 2016	No Longer Enrolled	No
-101122	"Navarro-Cano, Joselin Guadalupe"	2016	3.57	ACT	Yes	Yes	Yes	101122 | 2016	Graduated (4-Year)	Yes
-101070	"Nunez-Marquez, Ari"	2016	3.62	ACT	Yes	Yes	Yes	101070 | 2016	Graduated (4-Year)	Yes
-101169	"Nunez-Marquez, Yadari"	2016	3.69	ACT	Yes	No	No	101169 | 2016	Graduated (4-Year)	Yes
-101140	"Ortega-Ponce, Mark"	2016	3.06	ACT	Yes	Yes	Yes	101140 | 2016	Graduated (4-Year)	Yes
-101179	"Paucar, Angel"	2016	3.24	ACT	Yes	Yes	Yes	101179 | 2016	Never Enrolled	No
-101160	"Perez-Ramirez, Stephanie Rachel"	2016	3.2	ACT	Yes	Yes	Yes	101160 | 2016	No Longer Enrolled	Yes
-101150	"Piette, Paloma Christine"	2016	3.38	ACT	Yes	Yes	Yes	101150 | 2016	No Longer Enrolled	No
-101298	"Pliego Vergara, Leydi Laura"	2016	3.73	ACT	Yes	Yes	Yes	101298 | 2016	Graduated (4-Year)	No
-101299	"Quito, Wendy"	2016	3.34	ACT	Yes	Yes	Yes	101299 | 2016	Graduated (4-Year)	No
-101164	"Ramirez Ramales, Uriel"	2016	3.19	ACT	Yes	No	No	101164 | 2016	Graduated (4-Year)	No
-101390	"Ramon Narvaez, Carmen Zujayla"	2016	3.31	ACT	Yes	No	No	101390 | 2016	No Longer Enrolled	No
-101114	"Rios, Jessica Yunue"	2016	3.37	ACT	Yes	No	No	101114 | 2016	Never Enrolled	No
-101143	"Robles Loyola, Michelle Carolina"	2016	3.33	ACT	Yes	No	No	101143 | 2016	No Longer Enrolled	No
-101098	"Rubio Robles, Guadalupe"	2016	3.5	ACT	Yes	Yes	Yes	101098 | 2016	No Longer Enrolled	No
-101084	"Sacta Espinoza, David Anthony"	2016	3.07	ACT	Yes	Yes	Yes	101084 | 2016	No Longer Enrolled	No
-101138	"Sanchez, Maritza Alexandra"	2016	3.42	ACT	Yes	No	No	101138 | 2016	No Longer Enrolled	No
-101096	"Sanchez-Chavira, Griselda Josefina"	2016	3.5	ACT	Yes	No	No	101096 | 2016	Graduated (4-Year)	No
-101085	"Serrato, David"	2016	3.14	ACT	Yes	Yes	Yes	101085 | 2016	No Longer Enrolled	No
-101086	"Soriano-Barreto, David"	2016	3.16	ACT	Yes	No	No	101086 | 2016	Never Enrolled	No
-101074	"Sotelo Balderas, Brayan"	2016	3.42	ACT	Yes	No	No	101074 | 2016	Graduated (4-Year)	No
-101171	"Thigpen, Zaria Calisa Knowledge"	2016	3.09	ACT	Yes	No	No	101171 | 2016	Never Enrolled	No
-101095	"Torres-Valle, Graciela"	2016	3.53	ACT	Yes	Yes	Yes	101095 | 2016	No Longer Enrolled	No
-101110	"Vasquez Calero, Jasmin"	2016	3.46	ACT	Yes	No	No	101110 | 2016	Graduated (2-Year)	No
-101067	"Velasquez Moncada, Ana Gabriela"	2016	3.31	ACT	Yes	Yes	Yes	101067 | 2016	No Longer Enrolled	No
-101170	"Villalba-Cruz, Yesenia"	2016	3.05	ACT	Yes	Yes	Yes	101170 | 2016	No Longer Enrolled	No
-101118	"Violante-Francisco, Jonathan"	2016	3.25	ACT	Yes	Yes	Yes	101118 | 2016	Never Enrolled	No
-101119	"Weston, Jonathan Jay"	2016	3.48	ACT	Yes	Yes	Yes	101119 | 2016	No Longer Enrolled	Yes
-101103	"Wolf, Henry Lawrence"	2016	3.26	ACT	Yes	No	No	101103 | 2016	Graduated (4-Year)	Yes
-101073	"Woods Reyes, Betty"	2016	3.41	ACT	Yes	No	No	101073 | 2016	Graduated (4-Year)	No
-101093	"Yupangui-Balboa, Georg"	2016	3.12	ACT	Yes	No	No	101093 | 2016	No Longer Enrolled	No
-101106	"Zanudo-Dominguez, Ivan"	2016	3.05	ACT	Yes	Yes	Yes	101106 | 2016	No Longer Enrolled	No
-101133	"Zavala-Gallegos, Linda"	2016	2.85	ACT	No	Yes	No	101133 | 2016	No Longer Enrolled	No
-101180	"Abarca MacPhee, Isabel Lilia"	2017	3.52	ACT	Yes	Yes	Yes	101180 | 2017	Graduated (4-Year)	No
-101181	"Agunbiade, Akin"	2017	3.06	ACT	Yes	Yes	Yes	101181 | 2017	No Longer Enrolled	Yes
-101183	"Alvillar Barreno, Bertin"	2017	2.99	ACT	No	No	No	101183 | 2017	No Longer Enrolled	No
-101184	"Antonio Delgado, Leidy Anel"	2017	3.63	ACT	Yes	Yes	Yes	101184 | 2017	No Longer Enrolled	No
-101185	"Arce Rosas, Luis Enrique"	2017	3.3	ACT	Yes	Yes	Yes	101185 | 2017	No Longer Enrolled	No
-101309	"Arevalo Martinez, Viridiana"	2017	3.82	ACT	Yes	Yes	Yes	101309 | 2017	Graduated (4-Year)	No
-101187	"Armijo Cruz, Chantell"	2017	3.57	ACT	Yes	Yes	Yes	101187 | 2017	Graduated (4-Year)	No
-101190	"Buñay, Christopher Jahmar"	2017	3.59	ACT	Yes	No	No	101190 | 2017	No Longer Enrolled	Yes
-101191	"Bustamante Chicaiza, Mitzi Idania"	2017	3.56	ACT	Yes	No	No	101191 | 2017	Graduated (4-Year)	No
-101192	"Cabrera, Luis Eduardo"	2017	3.06	ACT	Yes	Yes	Yes	101192 | 2017	Graduated (4-Year)	No
-101193	"Camano Enriquez, Vivian"	2017	3.54	ACT	Yes	Yes	Yes	101193 | 2017	Graduated (4-Year)	No
-101194	"Camara, Isha"	2017	3.29	ACT	Yes	Yes	Yes	101194 | 2017	Graduated (4-Year)	No
-101315	"Carchi Arias, Chris Jhonnathan"	2017	3.41	ACT	Yes	Yes	Yes	101315 | 2017	No Longer Enrolled	Yes
-101195	"Carpenter, Shaquira Kathleen"	2017	2.91	ACT	No	No	No	101195 | 2017	Graduated (4-Year)	Yes
-101196	"Castaneda Garcia, Gisell"	2017	3.34	ACT	Yes	No	No	101196 | 2017	Graduated (4-Year)	No
-101197	"Castellon Ortega, Carina"	2017	3.43	ACT	Yes	Yes	Yes	101197 | 2017	Graduated (4-Year)	No
-101198	"Chamu, Jessica"	2017	3.12	ACT	Yes	No	No	101198 | 2017	Graduated (2-Year)	No
-101199	"Coney, Marketa"	2017	3.74	ACT	Yes	Yes	Yes	101199 | 2017	No Longer Enrolled	Yes
-101202	"Cruz, Ashley"	2017	3.16	ACT	Yes	Yes	Yes	101202 | 2017	No Longer Enrolled	No
-101203	"Cumbe Paucar, Jimmy"	2017	3.62	ACT	Yes	No	No	101203 | 2017	Graduated (4-Year)	No
-101204	"De Luna Alonzo, Daniela"	2017	3.7	ACT	Yes	Yes	Yes	101204 | 2017	Graduated (4-Year)	Yes
-101205	"Diawara, Ibrahim Khalil"	2017	3.03	ACT	Yes	Yes	Yes	101205 | 2017	No Longer Enrolled	No
-101207	"Duran Sanchez, Natalia"	2017	3.44	ACT	Yes	Yes	Yes	101207 | 2017	Graduated (4-Year)	No
-101209	"Enriquez, Leticia Guadalupe"	2017	3.64	ACT	Yes	No	No	101209 | 2017	No Longer Enrolled	No
-101210	"Escoto-Reynoso, Salvador"	2017	3.6	ACT	Yes	No	No	101210 | 2017	No Longer Enrolled	Yes
-101213	"Galloza Camacho, Jizel"	2017	3.41	ACT	Yes	Yes	Yes	101213 | 2017	Graduated (4-Year)	No
-101215	"Garibay Tejeda, Daniela"	2017	3.42	ACT	Yes	No	No	101215 | 2017	Graduated (4-Year)	No
-101216	"Gaspar-Sanchez, Kimberly"	2017	3.5	ACT	Yes	No	No	101216 | 2017	No Longer Enrolled	No
-101344	"Gonzalez Vidal, Naomi"	2017	3.26	ACT	Yes	Yes	Yes	101344 | 2017	No Longer Enrolled	No
-101218	"Gregory, Karlton"	2017	3.21	ACT	Yes	Yes	Yes	101218 | 2017	No Longer Enrolled	No
-101219	"Grossman-Briggs, Arlaina"	2017	3.25	ACT	Yes	Yes	Yes	101219 | 2017	No Longer Enrolled	Yes
-101220	"Guaman, Victor Alejandro"	2017	3.46	ACT	Yes	No	No	101220 | 2017	Graduated (4-Year)	Yes
-101221	"Harrison, Shawnshay Tatyanna"	2017	2.96	ACT	No	Yes	No	101221 | 2017	No Longer Enrolled	No
-101224	"Herrera Ramirez, Giselle"	2017	3.12	ACT	Yes	No	No	101224 | 2017	No Longer Enrolled	No
-101225	"Hubers, Joshua"	2017	3.5	ACT	Yes	No	No	101225 | 2017	No Longer Enrolled	Yes
-101226	"Jara, Jason Steven"	2017	3.09	ACT	Yes	Yes	Yes	101226 | 2017	Graduated (4-Year)	No
-101227	"Jimenez Garcia, Carlos Alberto"	2017	3.09	ACT	Yes	No	No	101227 | 2017	No Longer Enrolled	No
-101229	"Lazo, Chris James"	2017	3.61	ACT	Yes	Yes	Yes	101229 | 2017	Graduated (4-Year)	Yes
-101230	"Lazo, Laura Evelin"	2017	2.98	ACT	No	Yes	No	101230 | 2017	Never Enrolled	No
-101232	"Lemus-Diaz, Angel"	2017	3	ACT	Yes	No	No	101232 | 2017	No Longer Enrolled	No
-101233	"Leon-Morales, Jesus"	2017	3.15	ACT	Yes	No	No	101233 | 2017	Graduated (4-Year)	No
-101234	"Llapa Guaman, Jason"	2017	3.44	ACT	Yes	No	No	101234 | 2017	Graduated (4-Year)	No
-101235	"Llapa-Perez, Daisy"	2017	3.29	ACT	Yes	Yes	Yes	101235 | 2017	Graduated (4-Year)	No
-101236	"Llapa-Sinchi, Pilar Vanessa"	2017	3.19	ACT	Yes	No	No	101236 | 2017	No Longer Enrolled	No
-101242	"Lopez Martinez, Karla Yareth"	2017	3.53	ACT	Yes	Yes	Yes	101242 | 2017	No Longer Enrolled	No
-101238	"Lopez, Heriberto"	2017	3.52	ACT	Yes	No	No	101238 | 2017	Graduated (4-Year)	No
-101240	"Machuca Lopez, Natalie"	2017	3.26	ACT	Yes	Yes	Yes	101240 | 2017	Graduated (2-Year)	No
-101241	"Marcatoma Guachichulca, Karen Alexandra"	2017	3.1	ACT	Yes	Yes	Yes	101241 | 2017	Graduated (2-Year)	No
-101243	"Mattson, Dylan Alexander"	2017	3.32	ACT	Yes	Yes	Yes	101243 | 2017	Graduated (2-Year)	No
-101244	"Medina Ortiz, Edgar"	2017	3.83	ACT	Yes	No	No	101244 | 2017	Graduated (4-Year)	Yes
-101245	"Mendoza Vielma, Jennifer"	2017	3.59	ACT	Yes	Yes	Yes	101245 | 2017	Graduated (4-Year)	No
-101248	"Montiel-Sanchez, Jocelyn"	2017	3.34	ACT	Yes	No	No	101248 | 2017	Graduated (4-Year)	No
-101250	"Nwaokorie, Lawrence Chinemerem"	2017	3.13	ACT	Yes	No	No	101250 | 2017	No Longer Enrolled	No
-101251	"O'Connor, Trelawny"	2017	3.44	ACT	Yes	No	No	101251 | 2017	No Longer Enrolled	No
-101253	"Palacios-Peña, Jesus Manuel"	2017	3.37	ACT	Yes	Yes	Yes	101253 | 2017	Graduated (2-Year)	No
-101254	"Palchizaca Angamarca, Jesus"	2017	3.47	ACT	Yes	No	No	101254 | 2017	No Longer Enrolled	No
-101257	"Perez Pavon, Roxana"	2017	3.56	ACT	Yes	Yes	Yes	101257 | 2017	Graduated (4-Year)	No
-101256	"Perez, Natalie"	2017	3.23	ACT	Yes	Yes	Yes	101256 | 2017	Graduated (2-Year)	No
-101259	"Pineda Ruiz, Arianna Stefhania"	2017	3.22	ACT	Yes	Yes	Yes	101259 | 2017	No Longer Enrolled	No
-101381	"Pliego Vergara, Karina"	2017	3.75	ACT	Yes	No	No	101381 | 2017	Graduated (4-Year)	No
-101261	"Quizhpi, Denise"	2017	3.67	ACT	Yes	No	No	101261 | 2017	Graduated (4-Year)	Yes
-101263	"Ramirez Gavilan, Vanessa Guadalupe"	2017	3.5	ACT	Yes	No	No	101263 | 2017	Graduated (4-Year)	No
-101262	"Ramirez, Maiya"	2017	3.35	ACT	Yes	Yes	Yes	101262 | 2017	Graduated (4-Year)	No
-101266	"Recendiz, Michelle"	2017	3.25	ACT	Yes	Yes	Yes	101266 | 2017	No Longer Enrolled	No
-101268	"Reyes Ponce, Dannia"	2017	3.57	ACT	Yes	Yes	Yes	101268 | 2017	No Longer Enrolled	No
-101267	"Reyes, Ivet"	2017	3.91	ACT	Yes	Yes	Yes	101267 | 2017	Graduated (4-Year)	Yes
-101269	"Rocha-Coronado, Itzayan"	2017	3.7	ACT	Yes	Yes	Yes	101269 | 2017	Graduated (4-Year)	Yes
-101270	"Rojas Martinez, Diana"	2017	3.42	ACT	Yes	No	No	101270 | 2017	No Longer Enrolled	No
-101272	"Rosario-Duran, Yeneira"	2017	3.02	ACT	Yes	Yes	Yes	101272 | 2017	No Longer Enrolled	No
-101273	"Safawo, Bethel Turi"	2017	2.96	ACT	No	No	No	101273 | 2017	No Longer Enrolled	No
-101274	"Salas Rivera, Noemi"	2017	3.71	ACT	Yes	Yes	Yes	101274 | 2017	Graduated (4-Year)	No
-101275	"Sanchez, Marianne Guadalupe"	2017	3.05	ACT	Yes	Yes	Yes	101275 | 2017	Graduated (2-Year)	No
-101277	"Sims, Jericho Eduard"	2017	3.08	ACT	Yes	No	No	101277 | 2017	No Longer Enrolled	No
-101278	"Smith, Nicole"	2017	3.11	ACT	Yes	Yes	Yes	101278 | 2017	No Longer Enrolled	Yes
-101279	"Sol Lopez, Jocelyn"	2017	3.68	ACT	Yes	No	No	101279 | 2017	Graduated (4-Year)	No
-101280	"Tigre Lazo, Jennifer Natalie"	2017	3.51	ACT	Yes	Yes	Yes	101280 | 2017	No Longer Enrolled	Yes
-101281	"Tornel Mendoza, Carrie Michele"	2017	3.35	ACT	Yes	No	No	101281 | 2017	No Longer Enrolled	No
-101282	"Trejo Perez, Mark Anthony"	2017	3.23	ACT	Yes	Yes	Yes	101282 | 2017	Graduated (4-Year)	No
-101283	"Vazquez Giron, Erika"	2017	3.25	ACT	Yes	Yes	Yes	101283 | 2017	Never Enrolled	No
-101284	"Velez Alvarado, Gabriela Michelle"	2017	3.54	ACT	Yes	Yes	Yes	101284 | 2017	Graduated (4-Year)	No
-101286	"Vergara, Shane"	2017	3.28	ACT	Yes	Yes	Yes	101286 | 2017	No Longer Enrolled	No
-101287	"Vinueza, Marcos Alexander"	2017	3.5	ACT	Yes	Yes	Yes	101287 | 2017	No Longer Enrolled	No
-101288	"Walker, Ajaa"	2017	3.49	ACT	Yes	Yes	Yes	101288 | 2017	Graduated (4-Year)	No
-101291	"Zhanay, Sara Elizabeth"	2017	3.64	ACT	Yes	No	No	101291 | 2017	No Longer Enrolled	No
-101293	"Zuniga Quintero, Fernando"	2017	3.03	ACT	Yes	Yes	Yes	101293 | 2017	No Longer Enrolled	No
-101303	"Agudo Carpio, Michael"	2018	3.28	ACT	Yes	No	No	101303 | 2018	Graduated (4-Year)	No
-101304	"Aguilar Ortega, Fernando"	2018	3.83	ACT	Yes	No	No	101304 | 2018	"Graduated (4-Year), Continuing"	No
-101305	"Aguilar-Lemus, Amy Aurora"	2018	3.19	ACT	Yes	No	No	101305 | 2018	No Longer Enrolled	No
-101307	"Alvarado-Jacinto, Juan"	2018	3.03	ACT	Yes	Yes	Yes	101307 | 2018	Graduated (2-Year)	No
-101308	"Anzures Jimenez, Jose Luis"	2018	3.06	ACT	Yes	Yes	Yes	101308 | 2018	Never Enrolled	No
-101312	"Bracamontes, Ashley Kimberly"	2018	3.64	ACT	Yes	Yes	Yes	101312 | 2018	Graduated (4-Year)	Yes
-101313	"Brennan, Blake"	2018	3.24	ACT	Yes	No	No	101313 | 2018	No Longer Enrolled	Yes
-101314	"Burgess, Tiffany Renee"	2018	3.61	ACT	Yes	No	No	101314 | 2018	Graduated (4-Year)	No
-101317	"Castellanos, Jessica Marcella"	2018	3.29	ACT	Yes	No	No	101317 | 2018	Graduated (2-Year)	No
-101318	"Chico-Mayorga, Marvin Brandon"	2018	3.19	ACT	Yes	No	No	101318 | 2018	No Longer Enrolled	No
-101319	"Chino, Mariana Sheccid"	2018	3.1	ACT	Yes	Yes	Yes	101319 | 2018	No Longer Enrolled	No
-101320	"Cisneros Vasquez, Ivan"	2018	2.88	ACT	No	No	No	101320 | 2018	No Longer Enrolled	No
-101321	"Clemente Jimenez, Daisy"	2018	3.51	ACT	Yes	Yes	Yes	101321 | 2018	Graduated (4-Year)	No
-101420	"Coleman, Jehmu Tasatha"	2018	3.38	ACT	Yes	Yes	Yes	101420 | 2018	Currently Enrolled (4-Year)	No
-101322	"Cortes Jimenez, Eric Lionel"	2018	3.33	ACT	Yes	Yes	Yes	101322 | 2018	Currently Enrolled (4-Year)	Yes
-101323	"Cortez Coyote, Andrea"	2018	3.69	ACT	Yes	No	No	101323 | 2018	"Graduated (2-Year), Continuing"	No
-101326	"Cruz Garcia, Alondra"	2018	3.67	ACT	Yes	No	No	101326 | 2018	Graduated (4-Year)	Yes
-101325	"Cruz, Jonathan"	2018	2.78	ACT	No	No	No	101325 | 2018	Never Enrolled	No
-101327	"Cruz-Tapia, Jackeline"	2018	3.71	ACT	Yes	No	No	101327 | 2018	Graduated (4-Year)	No
-101328	"Diaz Estevan, Evelyn"	2018	3.4	ACT	Yes	No	No	101328 | 2018	Graduated (2-Year)	No
-101329	"Dobies, Jonathan Alexander"	2018	2.86	ACT	No	No	No	101329 | 2018	No Longer Enrolled	No
-101330	"Doyle, Franklin Curtis"	2018	2.68	ACT	No	No	No	101330 | 2018	No Longer Enrolled	No
-101331	"Duran, Ameliona Marisol"	2018	3.01	ACT	Yes	Yes	Yes	101331 | 2018	No Longer Enrolled	No
-101332	"Duran-Mejia Jr, Juan Alberto"	2018	3.07	ACT	Yes	No	No	101332 | 2018	"Graduated (2-Year), Continuing"	No
-101333	"Enriquez-Garcia, Jefferson"	2018	3.41	ACT	Yes	No	No	101333 | 2018	Graduated (4-Year)	Yes
-101334	"Estrada-Martinez, Maribel"	2018	3.25	ACT	Yes	Yes	Yes	101334 | 2018	Never Enrolled	No
-101335	"Estrada-Vivanco, Jaqueline"	2018	3.15	ACT	Yes	No	No	101335 | 2018	Graduated (2-Year)	No
-101337	"Fernandez-Lojano, Diana L."	2018	3.42	ACT	Yes	Yes	Yes	101337 | 2018	Graduated (4-Year)	No
-101421	"Galindo-Dominguez, Decerem Missouri"	2018	3.73	ACT	Yes	No	No	101421 | 2018	Credential Received	No
-101339	"Galvan Castro, Jose Emilio"	2018	3.28	ACT	Yes	No	No	101339 | 2018	"Graduated (4-Year), Continuing"	No
-101340	"Garduno Lopez, Litzy Yuliette"	2018	3.1	ACT	Yes	No	No	101340 | 2018	Currently Enrolled (4-Year)	No
-101342	"Gomez Mendez, Brianna Lizbeth"	2018	3.34	ACT	Yes	No	No	101342 | 2018	No Longer Enrolled	No
-101341	"Gomez, Joel Eduardo Gutierrez"	2018	3.08	ACT	Yes	Yes	Yes	101341 | 2018	No Longer Enrolled	No
-101343	"Gonzaga Cruz, Juan Daniel"	2018	3.31	ACT	Yes	No	No	101343 | 2018	No Longer Enrolled	No
-101346	"Gutierrez-Alcantara, Ricardo"	2018	3.69	ACT	Yes	No	No	101346 | 2018	"Graduated (2-Year), Continuing"	Yes
-101349	"Inga, Franklin A"	2018	2.75	ACT	No	No	No	101349 | 2018	No Longer Enrolled	No
-101350	"Jara Quito, Alexander Eduardo"	2018	3.16	ACT	Yes	No	No	101350 | 2018	Graduated (4-Year)	No
-101351	"Juarez Fuentes, Jacquelin"	2018	3.3	ACT	Yes	No	No	101351 | 2018	Graduated (4-Year)	No
-101353	"Koffa, Keyanu"	2018	2.95	ACT	No	Yes	No	101353 | 2018	No Longer Enrolled	No
-101354	"Lara Coria, Elia"	2018	3.08	ACT	Yes	Yes	Yes	101354 | 2018	Graduated (2-Year)	No
-101355	"Lazo Peñafiel, David"	2018	3.3	ACT	Yes	No	No	101355 | 2018	No Longer Enrolled	No
-101357	"Lepez, Adolfo"	2018	3.61	ACT	Yes	Yes	Yes	101357 | 2018	Graduated (4-Year)	No
-101358	"Linares Cedillo, Jennifer"	2018	3.31	ACT	Yes	No	No	101358 | 2018	Graduated (4-Year)	No
-101359	"Llivichuzca-Villa, Erika Pamela"	2018	3.48	ACT	Yes	Yes	Yes	101359 | 2018	Never Enrolled	Yes
-101361	"Macario Alatoma, Jose Alberto"	2018	3.59	ACT	Yes	No	No	101361 | 2018	No Longer Enrolled	No
-101362	"Macario Barrera, Brian"	2018	3.02	ACT	Yes	Yes	Yes	101362 | 2018	No Longer Enrolled	No
-101363	"Marcin Sixtos, Melanie"	2018	2.84	ACT	No	No	No	101363 | 2018	No Longer Enrolled	No
-101364	"Marin Rojas, Henry"	2018	3.54	ACT	Yes	Yes	Yes	101364 | 2018	Graduated (4-Year)	No
-101368	"Mejia, Anthony Raphael"	2018	3.05	ACT	Yes	Yes	Yes	101368 | 2018	No Longer Enrolled	No
-101369	"Mendoza, Jakelin"	2018	3.08	ACT	Yes	Yes	Yes	101369 | 2018	No Longer Enrolled	No
-101372	"Moreno, Fernanda Jaqueline"	2018	3.55	ACT	Yes	No	No	101372 | 2018	Graduated (4-Year)	No
-101378	"Pavon, Sophia Vanessa"	2018	3.31	ACT	Yes	Yes	Yes	101378 | 2018	No Longer Enrolled	No
-101380	"Perez-Ponce, Melisa"	2018	3.46	ACT	Yes	No	No	101380 | 2018	Graduated (2-Year)	No
-101382	"Polanco Munoz, Juan Jose"	2018	2.9	ACT	No	Yes	No	101382 | 2018	No Longer Enrolled	No
-101383	"Ponce Ponce, Santiago"	2018	2.75	ACT	No	Yes	No	101383 | 2018	Never Enrolled	No
-101384	"Popoca Palmas, Jose Manuel"	2018	3.28	ACT	Yes	No	No	101384 | 2018	Currently Enrolled (4-Year)	No
-101385	"Quito, Cristhy"	2018	3.74	ACT	Yes	No	No	101385 | 2018	"Graduated (4-Year), Continuing"	No
-101386	"Quito-Jimbo, Kimberly Lily"	2018	3.31	ACT	Yes	No	No	101386 | 2018	Credential Received	No
-101387	"Ragoonanan, Sanjay"	2018	3.17	ACT	Yes	Yes	Yes	101387 | 2018	Graduated (4-Year)	No
-101388	"Ramirez-Alvarez, Ricardo"	2018	3.06	ACT	Yes	Yes	Yes	101388 | 2018	No Longer Enrolled	No
-101389	"Ramirez-Castor, Luciano"	2018	3.25	ACT	Yes	Yes	Yes	101389 | 2018	No Longer Enrolled	No
-101393	"Robles Carpio, Maria Gabriela"	2018	3.53	ACT	Yes	Yes	Yes	101393 | 2018	No Longer Enrolled	No
-101394	"Rodriguez, Susie"	2018	3.52	ACT	Yes	Yes	Yes	101394 | 2018	Currently Enrolled (4-Year)	No
-101395	"Roldan-Cazales, Jennifer"	2018	3.22	ACT	Yes	No	No	101395 | 2018	Graduated (4-Year)	No
-101397	"Sanchez-Juarez, Jorge Angel"	2018	3.22	ACT	Yes	Yes	Yes	101397 | 2018	No Longer Enrolled	Yes
-101398	"Sanchez-Nino, Jennifer Eilleen"	2018	3.45	ACT	Yes	No	No	101398 | 2018	No Longer Enrolled	No
-101418	"Solis, Antonio Miguel"	2018	3.14	ACT	Yes	No	No	101418 | 2018	Graduated (4-Year)	Yes
-101401	"Tajonar-Diaz, Floribeth"	2018	3.1	ACT	Yes	Yes	Yes	101401 | 2018	Never Enrolled	No
-101403	"Tellez Ciriaco, Cruz"	2018	2.82	ACT	No	Yes	No	101403 | 2018	No Longer Enrolled	No
-101419	"Terrones Martinez, Edali"	2018	3.61	ACT	Yes	No	No	101419 | 2018	Graduated (4-Year)	No
-101405	"Terrones Rodriguez, Jennifer"	2018	3.63	ACT	Yes	No	No	101405 | 2018	Graduated (4-Year)	No
-101406	"Tirado Tirado, Diana"	2018	3.24	ACT	Yes	Yes	Yes	101406 | 2018	Never Enrolled	No
-101423	"Torres-Flores, Wendy"	2018	3.56	ACT	Yes	No	No	101423 | 2018	Graduated (4-Year)	No
-101407	"Valdivieso, Euler"	2018	3.72	ACT	Yes	Yes	Yes	101407 | 2018	"Graduated (4-Year), Continuing"	No
-10004	"Vargas, Leandro"	2018	2.92	ACT	No	No	No	10004 | 2018	No Longer Enrolled	No
-101408	"Vazquez Urzua, Evelyn"	2018	3.85	ACT	Yes	Yes	Yes	101408 | 2018	"Graduated (4-Year), Continuing"	Yes
-101409	"Vergara Arpista, Alejandro"	2018	3.41	ACT	Yes	Yes	Yes	101409 | 2018	No Longer Enrolled	No
-101410	"Vergara Zuniga, Estefany"	2018	3.87	ACT	Yes	Yes	Yes	101410 | 2018	Graduated (4-Year)	No
-101416	"Zhiminaicela, Jennifer"	2018	3.7	ACT	Yes	Yes	Yes	101416 | 2018	Graduated (4-Year)	Yes
-101417	"Zuniga, Marco"	2018	3.05	ACT	Yes	No	No	101417 | 2018	Never Enrolled	No
-101424	"Adan, Ubah"	2019	3.46	ACT	Yes	Yes	Yes	101424 | 2019	Graduated (4-Year)	Yes
-101425	"Agudo, Natalie Victoria"	2019	3.57	ACT	Yes	No	No	101425 | 2019	Graduated (4-Year)	No
-101426	"Aguilar Ortiz, Brenda Berenice"	2019	3.5	ACT	Yes	No	No	101426 | 2019	Currently Enrolled (4-Year)	Yes
-101427	"Aguilar Sandoval, Ramses"	2019	3.19	ACT	Yes	Yes	Yes	101427 | 2019	No Longer Enrolled	No
-10011	"Akpati, Nkechukwu"	2019	3.52	ACT	Yes	No	No	10011 | 2019	Graduated (4-Year)	No
-101428	"Alarcon, Nick Anthony"	2019	3.88	ACT	Yes	Yes	Yes	101428 | 2019	Graduated (4-Year)	Yes
-101429	"Alcantara Zanudo Jr, Aaron"	2019	3.07	ACT	Yes	No	No	101429 | 2019	No Longer Enrolled	No
-101430	"Amaro, Joannie Sarahi"	2019	3.81	ACT	Yes	No	No	101430 | 2019	"Graduated (4-Year), Continuing"	Yes
-101431	"Andrade Rodriguez, Nayely"	2019	3.01	ACT	Yes	Yes	Yes	101431 | 2019	Never Enrolled	No
-101432	"Antonio Delgado, Sheyla"	2019	3.25	ACT	Yes	No	No	101432 | 2019	No Longer Enrolled	No
-101433	"Anzures-Catalan, Charly"	2019	3.51	ACT	Yes	Yes	Yes	101433 | 2019	No Longer Enrolled	No
-101434	"Arce Carmona, Henry"	2019	2.88	ACT	No	No	No	101434 | 2019	Never Enrolled	No
-101435	"Arevalo Martinez, Gissell"	2019	3.82	ACT	Yes	Yes	Yes	101435 | 2019	Graduated (4-Year)	No
-101437	"Ariza Diaz, Alexander"	2019	3.23	ACT	Yes	No	No	101437 | 2019	No Longer Enrolled	No
-101438	"Avalos, Alexander"	2019	3.64	ACT	Yes	No	No	101438 | 2019	Graduated (4-Year)	No
-10005	"Barzallo-Alvares, Katherin"	2019	3.41	ACT	Yes	Yes	Yes	10005 | 2019	No Longer Enrolled	No
-101439	"Bellow, Ayodele"	2019	3.42	ACT	Yes	Yes	Yes	101439 | 2019	No Longer Enrolled	No
-101441	"Benitez Ortiz, Litzy"	2019	3.4	ACT	Yes	Yes	Yes	101441 | 2019	Graduated (4-Year)	No
-101440	"Benitez, Hillary"	2019	3.76	ACT	Yes	No	No	101440 | 2019	No Longer Enrolled	Yes
-101442	"Bonilla Martinez, Jose"	2019	3.37	ACT	Yes	No	No	101442 | 2019	No Longer Enrolled	No
-101443	"Bravo Quevedo, Jocelyn"	2019	3.6	ACT	Yes	Yes	Yes	101443 | 2019	Graduated (4-Year)	No
-101444	"Burns, Zakiyah"	2019	3.07	ACT	Yes	No	No	101444 | 2019	No Longer Enrolled	No
-101445	"Bustamante Chicaiza, Chasidy"	2019	3.96	ACT	Yes	No	No	101445 | 2019	Graduated (4-Year)	Yes
-101446	"Cajamarca Zhinin, Jessica"	2019	3.32	ACT	Yes	Yes	Yes	101446 | 2019	No Longer Enrolled	No
-101447	"Carrillo, Marco"	2019	3.13	ACT	Yes	No	No	101447 | 2019	No Longer Enrolled	No
-101448	"Castaneda Gomez, Alexis"	2019	2.97	ACT	No	No	No	101448 | 2019	No Longer Enrolled	No
-101449	"Castillo Lopez, Daniel"	2019	3.27	ACT	Yes	No	No	101449 | 2019	Currently Enrolled (2-Year)	No
-101450	"Castro-Cruz, Jonatan"	2019	3.47	ACT	Yes	Yes	Yes	101450 | 2019	No Longer Enrolled	No
-101453	"Chavez Salazar, Emilyn"	2019	3.15	ACT	Yes	Yes	Yes	101453 | 2019	Graduated (2-Year)	No
-101452	"Chavez, Fernando"	2019	2.94	ACT	No	Yes	No	101452 | 2019	Never Enrolled	No
-101454	"Constantino Lopez, Alexis"	2019	3.18	ACT	Yes	Yes	Yes	101454 | 2019	"Graduated (2-Year), Continuing"	No
-101455	"Contreras, Consuelo"	2019	3.69	ACT	Yes	No	No	101455 | 2019	No Longer Enrolled	Yes
-101457	"Cortes, Lorena"	2019	3.85	ACT	Yes	Yes	Yes	101457 | 2019	Graduated (4-Year)	No
-101458	"Cortez Miralrio, Josue"	2019	3.43	ACT	Yes	Yes	Yes	101458 | 2019	Graduated (2-Year)	No
-101459	"Cruz-Estrada, Judith"	2019	3.18	ACT	Yes	Yes	Yes	101459 | 2019	No Longer Enrolled	No
-101462	"Davis Jr., Kevin"	2019	3.31	ACT	Yes	Yes	Yes	101462 | 2019	No Longer Enrolled	No
-101461	"Davis, Jazzmine Mariah"	2019	3.52	ACT	Yes	No	No	101461 | 2019	No Longer Enrolled	No
-101464	"De Luna Alonzo, Mayela"	2019	3.83	ACT	Yes	Yes	Yes	101464 | 2019	Graduated (4-Year)	Yes
-101465	"Diggs, Marcus"	2019	3.2	ACT	Yes	No	No	101465 | 2019	No Longer Enrolled	No
-101467	"Drain, Karrionna"	2019	3.7	ACT	Yes	Yes	Yes	101467 | 2019	Graduated (4-Year)	No
-101468	"Espinoza Morales, Maria Guadalupe"	2019	3.39	ACT	Yes	No	No	101468 | 2019	"Graduated (2-Year), Continuing"	No
-101469	"Fellows, Ashley"	2019	3.64	ACT	Yes	Yes	Yes	101469 | 2019	No Longer Enrolled	No
-101470	"Figueroa Acosta, Emanuel"	2019	3.3	ACT	Yes	No	No	101470 | 2019	Never Enrolled	No
-101471	"Flores Reyes, Alan"	2019	3.24	ACT	Yes	Yes	Yes	101471 | 2019	No Longer Enrolled	Yes
-101472	"Flores-Mendoza, Adali Yamilex"	2019	3.95	ACT	Yes	Yes	Yes	101472 | 2019	Graduated (4-Year)	No
-101473	"Galarza Pliego, Alan Andres"	2019	3.62	ACT	Yes	Yes	Yes	101473 | 2019	"Graduated (4-Year), Continuing"	No
-101475	"Gallegos-Jauregui, Maximiliano"	2019	2.73	ACT	No	No	No	101475 | 2019	Never Enrolled	Yes
-101476	"Garcia, Lily"	2019	3.9	ACT	Yes	Yes	Yes	101476 | 2019	Graduated (4-Year)	No
-101478	"Garibay Tejeda, Leslie"	2019	3.35	ACT	Yes	No	No	101478 | 2019	"Graduated (2-Year), Continuing"	No
-101477	"Garibay, Ernesto"	2019	2.9	ACT	No	No	No	101477 | 2019	No Longer Enrolled	No
-101479	"Garza, Paloma"	2019	3.33	ACT	Yes	No	No	101479 | 2019	Graduated (4-Year)	No
-101480	"Garzon Herrera, Anahi"	2019	3.61	ACT	Yes	Yes	Yes	101480 | 2019	Graduated (4-Year)	No
-101481	"Gaspar-Sanchez, Hillary"	2019	3.95	ACT	Yes	Yes	Yes	101481 | 2019	Graduated (4-Year)	No
-101482	"George, Victory Spencer Trent"	2019	3.26	ACT	Yes	No	No	101482 | 2019	Graduated (4-Year)	Yes
-101484	"Gray, Andrese Ross"	2019	3.52	ACT	Yes	Yes	Yes	101484 | 2019	No Longer Enrolled	Yes
-101485	"Guachichulca, Vanessa Sabrina"	2019	3.76	ACT	Yes	No	No	101485 | 2019	"Graduated (4-Year), Continuing"	No
-101487	"Harrison, Shian Tylisa"	2019	3.27	ACT	Yes	No	No	101487 | 2019	Graduated (2-Year)	Yes
-101490	"Hernandez Hernandez, Lily"	2019	3.56	ACT	Yes	No	No	101490 | 2019	Graduated (4-Year)	No
-101491	"Huerta Hernandez, Nathaly"	2019	3.77	ACT	Yes	Yes	Yes	101491 | 2019	Graduated (4-Year)	No
-101492	"Ibrahim, Yasin"	2019	3.64	ACT	Yes	No	No	101492 | 2019	Never Enrolled	No
-101494	"Jara Quizhpi, Miguel Anjel"	2019	2.97	ACT	No	No	No	101494 | 2019	Never Enrolled	No
-101495	"Jimenez Jimenez, Ivan"	2019	3.85	ACT	Yes	Yes	Yes	101495 | 2019	"Graduated (4-Year), Continuing"	No
-101496	"Johnson, Jalen Vincent"	2019	2.9	ACT	No	No	No	101496 | 2019	Currently Enrolled (2-Year)	No
-10007	"Lema, Heidi"	2019	3.81	ACT	Yes	No	No	10007 | 2019	Graduated (4-Year)	Yes
-101498	"Loja-Guaman, Mirta Marisol"	2019	3.83	ACT	Yes	Yes	Yes	101498 | 2019	No Longer Enrolled	No
-101499	"Lopez Canongo, Alexis Orbelin"	2019	3.54	ACT	Yes	Yes	Yes	101499 | 2019	Graduated (4-Year)	No
-101500	"Lopez, Yitzhak Octavio"	2019	3.5	ACT	Yes	Yes	Yes	101500 | 2019	Currently Enrolled (4-Year)	Yes
-101501	"Luna-Sanchez, Jannel"	2019	3.8	ACT	Yes	Yes	Yes	101501 | 2019	Graduated (4-Year)	No
-101503	"Manjarrez, Citlalli"	2019	3.09	ACT	Yes	No	No	101503 | 2019	No Longer Enrolled	Yes
-101504	"Marin Marquez, Aline"	2019	3.27	ACT	Yes	Yes	Yes	101504 | 2019	Never Enrolled	Yes
-101505	"Martin Jr, Quinton Rashaad"	2019	3.85	ACT	Yes	No	No	101505 | 2019	No Longer Enrolled	No
-101506	"Martinez Castro, Steve"	2019	2.96	ACT	No	Yes	No	101506 | 2019	Credential Received	No
-101507	"Martinez Cruz, Mauricio Isai"	2019	3.58	ACT	Yes	No	No	101507 | 2019	No Longer Enrolled	No
-101497	"Maybell, Lorrice"	2019	3.37	ACT	Yes	Yes	Yes	101497 | 2019	Never Enrolled	Yes
-101509	"Medina, Salvador"	2019	3.29	ACT	Yes	Yes	Yes	101509 | 2019	No Longer Enrolled	No
-101510	"Mendoza-Vielma, Angel"	2019	3.46	ACT	Yes	Yes	Yes	101510 | 2019	No Longer Enrolled	Yes
-101511	"Mimbrera, Karen"	2019	3.95	ACT	Yes	No	No	101511 | 2019	Graduated (4-Year)	No
-101534	"Montaño Saldivar, Zarek Vladimir"	2019	3.25	ACT	Yes	Yes	Yes	101534 | 2019	Never Enrolled	Yes
-101512	"Montano-Silva, Jose Alberto"	2019	3.79	ACT	Yes	Yes	Yes	101512 | 2019	Graduated (4-Year)	No
-101513	"Montes Dominguez, Brisa"	2019	3.35	ACT	Yes	No	No	101513 | 2019	Never Enrolled	Yes
-101515	"Morales Moncada, Ebony Virginia"	2019	3.22	ACT	Yes	No	No	101515 | 2019	"Graduated (2-Year), Continuing"	Yes
-101514	"Morales-Martinez, David"	2019	3.08	ACT	Yes	No	No	101514 | 2019	No Longer Enrolled	No
-10008	"Onofre Espinoza, Angela Abigail"	2019	3.17	ACT	Yes	Yes	Yes	10008 | 2019	Currently Enrolled (2-Year)	No
-101519	"Ortiz Alvarracin, Diana"	2019	3.93	ACT	Yes	Yes	Yes	101519 | 2019	Graduated (4-Year)	No
-101520	"Ortiz Vazquez, Paola"	2019	3.35	ACT	Yes	Yes	Yes	101520 | 2019	No Longer Enrolled	No
-101521	"Palacios Andrade, Jesus"	2019	3.08	ACT	Yes	Yes	Yes	101521 | 2019	Graduated (4-Year)	No
-101522	"Pantoja Silva, Josue"	2019	3.35	ACT	Yes	Yes	Yes	101522 | 2019	No Longer Enrolled	No
-101523	"Paredes-Paredes, Gelsey Tanisha"	2019	3.7	ACT	Yes	No	No	101523 | 2019	Graduated (4-Year)	Yes
-101525	"Patino Sanchez, Juan Angel"	2019	3.49	ACT	Yes	No	No	101525 | 2019	Graduated (4-Year)	No
-101528	"Perez Romero, Henry David"	2019	3.82	ACT	Yes	Yes	Yes	101528 | 2019	Graduated (4-Year)	No
-101527	"Perez Servantes, Jennifer"	2019	2.71	ACT	No	No	No	101527 | 2019	Never Enrolled	No
-101526	"Perez, Ixsanay"	2019	3.81	ACT	Yes	Yes	Yes	101526 | 2019	Currently Enrolled (2-Year)	No
-101529	"Phillips, Kya"	2019	3.38	ACT	Yes	Yes	Yes	101529 | 2019	Graduated (4-Year)	No
-101530	"Pizarro, Erica"	2019	3.74	ACT	Yes	No	No	101530 | 2019	Graduated (4-Year)	No
-101531	"Ponce Chacon, Jaquelyn"	2019	3.62	ACT	Yes	Yes	Yes	101531 | 2019	Graduated (4-Year)	Yes
-101532	"Puma, Lizette"	2019	3.03	ACT	Yes	Yes	Yes	101532 | 2019	Never Enrolled	No
-101533	"Quezada Alvarez, Lisseth Aracely"	2019	3.65	ACT	Yes	Yes	Yes	101533 | 2019	Graduated (4-Year)	No
-101535	"Remache, Anayeli Ivon"	2019	3.84	ACT	Yes	Yes	Yes	101535 | 2019	Graduated (4-Year)	No
-101536	"Reyes Ponce, Dante Sebastian"	2019	2.78	ACT	No	No	No	101536 | 2019	Never Enrolled	No
-101537	"Rios Hernandez, Lizet Alejandra"	2019	3.29	ACT	Yes	Yes	Yes	101537 | 2019	No Longer Enrolled	No
-101538	"Robles Riera, Diego"	2019	3.52	ACT	Yes	Yes	Yes	101538 | 2019	Graduated (4-Year)	No
-101539	"Rojas Zuniga, Yazaret"	2019	3.81	ACT	Yes	Yes	Yes	101539 | 2019	No Longer Enrolled	Yes
-101540	"Romero Gutierrez, Vanessa"	2019	3.6	ACT	Yes	No	No	101540 | 2019	No Longer Enrolled	No
-101541	"Romero Jara, Nathaly Johanna"	2019	3.87	ACT	Yes	No	No	101541 | 2019	Graduated (4-Year)	Yes
-101542	"Roque Tenorio, Aileen Magaly"	2019	3.65	ACT	Yes	Yes	Yes	101542 | 2019	Never Enrolled	No
-101489	"Rosete Hernandez, Rafael"	2019	2.96	ACT	No	Yes	No	101489 | 2019	Never Enrolled	No
-101543	"Saldana-Rosas, Dionicio Alex"	2019	3.68	ACT	Yes	Yes	Yes	101543 | 2019	Graduated (4-Year)	No
-10009	"Saldivar Rosas, Jonathan"	2019	3.65	ACT	Yes	Yes	Yes	10009 | 2019	Graduated (4-Year)	No
-101546	"Sanchez Flores, Jesus Angel"	2019	2.86	ACT	No	Yes	No	101546 | 2019	No Longer Enrolled	No
-101547	"Sanchez Lopez, Jose Cristopher"	2019	3.32	ACT	Yes	No	No	101547 | 2019	No Longer Enrolled	No
-101544	"Sanchez, Emmanuel"	2019	3.58	ACT	Yes	Yes	Yes	101544 | 2019	No Longer Enrolled	No
-101545	"Sanchez, Erika Marilyn"	2019	3.85	ACT	Yes	Yes	Yes	101545 | 2019	No Longer Enrolled	No
-101548	"Sanisaca Torres, Jose Luis"	2019	2.88	ACT	No	No	No	101548 | 2019	No Longer Enrolled	Yes
-101549	"Santellanes-Menchaca, Elvira"	2019	3.41	ACT	Yes	Yes	Yes	101549 | 2019	Never Enrolled	No
-101550	"Sibri-Velez, Genesis"	2019	3.83	ACT	Yes	Yes	Yes	101550 | 2019	Graduated (4-Year)	No
-101553	"Soriano Balderas, Jonathan"	2019	2.88	ACT	No	Yes	No	101553 | 2019	No Longer Enrolled	No
-101554	"Stewart, Varnie Daniel"	2019	2.95	ACT	No	Yes	No	101554 | 2019	No Longer Enrolled	No
-101556	"Tapia Hernandez, Carlos"	2019	2.78	ACT	No	Yes	No	101556 | 2019	Graduated (4-Year)	No
-101557	"Tarrios-Cazales, Fernando"	2019	3.81	ACT	Yes	No	No	101557 | 2019	Graduated (4-Year)	Yes
-10017	"Vanegas, Tania"	2019	3.69	ACT	Yes	No	No	10017 | 2019	Graduated (4-Year)	Yes
-101559	"Varela, Maricela Esperanza"	2019	2.86	ACT	No	Yes	No	101559 | 2019	Never Enrolled	No
-101560	"Vargas-Herrera, Brenda"	2019	3.47	ACT	Yes	No	No	101560 | 2019	Credential Received	No
-101565	"Williams Jr, Jessie"	2019	3	ACT	Yes	No	No	101565 | 2019	No Longer Enrolled	No
-101564	"Williams Jr, John"	2019	3.04	ACT	Yes	Yes	Yes	101564 | 2019	No Longer Enrolled	No
-101566	"Wilson, Laila Renee"	2019	3.32	ACT	Yes	No	No	101566 | 2019	"Graduated (2-Year), Continuing"	No
-101568	"Yaurincela Guaman, Leonardo"	2019	3.79	ACT	Yes	Yes	Yes	101568 | 2019	No Longer Enrolled	No
-101567	"Yaurincela-Guallpa, Kevin"	2019	3.35	ACT	Yes	Yes	Yes	101567 | 2019	No Longer Enrolled	No
-101569	"Zhagui, Brian"	2019	3.04	ACT	Yes	No	No	101569 | 2019	No Longer Enrolled	No
-101570	"Zhanay, Edwin"	2019	3.82	ACT	Yes	No	No	101570 | 2019	Graduated (4-Year)	No
-101572	"Agustin Ambrocio, Jennifer Alexa"	2020	3.67	ACT	Yes	No	No	101572 | 2020	Graduated (4-Year)	No
-101579	"Beltran Galan, Marco Antonio"	2020	2.99	ACT	No	No	No	101579 | 2020	Never Enrolled	No
-101580	"Benavides-Llapa, Bryan Steve"	2020	3.57	ACT	Yes	Yes	Yes	101580 | 2020	No Longer Enrolled	No
-101581	"Benitez Herrera, Abril Guadalupe"	2020	3.34	ACT	Yes	No	No	101581 | 2020	Currently Enrolled (4-Year)	No
-101582	"Blancas-Pedrosa, Ashlyn Yamile"	2020	3.85	ACT	Yes	Yes	Yes	101582 | 2020	Graduated (4-Year)	No
-101583	"Briones, Carlos Raul"	2020	3.41	ACT	Yes	No	No	101583 | 2020	No Longer Enrolled	No
-101585	"Bustamante, Alexia Chantal"	2020	3.39	ACT	Yes	Yes	Yes	101585 | 2020	No Longer Enrolled	Yes
-101586	"Calero Vidal, Alexis"	2020	2.93	ACT	No	Yes	No	101586 | 2020	Never Enrolled	No
-101590	"Cardona-Castillo, Jennifer"	2020	3.58	ACT	Yes	No	No	101590 | 2020	No Longer Enrolled	No
-10013	"Cargill, Jaylen"	2020	3.28	ACT	Yes	Yes	Yes	10013 | 2020	No Longer Enrolled	No
-101591	"Castaneda, Christina Rachael"	2020	3.77	ACT	Yes	Yes	Yes	101591 | 2020	"Graduated (4-Year), Continuing"	No
-101592	"Castellon Silverio, Jennifer"	2020	3.85	ACT	Yes	No	No	101592 | 2020	Never Enrolled	No
-101595	"Chauca Benavides, Melanie Alexandra"	2020	3.73	ACT	Yes	Yes	Yes	101595 | 2020	Graduated (4-Year)	No
-101597	"Chique Moreno, John Vincent"	2020	3.31	ACT	Yes	No	No	101597 | 2020	Credential Received	No
-101598	"Clemente Jimenez, Karen Ivon"	2020	3.78	ACT	Yes	No	No	101598 | 2020	Graduated (4-Year)	No
-101599	"Cortes Jimenez, Michelle"	2020	3.91	ACT	Yes	Yes	Yes	101599 | 2020	"Graduated (4-Year), Continuing"	No
-101600	"Cortez Miralrio, Mauricio"	2020	3.65	ACT	Yes	Yes	Yes	101600 | 2020	Currently Enrolled (2-Year)	No
-101603	"Cruz Sena, Henry Jaret"	2020	2.77	ACT	No	Yes	No	101603 | 2020	Never Enrolled	No
-101601	"Cruz-Estrada, Jonathan"	2020	3.04	ACT	Yes	Yes	Yes	101601 | 2020	Graduated (4-Year)	Yes
-101604	"Curillo Pomaquiza, Jonathan"	2020	3.65	ACT	Yes	No	No	101604 | 2020	Graduated (4-Year)	No
-101605	"Dahir, Baydan"	2020	3.85	ACT	Yes	Yes	Yes	101605 | 2020	Currently Enrolled (4-Year)	Yes
-101606	"Daniel-Garcia, Brian"	2020	3.79	ACT	Yes	Yes	Yes	101606 | 2020	Currently Enrolled (4-Year)	No
-101607	"Diaz Pinto, Ana Karen"	2020	3.49	ACT	Yes	Yes	Yes	101607 | 2020	No Longer Enrolled	No
-101608	"Duran, Isabel Anahi"	2020	3.12	ACT	Yes	No	No	101608 | 2020	"Graduated (2-Year), Continuing"	Yes
-101623	"Ellis-Moore, Anisaa"	2020	3.19	ACT	Yes	No	No	101623 | 2020	No Longer Enrolled	No
-101610	"Fallah, Nyemade Ivana"	2020	3.86	ACT	Yes	No	No	101610 | 2020	"Graduated (4-Year), Continuing"	No
-101611	"Fernandez-Prado, Brian Jesus"	2020	3.69	ACT	Yes	Yes	Yes	101611 | 2020	No Longer Enrolled	No
-101614	"Galarza-Rosas, Juan Alexis"	2020	3.81	ACT	Yes	Yes	Yes	101614 | 2020	No Longer Enrolled	No
-101616	"Garcia Dominguez, Kelly"	2020	3.48	ACT	Yes	No	No	101616 | 2020	Graduated (4-Year)	Yes
-101615	"Garcia, Abigail"	2020	3.73	ACT	Yes	No	No	101615 | 2020	Graduated (4-Year)	No
-101617	"Gaspar-Sanchez, Michaell"	2020	3.85	ACT	Yes	No	No	101617 | 2020	Graduated (4-Year)	No
-101619	"Gonzalez Bernal, Brittany"	2020	3.45	ACT	Yes	Yes	Yes	101619 | 2020	No Longer Enrolled	No
-101620	"Gonzalez Roldan, Sara"	2020	3.8	ACT	Yes	Yes	Yes	101620 | 2020	No Longer Enrolled	No
-101622	"Hailu, Hamartii Tamiru"	2020	3.8	ACT	Yes	Yes	Yes	101622 | 2020	Graduated (4-Year)	No
-101626	"Hernandez Arriola, Ivan"	2020	3.16	ACT	Yes	Yes	Yes	101626 | 2020	"Graduated (4-Year), Continuing"	Yes
-101627	"Hernandez Diaz, Adrien Guissel"	2020	3.53	ACT	Yes	No	No	101627 | 2020	Graduated (4-Year)	Yes
-101628	"Hernandez Hernandez, Diego"	2020	3.5	ACT	Yes	Yes	Yes	101628 | 2020	No Longer Enrolled	No
-101624	"Hernandez Olivera, Jesus Angel"	2020	2.95	ACT	No	Yes	No	101624 | 2020	No Longer Enrolled	No
-101629	"Hernandez Rosales, Yoselin"	2020	3.61	ACT	Yes	No	No	101629 | 2020	No Longer Enrolled	Yes
-101631	"Herrarte Quevedo, Jasmin Esmeralda"	2020	3.65	ACT	Yes	Yes	Yes	101631 | 2020	Graduated (4-Year)	Yes
-101633	"Jara Llapa, John William"	2020	3.65	ACT	Yes	Yes	Yes	101633 | 2020	Graduated (2-Year)	No
-101634	"Jara-Bonete, Erik"	2020	3.49	ACT	Yes	Yes	Yes	101634 | 2020	No Longer Enrolled	Yes
-101635	"Javana Parra, Maria Monica"	2020	3.4	ACT	Yes	Yes	Yes	101635 | 2020	No Longer Enrolled	Yes
-101636	"Jimenez, Janett"	2020	3.92	ACT	Yes	Yes	Yes	101636 | 2020	Graduated (4-Year)	Yes
-101637	"Juarez Cano, Jennifer"	2020	3.6	ACT	Yes	Yes	Yes	101637 | 2020	Graduated (4-Year)	Yes
-101638	"Karason, Nash-Luke Xuhaorui"	2020	2.97	ACT	No	Yes	No	101638 | 2020	No Longer Enrolled	No
-101639	"Knights, Isis"	2020	3.64	ACT	Yes	Yes	Yes	101639 | 2020	Graduated (4-Year)	No
-101644	"Leon Lopez, Angel"	2020	3.08	ACT	Yes	No	No	101644 | 2020	Graduated (2-Year)	Yes
-101646	"Leynes Ibanez, Luis Daniel"	2020	3.45	ACT	Yes	No	No	101646 | 2020	Graduated (2-Year)	Yes
-101647	"Llanas Muniz, Yailen"	2020	3.62	ACT	Yes	No	No	101647 | 2020	Graduated (4-Year)	No
-101649	"Lopez-Pizano, Gitssel Anahi"	2020	3.32	ACT	Yes	Yes	Yes	101649 | 2020	Graduated (2-Year)	No
-101650	"Love, DeCarlos"	2020	3.23	ACT	Yes	Yes	Yes	101650 | 2020	No Longer Enrolled	No
-101651	"Macario Alatoma, Jonathan"	2020	3.56	ACT	Yes	No	No	101651 | 2020	Never Enrolled	No
-101652	"Martinez Gamino, Jedet Guadalupe"	2020	3.72	ACT	Yes	No	No	101652 | 2020	Graduated (4-Year)	No
-101653	"Martinez Hernandez, Alexandra Rocio"	2020	3.63	ACT	Yes	No	No	101653 | 2020	No Longer Enrolled	No
-101654	"Mastin, Briana Mia'H"	2020	3.28	ACT	Yes	Yes	Yes	101654 | 2020	Currently Enrolled (2-Year)	No
-101655	"Mata-Centeno, Bedilia"	2020	3.97	ACT	Yes	Yes	Yes	101655 | 2020	Graduated (4-Year)	No
-101656	"Medel, Maria Fernanda"	2020	3.86	ACT	Yes	No	No	101656 | 2020	Graduated (4-Year)	No
-101657	"Mena Landa, Alondra"	2020	3.22	ACT	Yes	No	No	101657 | 2020	Never Enrolled	No
-101658	"Menchaca-Salgado, Yamilen"	2020	2.93	ACT	No	Yes	No	101658 | 2020	No Longer Enrolled	No
-101662	"Mohamed, Sabrina"	2020	3.42	ACT	Yes	No	No	101662 | 2020	Graduated (4-Year)	No
-101663	"Montiel Martinez, Angel Kevin"	2020	3.42	ACT	Yes	Yes	Yes	101663 | 2020	Currently Enrolled (2-Year)	No
-101664	"Montiel-Zuniga, Dominic"	2020	3.58	ACT	Yes	Yes	Yes	101664 | 2020	No Longer Enrolled	No
-101666	"Morman Jr, DeTerrio"	2020	3.31	ACT	Yes	Yes	Yes	101666 | 2020	No Longer Enrolled	No
-101667	"Munoz-Gavilan, Marcos"	2020	3.86	ACT	Yes	No	No	101667 | 2020	Graduated (4-Year)	Yes
-101691	"Najera Reveles, Jose de Jesus"	2020	3.29	ACT	Yes	No	No	101691 | 2020	Never Enrolled	Yes
-101670	"Olivera Velasco, Jose Daniel"	2020	3.59	ACT	Yes	No	No	101670 | 2020	Graduated (4-Year)	No
-101671	"Onofre, Briana"	2020	3.27	ACT	Yes	No	No	101671 | 2020	Graduated (4-Year)	No
-101672	"Ortega- Espinoza, Edwin"	2020	3.42	ACT	Yes	Yes	Yes	101672 | 2020	No Longer Enrolled	No
-101673	"Palchizaca Chimborazo, Janet"	2020	3.28	ACT	Yes	Yes	Yes	101673 | 2020	Never Enrolled	No
-101674	"Pena Alfaro, Jimena Michelle"	2020	3.87	ACT	Yes	Yes	Yes	101674 | 2020	Graduated (4-Year)	No
-101675	"Peralta Gonzalez, Alexander"	2020	3.91	ACT	Yes	Yes	Yes	101675 | 2020	No Longer Enrolled	Yes
-101676	"Perez Servantes, Jonathan"	2020	3.06	ACT	Yes	Yes	Yes	101676 | 2020	No Longer Enrolled	Yes
-101678	"Pinos Pinos, Robinson Anthony"	2020	3.88	ACT	Yes	No	No	101678 | 2020	Graduated (4-Year)	Yes
-101679	"Plata Garcia, Alan"	2020	3.22	ACT	Yes	No	No	101679 | 2020	Never Enrolled	Yes
-101681	"Ponce Barban, Odalis"	2020	3.58	ACT	Yes	No	No	101681 | 2020	Currently Enrolled (4-Year)	No
-101682	"Ponce Parra, Fredi"	2020	3.7	ACT	Yes	Yes	Yes	101682 | 2020	Graduated (4-Year)	No
-101683	"Ponce-Zuniga, Jordan"	2020	3.17	ACT	Yes	Yes	Yes	101683 | 2020	Graduated (4-Year)	No
-101684	"Quito Jimbo, Katherine Lizbeth"	2020	2.64	ACT	No	No	No	101684 | 2020	Never Enrolled	Yes
-101686	"Ramirez, Ruby Israea"	2020	2.84	ACT	No	Yes	No	101686 | 2020	No Longer Enrolled	Yes
-101687	"Ramirez-Rivera, Rufa Anaise"	2020	3.46	ACT	Yes	No	No	101687 | 2020	Graduated (4-Year)	No
-101688	"Ramos-Camarillo, David"	2020	3.39	ACT	Yes	Yes	Yes	101688 | 2020	Never Enrolled	Yes
-101689	"Raymundo Martinez, Moncerrat"	2020	3.69	ACT	Yes	Yes	Yes	101689 | 2020	Graduated (2-Year)	No
-101690	"Rebollar Gallardo, Brian"	2020	3.3	ACT	Yes	Yes	Yes	101690 | 2020	No Longer Enrolled	No
-101692	"Reyes Villa, Jesus Emmanuel"	2020	3.16	ACT	Yes	No	No	101692 | 2020	No Longer Enrolled	Yes
-101693	"Riofrio, Aubrianna Desarae"	2020	3.42	ACT	Yes	Yes	Yes	101693 | 2020	No Longer Enrolled	No
-101694	"Robles Astudillo, Allison Fiorella"	2020	3.49	ACT	Yes	No	No	101694 | 2020	Never Enrolled	No
-101695	"Rocano Once, Heiry Jannin"	2020	3.46	ACT	Yes	Yes	Yes	101695 | 2020	Graduated (4-Year)	No
-101696	"Rojas Gamino, Cindy Michell"	2020	3.73	ACT	Yes	Yes	Yes	101696 | 2020	Graduated (4-Year)	No
-101697	"Rojas Zuniga, Randy"	2020	3.63	ACT	Yes	No	No	101697 | 2020	Graduated (2-Year)	No
-101698	"Rubio Genis, Emely"	2020	3.43	ACT	Yes	Yes	Yes	101698 | 2020	Never Enrolled	No
-101699	"Ruiz Rodriguez, Katherine"	2020	3.92	ACT	Yes	Yes	Yes	101699 | 2020	No Longer Enrolled	No
-101700	"Salas Rivera, Jaqueline"	2020	3.61	ACT	Yes	No	No	101700 | 2020	No Longer Enrolled	No
-101701	"Salgado Rodriguez, Mitzari"	2020	3.58	ACT	Yes	No	No	101701 | 2020	"Graduated (4-Year), Continuing"	No
-101702	"Sanchez Ambrocio, Emily"	2020	3.48	ACT	Yes	Yes	Yes	101702 | 2020	No Longer Enrolled	No
-101703	"Sanchez Delgado, Lizeth"	2020	3.68	ACT	Yes	No	No	101703 | 2020	Credential Received	No
-101704	"Sanchez Romero, Ignacio"	2020	3.68	ACT	Yes	No	No	101704 | 2020	Graduated (4-Year)	No
-101705	"Sanchez-Zamora, Wendy"	2020	3.39	ACT	Yes	Yes	Yes	101705 | 2020	Currently Enrolled (2-Year)	No
-101706	"Sandiero Flores, Bretxi Jaqueline"	2020	3.59	ACT	Yes	No	No	101706 | 2020	No Longer Enrolled	No
-10015	"Santa Olalla Bernal, Jenny"	2020	3.91	ACT	Yes	No	No	10015 | 2020	Graduated (4-Year)	Yes
-101707	"Santana Pacheco, Nayeli"	2020	3.62	ACT	Yes	No	No	101707 | 2020	No Longer Enrolled	No
-101708	"Santiago Lopez, Jackeline"	2020	3.17	ACT	Yes	No	No	101708 | 2020	Graduated (2-Year)	No
-101709	"Santos Colima, Rosemary"	2020	3.87	ACT	Yes	Yes	Yes	101709 | 2020	"Graduated (4-Year), Continuing"	No
-101710	"Simbaina Morocho, Edison"	2020	3.57	ACT	Yes	Yes	Yes	101710 | 2020	No Longer Enrolled	No
-101711	"Sol Lopez, Melody"	2020	3.55	ACT	Yes	Yes	Yes	101711 | 2020	Graduated (4-Year)	Yes
-101712	"Solis Clara, Jersain"	2020	3.35	ACT	Yes	Yes	Yes	101712 | 2020	Graduated (4-Year)	No
-101713	"Sommer, James Henry Kelly"	2020	3.68	ACT	Yes	Yes	Yes	101713 | 2020	Graduated (2-Year)	No
-101714	"St. Julien, Kimberly"	2020	3.26	ACT	Yes	Yes	Yes	101714 | 2020	Graduated (4-Year)	No
-101715	"Tlatenchi Zamorano, Manuel"	2020	3.06	ACT	Yes	Yes	Yes	101715 | 2020	Currently Enrolled (4-Year)	Yes
-101716	"Toledano, Ashley"	2020	3.59	ACT	Yes	Yes	Yes	101716 | 2020	Graduated (4-Year)	No
-101717	"Torres Guzman, Anthony Fernando"	2020	3.71	ACT	Yes	No	No	101717 | 2020	Graduated (4-Year)	No
-101718	"Torres Zuniga, Griselda"	2020	3.91	ACT	Yes	No	No	101718 | 2020	Graduated (4-Year)	No
-101719	"Valdivia Cortes, Juan Daniel"	2020	3.69	ACT	Yes	Yes	Yes	101719 | 2020	Graduated (4-Year)	No
-101721	"Vaye, Saaliya Ila"	2020	3.62	ACT	Yes	Yes	Yes	101721 | 2020	No Longer Enrolled	No
-101722	"Velez Jara, Mark Anthony"	2020	3.63	ACT	Yes	No	No	101722 | 2020	No Longer Enrolled	Yes
-101723	"Venegas Garcia, Jose Abdias"	2020	3.32	ACT	Yes	Yes	Yes	101723 | 2020	Currently Enrolled (2-Year)	No
-101724	"Verdugo Acosta, Jason Ivan"	2020	3.88	ACT	Yes	Yes	Yes	101724 | 2020	Graduated (4-Year)	No
-101725	"Victoria-Sanchez, Leslie"	2020	3.63	ACT	Yes	Yes	Yes	101725 | 2020	Graduated (4-Year)	No
-10012	"Vidal-Figueroa, Jacqueline"	2020	3.28	ACT	Yes	Yes	Yes	10012 | 2020	Currently Enrolled (4-Year)	No
-101726	"Villanueva, Cristian Axel"	2020	3.61	ACT	Yes	Yes	Yes	101726 | 2020	Currently Enrolled (4-Year)	Yes
-101727	"Williams-Hondras, Savion Eugene"	2020	3.13	ACT	Yes	Yes	Yes	101727 | 2020	Currently Enrolled (2-Year)	No
-101729	"Zarate Dolores, Anahi"	2020	3.6	ACT	Yes	No	No	101729 | 2020	No Longer Enrolled	Yes
-101730	"Zepeda Rubio, April Jamilex"	2020	3.49	NA	Yes	Yes	Yes	101730 | 2020	No Longer Enrolled	No
-101731	"Zhiminaicela Zhagui, Carlos Andres"	2020	3.19	NA	Yes	Yes	Yes	101731 | 2020	No Longer Enrolled	No
-10305	"Aguilar Marin, Angel Daniel"	2022	3.1	NA	Yes	No	No	10305 | 2022	No Longer Enrolled	No
-10225	"Aguilar Ponce, Alejandro"	2022	2.99	NA	No	No	No	10225 | 2022	Never Enrolled	No
-10240	"Allen, Kasja Nicole"	2022	2.98	NA	No	Yes	No	10240 | 2022	No Longer Enrolled	Yes
-10325	"Ambriz Pedreguera, Lynda"	2022	3.18	NA	Yes	No	No	10325 | 2022	Currently Enrolled (4-Year)	No
-10335	"Anderson, Samantha"	2022	3.86	NA	Yes	Yes	Yes	10335 | 2022	Currently Enrolled (4-Year)	No
-10254	"Arce Parra, Agustin"	2022	2.91	NA	No	No	No	10254 | 2022	No Longer Enrolled	No
-10327	"Ariza Diaz, Joseph"	2022	3.21	NA	Yes	No	No	10327 | 2022	Never Enrolled	Yes
-10319	"Barzallo-Alvarez, John"	2022	3.22	NA	Yes	Yes	Yes	10319 | 2022	No Longer Enrolled	No
-10278	"Bermejo-Bueno, Nathaly Janet"	2022	3.71	NA	Yes	Yes	Yes	10278 | 2022	No Longer Enrolled	No
-10219	"Bravo- Quevedo, Jaquelyn"	2022	3.76	NA	Yes	No	No	10219 | 2022	Currently Enrolled (4-Year)	No
-10242	"Bucio Sanchez, Keilyn Alissa"	2022	3.69	NA	Yes	Yes	Yes	10242 | 2022	No Longer Enrolled	Yes
-10239	"Campbell, Dashoune Andrew Lamar"	2022	3.19	NA	Yes	No	No	10239 | 2022	No Longer Enrolled	No
-10249	"Camposeco Quinones, Wilmar"	2022	3.55	NA	Yes	No	No	10249 | 2022	No Longer Enrolled	No
-10253	"Cantos-Flores, Jason Geovany"	2022	2.83	NA	No	No	No	10253 | 2022	Graduated (2-Year)	No
-10336	"Carbajal Gonzalez, Almadelia"	2022	3.34	NA	Yes	No	No	10336 | 2022	Currently Enrolled (4-Year)	No
-10241	"Carpio-Agudo, Jessica Margarita"	2022	3.64	NA	Yes	Yes	Yes	10241 | 2022	Graduated (2-Year)	No
-10340	"Castaneda Gomez, Steven"	2022	3.19	NA	Yes	No	No	10340 | 2022	No Longer Enrolled	No
-10320	"Cervantes-Linares, Rainie"	2022	3.78	NA	Yes	No	No	10320 | 2022	Currently Enrolled (4-Year)	No
-10272	"Chauca, Sandra Yolanda"	2022	3.32	NA	Yes	Yes	Yes	10272 | 2022	Currently Enrolled (4-Year)	No
-10330	"Chavez Salazar, Jocelyn"	2022	3.56	NA	Yes	Yes	Yes	10330 | 2022	Currently Enrolled (4-Year)	Yes
-10274	"Chiqui Llangari, Marilyn Janet"	2022	3.9	NA	Yes	Yes	Yes	10274 | 2022	Currently Enrolled (4-Year)	Yes
-10245	"Chunchi Llapa, Amy"	2022	3.48	NA	Yes	Yes	Yes	10245 | 2022	Currently Enrolled (2-Year)	Yes
-10315	"Contreras Arias, Jennifer"	2022	3.44	NA	Yes	No	No	10315 | 2022	No Longer Enrolled	No
-10295	"Contreras-Saavedra, Carlos"	2022	3.26	NA	Yes	Yes	Yes	10295 | 2022	Never Enrolled	Yes
-10287	"Cruz-Mestizo, Dorismar"	2022	3.9	NA	Yes	Yes	Yes	10287 | 2022	No Longer Enrolled	Yes
-10231	"Cruz-Tapia, Rashell"	2022	3.38	NA	Yes	No	No	10231 | 2022	Never Enrolled	No
-10217	"Curillo Pomaquiza, Jennifer Alyssa"	2022	3.8	NA	Yes	No	No	10217 | 2022	Currently Enrolled (4-Year)	No
-10280	"Diaz Saldivar, Alexander"	2022	3.62	NA	Yes	No	No	10280 | 2022	No Longer Enrolled	No
-10250	"Estudillo Castillo, Jorge"	2022	3.8	NA	Yes	Yes	Yes	10250 | 2022	Currently Enrolled (4-Year)	No
-10308	"Evans, Patricia Ann"	2022	3.62	NA	Yes	Yes	Yes	10308 | 2022	Currently Enrolled (2-Year)	Yes
-10262	"Garcia-Colima, Diana Rubi"	2022	2.79	NA	No	No	No	10262 | 2022	Never Enrolled	No
-10386	"Garzon, Andy Alexander"	2022	2.58	NA	No	No	No	10386 | 2022	Never Enrolled	No
-10251	"Gil Del Villar, Anahi"	2022	2.72	NA	No	No	No	10251 | 2022	Never Enrolled	No
-10227	"Gonzalez-Catano, Itzel America"	2022	3.55	NA	Yes	Yes	Yes	10227 | 2022	No Longer Enrolled	No
-10284	"Hernandez Flores, Kelly Elizabeth"	2022	3.85	NA	Yes	Yes	Yes	10284 | 2022	Currently Enrolled (4-Year)	No
-10265	"Hernandez Luna, Gabriel"	2022	3.12	NA	Yes	No	No	10265 | 2022	No Longer Enrolled	No
-10283	"Hernandez Sotelo, Katerine Mitchelle"	2022	3.15	NA	Yes	No	No	10283 | 2022	No Longer Enrolled	No
-10309	"Hollowell Jr, Bryant"	2022	2.69	NA	No	No	No	10309 | 2022	No Longer Enrolled	No
-10290	"Hoskin, Hanna May"	2022	3.83	NA	Yes	No	No	10290 | 2022	"Graduated (2-Year), Continuing"	No
-10220	"Jackson II, Timothy Lamont"	2022	3.44	NA	Yes	No	No	10220 | 2022	Never Enrolled	No
-10233	"Jimenez, Johana"	2022	3.94	NA	Yes	Yes	Yes	10233 | 2022	Currently Enrolled (4-Year)	No
-10316	"Juarez Cano, Jacqueline"	2022	3.83	NA	Yes	Yes	Yes	10316 | 2022	Never Enrolled	No
-10285	"Lazo Gonzalez, Jenel Mariela"	2022	3.7	NA	Yes	No	No	10285 | 2022	Currently Enrolled (4-Year)	No
-10260	"Lema Juncal, Diana Jissel"	2022	3.57	NA	Yes	No	No	10260 | 2022	Currently Enrolled (4-Year)	No
-10237	"Leon Arroyo, Angel Daniel"	2022	2.53	NA	No	No	No	10237 | 2022	No Longer Enrolled	No
-10229	"Llapa-Perez, Katie Alexandra"	2022	3.17	NA	Yes	No	No	10229 | 2022	Currently Enrolled (2-Year)	No
-10314	"Marquez Castrejon, Marileisy"	2022	3.55	NA	Yes	Yes	Yes	10314 | 2022	Currently Enrolled (4-Year)	No
-10222	"Marquez Chino, Mike"	2022	3.38	NA	Yes	Yes	Yes	10222 | 2022	No Longer Enrolled	Yes
-10341	"Martin, Qwame Rasheed"	2022	3.41	NA	Yes	Yes	Yes	10341 | 2022	Graduated (4-Year)	Yes
-10259	"Martinez-Hernandez, Katia"	2022	2.39	NA	No	No	No	10259 | 2022	Never Enrolled	No
-10270	"Meneses Cayetano, Noe Alexis"	2022	3.78	NA	Yes	Yes	Yes	10270 | 2022	Graduated (2-Year)	No
-10246	"Modesto Ortega, Karen Vanessa"	2022	3.33	NA	Yes	No	No	10246 | 2022	No Longer Enrolled	No
-10264	"Molina Camacho, Adolfo"	2022	3.48	NA	Yes	No	No	10264 | 2022	Currently Enrolled (4-Year)	No
-10258	"Morales, Yakelyn Azucena"	2022	3.49	NA	Yes	No	No	10258 | 2022	No Longer Enrolled	No
-10234	"Munoz-Gavilan, Lluvia"	2022	3.77	NA	Yes	Yes	Yes	10234 | 2022	Currently Enrolled (4-Year)	Yes
-10321	"Nasario-Ocampo, Bryant"	2022	3.68	NA	Yes	No	No	10321 | 2022	Currently Enrolled (4-Year)	No
-10267	"Navarro, Daniel Jesus"	2022	3.55	NA	Yes	Yes	Yes	10267 | 2022	Currently Enrolled (4-Year)	No
-10232	"Olivarez Arpista, John"	2022	3.08	NA	Yes	No	No	10232 | 2022	Never Enrolled	No
-10328	"Onofre Garcia, Daniel"	2022	3.26	NA	Yes	No	No	10328 | 2022	No Longer Enrolled	No
-10255	"Ortiz-Saguilan, Gisselle Lorena"	2022	3.86	NA	Yes	No	No	10255 | 2022	Currently Enrolled (4-Year)	No
-10275	"Pacheco Tenesaca, Kristin Samantha"	2022	3.94	NA	Yes	Yes	Yes	10275 | 2022	Currently Enrolled (4-Year)	Yes
-10216	"Paredes Chiqui, Jeffrey Josue"	2022	3.75	NA	Yes	No	No	10216 | 2022	Graduated (4-Year)	No
-10462	"Parra, Bryana Scarlett"	2022	3.88	NA	Yes	Yes	Yes	10462 | 2022	No Longer Enrolled	Yes
-10279	"Pastrana-Ruiz, Anubis"	2022	3.2	NA	Yes	No	No	10279 | 2022	Currently Enrolled (4-Year)	No
-10334	"Paucar-Velez, Enelitte Ariella"	2022	3.72	NA	Yes	Yes	Yes	10334 | 2022	Currently Enrolled (4-Year)	No
-10332	"Pena-Rosas, Magdalena"	2022	2.9	NA	No	No	No	10332 | 2022	No Longer Enrolled	No
-10276	"Peralta Rosales, Jeffrey"	2022	2.73	NA	No	No	No	10276 | 2022	Currently Enrolled (2-Year)	No
-10469	"Pizarro, Denise Michelle"	2022	3.84	NA	Yes	No	No	10469 | 2022	Currently Enrolled (4-Year)	No
-10235	"Pliego Rodriguez, Christopher"	2022	3.83	NA	Yes	Yes	Yes	10235 | 2022	Graduated (4-Year)	Yes
-10209	"Ponce Flores, Dulce María"	2022	2.96	NA	No	No	No	10209 | 2022	No Longer Enrolled	No
-10266	"Quevedo Navas, Maoli Del Rosario"	2022	3.81	NA	Yes	No	No	10266 | 2022	Currently Enrolled (4-Year)	No
-10329	"Quintana Rodriguez, Juan Humberto"	2022	3.81	NA	Yes	Yes	Yes	10329 | 2022	Never Enrolled	Yes
-10247	"Ramirez Armendariz, Michelle"	2022	3.84	NA	Yes	Yes	Yes	10247 | 2022	"Graduated (2-Year), Continuing"	No
-10302	"Reino Landi, Deyssi Pricila"	2022	3.52	NA	Yes	No	No	10302 | 2022	Currently Enrolled (4-Year)	No
-10236	"Reyes Ponce, Zaira Yamile"	2022	3.87	NA	Yes	Yes	Yes	10236 | 2022	Currently Enrolled (4-Year)	Yes
-10313	"Romero Coraizaca, Randy"	2022	2.92	NA	No	No	No	10313 | 2022	Currently Enrolled (2-Year)	No
-10311	"Ross, Moses"	2022	3.48	NA	Yes	No	No	10311 | 2022	Currently Enrolled (4-Year)	No
-10224	"Ruiz Rodriguez, Daniel"	2022	3.26	NA	Yes	Yes	Yes	10224 | 2022	No Longer Enrolled	No
-10322	"Salgado Genis, Gary"	2022	3.08	NA	Yes	No	No	10322 | 2022	Currently Enrolled (2-Year)	No
-10301	"Sall, Diadou"	2022	3.6	NA	Yes	Yes	Yes	10301 | 2022	Currently Enrolled (4-Year)	No
-10256	"Sanchez Gomez, Jovani"	2022	3.12	NA	Yes	No	No	10256 | 2022	No Longer Enrolled	No
-10218	"Sanchez Medina, Abigail"	2022	3.86	NA	Yes	No	No	10218 | 2022	Currently Enrolled (4-Year)	No
-10268	"Sanchez, Guillermo"	2022	3.52	NA	Yes	Yes	Yes	10268 | 2022	Never Enrolled	Yes
-10317	"Sanders, Ava"	2022	2.88	NA	No	No	No	10317 | 2022	No Longer Enrolled	No
-10269	"Sanisaca Marcatoma, Deysi Guadalupe"	2022	3.92	NA	Yes	No	No	10269 | 2022	Currently Enrolled (4-Year)	No
-10299	"Santiago Sanchez, Jose Alfredo"	2022	2.95	NA	No	Yes	No	10299 | 2022	No Longer Enrolled	Yes
-10291	"Santos Zhanay, Anthony"	2022	3.69	NA	Yes	Yes	Yes	10291 | 2022	Currently Enrolled (4-Year)	Yes
-10226	"Saucedo, Samanta Sarai"	2022	3.65	NA	Yes	Yes	Yes	10226 | 2022	Currently Enrolled (4-Year)	Yes
-10324	"Smith, Kennedy"	2022	3.95	NA	Yes	Yes	Yes	10324 | 2022	No Longer Enrolled	Yes
-10228	"Tapia-Rodriguez, Cynthia"	2022	3.68	NA	Yes	No	No	10228 | 2022	Currently Enrolled (2-Year)	No
-10277	"Thomas-Ceron, Ahlani Paola"	2022	3.79	NA	Yes	Yes	Yes	10277 | 2022	Currently Enrolled (4-Year)	No
-10215	"Valdepena-Segura, Alejandro"	2022	3.65	NA	Yes	No	No	10215 | 2022	Currently Enrolled (4-Year)	No
-10261	"Valdivia-Cortes, Louis Anfernee"	2022	3.5	NA	Yes	No	No	10261 | 2022	No Longer Enrolled	No
-10248	"Valverde Zanabriga, William Misael"	2022	3.55	NA	Yes	No	No	10248 | 2022	Currently Enrolled (4-Year)	No
-10252	"Vergara Arpista, Edwin"	2022	3.59	NA	Yes	No	No	10252 | 2022	No Longer Enrolled	No
-10243	"Vergara Zuniga, Uriel"	2022	3.72	NA	Yes	Yes	Yes	10243 | 2022	Currently Enrolled (4-Year)	No
-10303	"Vidal Vazquez, Ingrid Yamilet"	2022	3.53	NA	Yes	Yes	Yes	10303 | 2022	Currently Enrolled (4-Year)	No
-10292	"Waller, Ijahvonn Ammon"	2022	3.53	NA	Yes	Yes	Yes	10292 | 2022	Currently Enrolled (4-Year)	Yes
-10306	"Woods, Deja Marie"	2022	3.23	NA	Yes	No	No	10306 | 2022	Never Enrolled	No
-10230	"Yaurincela Guaman, Shirley Zjamile"	2022	3.81	NA	Yes	No	No	10230 | 2022	Currently Enrolled (2-Year)	No
-10238	"Yuquilema-Acero, Gwendolyn Yadira"	2022	3.19	NA	Yes	Yes	Yes	10238 | 2022	No Longer Enrolled	No
-10286	"Zavaleta, Juan Angel"	2022	3.86	NA	Yes	Yes	Yes	10286 | 2022	Currently Enrolled (4-Year)	Yes
-10223	"Zhagui Villa, Mirka Adriana"	2022	3.87	NA	Yes	No	No	10223 | 2022	Currently Enrolled (4-Year)	No
-10282	"Zuniga Lara, Lizbeth"	2022	3.45	NA	Yes	No	No	10282 | 2022	Currently Enrolled (2-Year)	No
-10445	"Abad, Ariana Teresa"	2023	3.37	SAT	Yes	No	No	10445 | 2023	Currently Enrolled (4-Year)	No
-10411	"Aguilar, Josephine Michelle"	2023	2.9	SAT	No	No	No	10411 | 2023	No Longer Enrolled	No
-10394	"Alarcon, Samantha Noemi"	2023	2.9	SAT	No	No	No	10394 | 2023	No Longer Enrolled	No
-10364	"Alcantar Cuevas, Cinthia Guadalupe"	2023	3.85	SAT	Yes	Yes	Yes	10364 | 2023	Currently Enrolled (4-Year)	Yes
-10452	"Alvarez, Brenda"	2023	3.3	SAT	Yes	No	No	10452 | 2023	Currently Enrolled (4-Year)	No
-10348	"Alvillar Barreno, Guillermo"	2023	2.38	SAT	No	No	No	10348 | 2023	Never Enrolled	No
-10458	"Anderson, Jada Ishmerai"	2023	3.36	SAT	Yes	Yes	Yes	10458 | 2023	Currently Enrolled (4-Year)	No
-10435	"Arana, William Alexander"	2023	3.53	SAT	Yes	Yes	Yes	10435 | 2023	No Longer Enrolled	Yes
-10410	"Ariza Vara, Randy Alonso"	2023	3.97	SAT	Yes	Yes	Yes	10410 | 2023	Currently Enrolled (4-Year)	Yes
-10379	"Ariza-Rivera, Jorge"	2023	3.44	SAT	Yes	No	No	10379 | 2023	Currently Enrolled (4-Year)	No
-10406	"Ayavaca, Luis Miguel"	2023	3.3	SAT	Yes	No	No	10406 | 2023	No Longer Enrolled	No
-10388	"Baires Moreira, Valeria"	2023	2.96	SAT	No	No	No	10388 | 2023	No Longer Enrolled	No
-10424	"Baron Flores, Alexander"	2023	3.64	SAT	Yes	Yes	Yes	10424 | 2023	Currently Enrolled (4-Year)	No
-10420	"Barreto, Maireni"	2023	2.9	SAT	No	Yes	No	10420 | 2023	No Longer Enrolled	No
-10401	"Benavides Gualpa, Vanessa Liseth"	2023	3.71	SAT	Yes	No	No	10401 | 2023	Currently Enrolled (4-Year)	No
-10381	"Benavides, Jake Joseph"	2023	3.21	SAT	Yes	No	No	10381 | 2023	No Longer Enrolled	No
-10430	"Bermejo Bueno, Nancy Elizabeth"	2023	3.29	SAT	Yes	No	No	10430 | 2023	No Longer Enrolled	No
-10376	"Bonilla, Bladimir"	2023	3	SAT	Yes	No	No	10376 | 2023	Currently Enrolled (2-Year)	No
-10470	"Bravo, Carol"	2023	3.02	SAT	Yes	No	No	10470 | 2023	Currently Enrolled (4-Year)	No
-10357	"Briones Perez, Franklin Guadalupe"	2023	3.06	SAT	Yes	No	No	10357 | 2023	Credential Received	No
-10472	"Bueno-Illescas, Diana Andrea"	2023	3.07	SAT	Yes	No	No	10472 | 2023	No Longer Enrolled	No
-10346	"Bunay Nieto, Karol Stephany"	2023	3.32	SAT	Yes	No	No	10346 | 2023	Currently Enrolled (4-Year)	No
-10473	"Bustamante Hernandez, Samantha"	2023	2.46	SAT	No	No	No	10473 | 2023	Currently Enrolled (2-Year)	No
-10484	"Cacique, Henry David"	2023	3.29	SAT	Yes	Yes	Yes	10484 | 2023	Graduated (2-Year)	No
-10474	"Calixto Garcia, Bryant"	2023	3	SAT	Yes	No	No	10474 | 2023	No Longer Enrolled	No
-10409	"Cantos, Yhesly Sophia"	2023	3.9	SAT	Yes	Yes	Yes	10409 | 2023	Currently Enrolled (4-Year)	No
-10354	"Carchi, Stalyn Fabian"	2023	3.45	SAT	Yes	Yes	Yes	10354 | 2023	Currently Enrolled (4-Year)	No
-10402	"Cardeno Castellanos, Javier"	2023	3.03	SAT	Yes	No	No	10402 | 2023	Graduated (2-Year)	No
-10455	"Castaneda, Jose Antonio"	2023	2.81	SAT	No	No	No	10455 | 2023	Currently Enrolled (2-Year)	No
-10439	"Castillo Lopez, Selin"	2023	3.9	SAT	Yes	Yes	Yes	10439 | 2023	Currently Enrolled (4-Year)	Yes
-10456	"Castillon, Alejandro"	2023	3.05	SAT	Yes	Yes	Yes	10456 | 2023	Currently Enrolled (4-Year)	No
-10387	"Castro, Edison Gabriel"	2023	2.72	SAT	No	No	No	10387 | 2023	No Longer Enrolled	No
-10396	"Cazales Pelaez, Aseneth"	2023	3.34	SAT	Yes	No	No	10396 | 2023	No Longer Enrolled	No
-10361	"Cortez Coyote, Luis"	2023	3.74	SAT	Yes	Yes	Yes	10361 | 2023	Currently Enrolled (2-Year)	Yes
-10418	"Cortez Hernandez, Hannia"	2023	3.67	SAT	Yes	Yes	Yes	10418 | 2023	Currently Enrolled (4-Year)	No
-10475	"Crespo Narvaez, Danna Paola"	2023	3.8	SAT	Yes	No	No	10475 | 2023	No Longer Enrolled	No
-10385	"Cruz Cisneros, Jennifer Reyna"	2023	3.75	SAT	Yes	No	No	10385 | 2023	Currently Enrolled (4-Year)	No
-10405	"Cruz Hernandez, Daira Valeria"	2023	3.34	SAT	Yes	Yes	Yes	10405 | 2023	Currently Enrolled (4-Year)	No
-10440	"Cruztitla, Emely Sherlyn"	2023	3.12	SAT	Yes	Yes	Yes	10440 | 2023	No Longer Enrolled	No
-10441	"Cunin, Jefferson"	2023	3.88	SAT	Yes	Yes	Yes	10441 | 2023	Currently Enrolled (4-Year)	No
-10374	"Delgado, Jordy"	2023	2.98	SAT	No	Yes	No	10374 | 2023	Currently Enrolled (2-Year)	No
-10419	"Dominguez Aragon, Alejandro"	2023	3.2	SAT	Yes	No	No	10419 | 2023	Currently Enrolled (4-Year)	No
-10356	"Dominguez, Andrea Isabel"	2023	3.06	SAT	Yes	No	No	10356 | 2023	No Longer Enrolled	No
-10476	"Estrada Pinzon, Mayra Vanessa"	2023	3.74	SAT	Yes	Yes	Yes	10476 | 2023	Currently Enrolled (4-Year)	Yes
-10380	"Fernandez Benavides, Keely Jooselyn"	2023	2.97	SAT	No	No	No	10380 | 2023	"Graduated (2-Year), Continuing"	No
-10377	"Gonzalez Chiman, Evelin"	2023	3.85	SAT	Yes	Yes	Yes	10377 | 2023	Currently Enrolled (4-Year)	Yes
-10371	"Guachichulca, Emely Jasmin"	2023	3.93	SAT	Yes	Yes	Yes	10371 | 2023	Currently Enrolled (4-Year)	Yes
-10491	"Guaillas, Stephany"	2023	3.17	SAT	Yes	No	No	10491 | 2023	No Longer Enrolled	No
-10378	"Guaillazaca Aguilar, Jessica Michelle"	2023	3.24	SAT	Yes	No	No	10378 | 2023	Currently Enrolled (4-Year)	No
-10413	"Gutierrez, Arely Isabella"	2023	3.63	SAT	Yes	Yes	Yes	10413 | 2023	Currently Enrolled (4-Year)	Yes
-10490	"Gutierrez-Lopez, Emily"	2023	3.08	SAT	Yes	Yes	Yes	10490 | 2023	Graduated (2-Year)	No
-10368	"Hernandez Cardoso, Hector"	2023	2.78	SAT	No	Yes	No	10368 | 2023	No Longer Enrolled	No
-10451	"Hill, Quenessa"	2023	3.7	SAT	Yes	Yes	Yes	10451 | 2023	Currently Enrolled (4-Year)	Yes
-10369	"Jackson, Amara Sharai"	2023	3.74	SAT	Yes	No	No	10369 | 2023	Currently Enrolled (4-Year)	No
-10408	"Jara, Brady Alexander"	2023	2.98	SAT	No	No	No	10408 | 2023	No Longer Enrolled	No
-10372	"Jara-Mora, Andrea Elizabeth"	2023	3.18	SAT	Yes	No	No	10372 | 2023	Currently Enrolled (4-Year)	No
-10477	"Juarez, Sergio"	2023	2.79	SAT	No	No	No	10477 | 2023	No Longer Enrolled	No
-10349	"Lata Aguilar, Kevin Alfredo"	2023	3.45	SAT	Yes	No	No	10349 | 2023	Graduated (2-Year)	No
-10352	"Llapa, Derick"	2023	3.08	SAT	Yes	No	No	10352 | 2023	No Longer Enrolled	No
-10416	"Llapa, Heidi Marigsa"	2023	3.82	SAT	Yes	Yes	Yes	10416 | 2023	Currently Enrolled (4-Year)	No
-10431	"Lopez Canongo, Lissette"	2023	3.35	SAT	Yes	Yes	Yes	10431 | 2023	Currently Enrolled (2-Year)	No
-10373	"Lopez Ortega, Kathy"	2023	3.28	SAT	Yes	No	No	10373 | 2023	Currently Enrolled (4-Year)	No
-10448	"Lopez Perez, Vicente"	2023	3.31	SAT	Yes	No	No	10448 | 2023	No Longer Enrolled	No
-10495	"Lopez, Alex"	2023	3.49	SAT	Yes	No	No	10495 | 2023	No Longer Enrolled	No
-10437	"Lucas-Guzman, Hilda Patricia"	2023	3.65	SAT	Yes	Yes	Yes	10437 | 2023	Currently Enrolled (4-Year)	No
-10395	"Marin Solis, Vanessa"	2023	3.08	SAT	Yes	No	No	10395 | 2023	No Longer Enrolled	No
-10366	"Martinez Gamino, Ashley Judit"	2023	3.9	SAT	Yes	Yes	Yes	10366 | 2023	Currently Enrolled (4-Year)	Yes
-10425	"Medina Rojas, Aron Isait"	2023	3.33	SAT	Yes	No	No	10425 | 2023	No Longer Enrolled	No
-10488	"Meza Gonzalez, Jesus Enrique"	2023	2.51	SAT	No	No	No	10488 | 2023	Currently Enrolled (2-Year)	No
-10438	"Montero Villela, Fernando Manuel"	2023	3.05	SAT	Yes	No	No	10438 | 2023	No Longer Enrolled	No
-10382	"Mora Antonio, Karla Daline"	2023	3.42	SAT	Yes	No	No	10382 | 2023	Currently Enrolled (4-Year)	No
-10412	"Morales, Jasmine Areli"	2023	3.11	SAT	Yes	No	No	10412 | 2023	No Longer Enrolled	No
-10359	"Moreno, Victoria"	2023	3.82	SAT	Yes	No	No	10359 | 2023	Currently Enrolled (4-Year)	No
-10433	"Morocho Guambana, Carrie Lisette"	2023	3.65	SAT	Yes	No	No	10433 | 2023	Currently Enrolled (4-Year)	No
-10464	"Moses, Mason Skyler"	2023	3.96	SAT	Yes	Yes	Yes	10464 | 2023	Currently Enrolled (4-Year)	Yes
-10375	"Mozo Omana, Ingrid Yamile"	2023	3.27	SAT	Yes	No	No	10375 | 2023	Currently Enrolled (4-Year)	No
-10358	"Naula, Stephanie Lisette"	2023	2.83	SAT	No	No	No	10358 | 2023	No Longer Enrolled	No
-10485	"Navarro Quiroz, Maury Nicolas"	2023	2.88	SAT	No	Yes	No	10485 | 2023	Currently Enrolled (2-Year)	No
-10351	"Nieves Guallpa, Maggie Yhadira"	2023	3.96	SAT	Yes	Yes	Yes	10351 | 2023	Currently Enrolled (4-Year)	No
-10384	"Ocampo, Kevin Raul"	2023	2.78	SAT	No	No	No	10384 | 2023	Never Enrolled	No
-10399	"Olivos, Kaylee Berenice"	2023	3.43	SAT	Yes	No	No	10399 | 2023	No Longer Enrolled	No
-10436	"Olvera Penafort, Gael"	2023	3.2	SAT	Yes	No	No	10436 | 2023	"Graduated (2-Year), Continuing"	No
-10427	"Onofre, Wendy Judy"	2023	3.1	SAT	Yes	No	No	10427 | 2023	Currently Enrolled (2-Year)	No
-10414	"Orellana Morocho, Ashley Johanna"	2023	3.27	SAT	Yes	Yes	Yes	10414 | 2023	Currently Enrolled (4-Year)	Yes
-10400	"Orozco Acosta, Angie"	2023	3.63	SAT	Yes	Yes	Yes	10400 | 2023	Currently Enrolled (4-Year)	Yes
-10466	"Ortiz Vazquez, Carolina"	2023	3.21	SAT	Yes	Yes	Yes	10466 | 2023	Never Enrolled	No
-10344	"Palacios Andrade, Alexis"	2023	2.95	SAT	No	No	No	10344 | 2023	Currently Enrolled (2-Year)	No
-10428	"Pinos, Christopher Alberto"	2023	3.65	SAT	Yes	No	No	10428 | 2023	Currently Enrolled (2-Year)	No
-10483	"Pliego-Solorzano, Martin"	2023	2.44	SAT	No	No	No	10483 | 2023	Never Enrolled	No
-10347	"Portillo Sarmina, Jorge Antonio"	2023	3.14	SAT	Yes	No	No	10347 | 2023	Currently Enrolled (4-Year)	No
-10355	"Ramales, Diana"	2023	3.51	SAT	Yes	Yes	Yes	10355 | 2023	Currently Enrolled (4-Year)	No
-10457	"Ramirez, Angel"	2023	2.91	SAT	No	No	No	10457 | 2023	Currently Enrolled (2-Year)	No
-10360	"Ramos Pavon, Heidi"	2023	3.41	SAT	Yes	No	No	10360 | 2023	Currently Enrolled (2-Year)	No
-10434	"Rebollar, Jonathan"	2023	2.76	SAT	No	No	No	10434 | 2023	No Longer Enrolled	No
-10496	"Reyes, Monserrat"	2023	3.66	SAT	Yes	Yes	Yes	10496 | 2023	Currently Enrolled (4-Year)	No
-10453	"Rios Hernandez, Francisco"	2023	2.94	SAT	No	Yes	No	10453 | 2023	Currently Enrolled (2-Year)	No
-10363	"Rivera Coyote, Jesus"	2023	3.26	SAT	Yes	No	No	10363 | 2023	Currently Enrolled (4-Year)	No
-10370	"Romero, Evelyn"	2023	2.92	SAT	No	No	No	10370 | 2023	Currently Enrolled (4-Year)	No
-10442	"Saldivar, Andy"	2023	3.5	SAT	Yes	Yes	Yes	10442 | 2023	Currently Enrolled (4-Year)	No
-10391	"Sanchez Ambrocio, Katie Alison"	2023	3.38	SAT	Yes	No	No	10391 | 2023	Currently Enrolled (4-Year)	No
-10423	"Sanchez Vargas, Ismael"	2023	3.66	SAT	Yes	No	No	10423 | 2023	Currently Enrolled (4-Year)	No
-10421	"Sandiero Flores, Naydeli Alejandra"	2023	3.35	SAT	Yes	No	No	10421 | 2023	No Longer Enrolled	No
-10481	"Sibri, Angela Maylin"	2023	3.97	SAT	Yes	Yes	Yes	10481 | 2023	Currently Enrolled (4-Year)	No
-10479	"Simbaina, Jessica"	2023	3.88	SAT	Yes	Yes	Yes	10479 | 2023	Graduated (2-Year)	No
-10392	"Soriano Cortes, Alheli"	2023	3.79	SAT	Yes	Yes	Yes	10392 | 2023	No Longer Enrolled	No
-10459	"Sotelo Alvarez, Victor Alberto"	2023	2.8	SAT	No	No	No	10459 | 2023	No Longer Enrolled	No
-10486	"Tarrios Roldan, Angel Jovanny"	2023	3.09	SAT	Yes	No	No	10486 | 2023	Never Enrolled	No
-10362	"Trejo Martinez, Evelyn"	2023	3.5	SAT	Yes	No	No	10362 | 2023	No Longer Enrolled	No
-10403	"Vazquez-Reyes, Jonathan"	2023	2.67	SAT	No	No	No	10403 | 2023	No Longer Enrolled	No
-10444	"Vazquez-Vazquez, Anthony"	2023	3.84	SAT	Yes	Yes	Yes	10444 | 2023	Currently Enrolled (4-Year)	No
-10407	"Verdugo Acosta, Giselle Esther"	2023	3.99	SAT	Yes	Yes	Yes	10407 | 2023	Currently Enrolled (4-Year)	Yes
-10383	"Whittaker, Dominick"	2023	2.39	SAT	No	No	No	10383 | 2023	No Longer Enrolled	No
-10460	"Whittaker, Tamia Tanay"	2023	3.25	SAT	Yes	No	No	10460 | 2023	No Longer Enrolled	No
-10443	"Wilson, Jada Marie"	2023	3.46	SAT	Yes	No	No	10443 | 2023	Currently Enrolled (4-Year)	No
-10397	"Zavaleta Rodriguez, Jenell"	2023	3.81	SAT	Yes	No	No	10397 | 2023	Currently Enrolled (4-Year)	No
-10503	"Acero, Nili Pamela"	2024	2.95	SAT	No	No	No	10503 | 2024	No Longer Enrolled	No
-10504	"Aguilar-Lemus, Emily"	2024	2.94	SAT	No	No	No	10504 | 2024	Currently Enrolled (4-Year)	No
-10506	"Agustin Ambrocio, Karla Stephanie"	2024	3.5	SAT	Yes	No	No	10506 | 2024	Currently Enrolled (4-Year)	No
-10507	"Ahedo Salazar, Miguel Kevin Kevin"	2024	2.81	SAT	No	No	No	10507 | 2024	Currently Enrolled (4-Year)	No
-10508	"Akakpo, Alexandre"	2024	3.17	SAT	Yes	No	No	10508 | 2024	No Longer Enrolled	No
-10509	"Akoussan, Patrick"	2024	3.49	SAT	Yes	No	No	10509 | 2024	Currently Enrolled (4-Year)	No
-10511	"Ali, Bilaal"	2024	3.44	SAT	Yes	Yes	Yes	10511 | 2024	Currently Enrolled (2-Year)	Yes
-10513	"Alvarez, Luis Antonio"	2024	3.24	SAT	Yes	No	No	10513 | 2024	Currently Enrolled (2-Year)	No
-10514	"Arce Ponce, Rebecca Evelyn"	2024	3.06	SAT	Yes	No	No	10514 | 2024	Currently Enrolled (4-Year)	No
-10516	"Avila, Gildardo Salvador"	2024	2.95	SAT	No	Yes	No	10516 | 2024	Currently Enrolled (4-Year)	No
-10517	"Banos Gamino, Giancarlo"	2024	3.51	SAT	Yes	Yes	Yes	10517 | 2024	Currently Enrolled (4-Year)	No
-10519	"Bazile Jr., Bruce Anthony"	2024	3.08	SAT	Yes	Yes	Yes	10519 | 2024	Currently Enrolled (2-Year)	Yes
-10520	"Becerra Blas, Osiel Alexander"	2024	2.99	SAT	No	No	No	10520 | 2024	Currently Enrolled (4-Year)	No
-10521	"Bermejo, Brian Alejandro"	2024	2.87	SAT	No	No	No	10521 | 2024	Never Enrolled	No
-10522	"Bonilla Martinez, Jessica"	2024	2.56	SAT	No	No	No	10522 | 2024	Never Enrolled	No
-10526	"Bryant, Saniya Janelle"	2024	3	SAT	Yes	Yes	Yes	10526 | 2024	Currently Enrolled (4-Year)	No
-10528	"Canete- Vollmer, Zeus Zyril Sumile"	2024	3.5	SAT	Yes	Yes	Yes	10528 | 2024	Currently Enrolled (4-Year)	Yes
-10529	"Carpio, Daisy Guadalupe"	2024	3.18	SAT	Yes	No	No	10529 | 2024	Currently Enrolled (4-Year)	No
-10531	"Cayetano bahena, David"	2024	2.37	SAT	No	No	No	10531 | 2024	Currently Enrolled (2-Year)	No
-10533	"Chimborazo Pinguil, Kevin Eduardo"	2024	3.85	SAT	Yes	Yes	Yes	10533 | 2024	No Longer Enrolled	Yes
-10537	"Diaz Saldivar, Guadalupe"	2024	3.58	SAT	Yes	No	No	10537 | 2024	Currently Enrolled (4-Year)	No
-10538	"Dotson, Corey Ray"	2024	2.94	SAT	No	No	No	10538 | 2024	Currently Enrolled (4-Year)	No
-10540	"Duran-Sanchez, Hector"	2024	3.09	SAT	Yes	No	No	10540 | 2024	No Longer Enrolled	No
-10541	"Duran-Sanchez, Samantha"	2024	3.82	SAT	Yes	No	No	10541 | 2024	Currently Enrolled (4-Year)	No
-10542	"Escobar, Guadalupe"	2024	2.79	SAT	No	No	No	10542 | 2024	Currently Enrolled (2-Year)	No
-10543	"Eumana Castro, Erin Jaqueline"	2024	3.82	SAT	Yes	Yes	Yes	10543 | 2024	Currently Enrolled (4-Year)	Yes
-10545	"Galloway, Jadyn Alexander"	2024	2.89	SAT	No	No	No	10545 | 2024	Currently Enrolled (4-Year)	No
-10546	"Galvez-Olalde, Crystal"	2024	2.89	SAT	No	No	No	10546 | 2024	No Longer Enrolled	No
-10547	"Gavilan Salgado, Janeira"	2024	3.67	SAT	Yes	Yes	Yes	10547 | 2024	Currently Enrolled (4-Year)	No
-10548	"Gomez Garcia, Isaac"	2024	3.44	SAT	Yes	Yes	Yes	10548 | 2024	Currently Enrolled (4-Year)	No
-10549	"Gonzaga Cruz, Maritere"	2024	3.32	SAT	Yes	No	No	10549 | 2024	No Longer Enrolled	No
-10502	"Gonzalez-Catano, Adamaris"	2024	3.55	SAT	Yes	Yes	Yes	10502 | 2024	Currently Enrolled (4-Year)	No
-10552	"Guallpa, Leslie Skarlet"	2024	3.86	SAT	Yes	Yes	Yes	10552 | 2024	No Longer Enrolled	Yes
-10553	"Guasco, Maria Teresa"	2024	3.15	SAT	Yes	No	No	10553 | 2024	No Longer Enrolled	No
-10554	"Hammick, Lonzell Zakai"	2024	2.63	SAT	No	No	No	10554 | 2024	Never Enrolled	No
-10557	"Hernandez Nava, Melanie Dailen"	2024	3.63	SAT	Yes	No	No	10557 | 2024	Currently Enrolled (4-Year)	No
-10556	"Hernandez, Lessli Gissel"	2024	3.57	SAT	Yes	Yes	Yes	10556 | 2024	Currently Enrolled (4-Year)	No
-10558	"Hidalgo Peralta, Osvaldo Martin"	2024	3.06	SAT	Yes	Yes	Yes	10558 | 2024	Currently Enrolled (4-Year)	No
-10559	"Hoskin, James Timothy"	2024	3.06	SAT	Yes	Yes	Yes	10559 | 2024	Never Enrolled	No
-10635	"Imhoede, Jemarlo Joseph"	2024	3.06	SAT	Yes	No	No	10635 | 2024	Currently Enrolled (4-Year)	No
-10498	"Jacome Dorantes, Jahir"	2024	3.03	SAT	Yes	No	No	10498 | 2024	Currently Enrolled (4-Year)	No
-10916	"Jara, Wilmer"	2024	2.77	SAT	No	No	No	10916 | 2024	Currently Enrolled (2-Year)	No
-10564	"Jimenez Gochez, Miguel Angel"	2024	3.48	SAT	Yes	Yes	Yes	10564 | 2024	Never Enrolled	No
-10565	"Jimenez, Leonardo"	2024	3.69	SAT	Yes	Yes	Yes	10565 | 2024	Currently Enrolled (4-Year)	Yes
-10563	"Jimenez, Michele"	2024	3.87	SAT	Yes	Yes	Yes	10563 | 2024	No Longer Enrolled	Yes
-10915	"Johnson, Jerry"	2024	3.06	SAT	Yes	Yes	Yes	10915 | 2024	Currently Enrolled (2-Year)	No
-10566	"Juarez-Sanchez, Edgar"	2024	3.59	SAT	Yes	Yes	Yes	10566 | 2024	Currently Enrolled (4-Year)	Yes
-10567	"Laureano Martinez, Angelica"	2024	2.74	SAT	No	No	No	10567 | 2024	Currently Enrolled (2-Year)	No
-10568	"Laureano Santos, Leopoldo David"	2024	3.02	SAT	Yes	Yes	Yes	10568 | 2024	No Longer Enrolled	Yes
-10569	"Leon Ortiz, Jennifer"	2024	2.86	SAT	No	No	No	10569 | 2024	No Longer Enrolled	No
-10570	"Llapa, Lesley Tiffany"	2024	3.42	SAT	Yes	No	No	10570 | 2024	Currently Enrolled (4-Year)	No
-10571	"Loja, Josselyn Mary"	2024	3.52	SAT	Yes	Yes	Yes	10571 | 2024	Currently Enrolled (4-Year)	No
-10572	"Lopez, Kelly Dayanara"	2024	3.11	SAT	Yes	No	No	10572 | 2024	Currently Enrolled (2-Year)	No
-10573	"Loya Lopez, Jessica Nicole"	2024	3.39	SAT	Yes	Yes	Yes	10573 | 2024	Currently Enrolled (4-Year)	No
-10576	"Martinez Carranza, Amy Erandi"	2024	3.65	SAT	Yes	Yes	Yes	10576 | 2024	Currently Enrolled (4-Year)	Yes
-10575	"Martinez, Armando"	2024	3.53	SAT	Yes	No	No	10575 | 2024	No Longer Enrolled	No
-10574	"Martinez, Carlos"	2024	3.47	SAT	Yes	No	No	10574 | 2024	Currently Enrolled (4-Year)	No
-10578	"Mendoza Santiago, Alan"	2024	2.79	SAT	No	Yes	No	10578 | 2024	No Longer Enrolled	No
-10579	"Mix, Justyce Denisha Janice"	2024	3.53	SAT	Yes	Yes	Yes	10579 | 2024	Currently Enrolled (4-Year)	No
-10580	"Montecinos Sanchez, Hailey Gisel Gisel"	2024	3.81	SAT	Yes	Yes	Yes	10580 | 2024	Currently Enrolled (4-Year)	No
-10581	"Montiel Sanchez, Britney Ashley"	2024	3.44	SAT	Yes	Yes	Yes	10581 | 2024	Currently Enrolled (4-Year)	No
-10582	"Morales Hernandez, Betsabe"	2024	3.31	SAT	Yes	No	No	10582 | 2024	Currently Enrolled (4-Year)	No
-10584	"Nelson, Miles Kwesi Okokon"	2024	3.35	SAT	Yes	No	No	10584 | 2024	Currently Enrolled (4-Year)	No
-10585	"Onofre, David"	2024	3	SAT	Yes	Yes	Yes	10585 | 2024	Currently Enrolled (4-Year)	No
-10586	"Ortiz, Diana"	2024	3.24	SAT	Yes	No	No	10586 | 2024	Currently Enrolled (4-Year)	No
-10587	"Palomino Sanchez, Eric"	2024	3.58	SAT	Yes	No	No	10587 | 2024	Currently Enrolled (4-Year)	No
-10636	"Parra, Alma Giselle"	2024	3.13	SAT	Yes	No	No	10636 | 2024	Currently Enrolled (4-Year)	No
-10589	"Pena, Mariana"	2024	3.45	SAT	Yes	Yes	Yes	10589 | 2024	Currently Enrolled (4-Year)	No
-10593	"Perkins, Liberty Eliana Rose"	2024	3.52	SAT	Yes	Yes	Yes	10593 | 2024	Currently Enrolled (4-Year)	No
-10594	"Pia Suazo, Ashley Nichole"	2024	3.21	SAT	Yes	No	No	10594 | 2024	Currently Enrolled (4-Year)	No
-10595	"Pinos Alvarado, Alex Ismael"	2024	3.04	SAT	Yes	No	No	10595 | 2024	Currently Enrolled (4-Year)	No
-10596	"Pliego Moran, Johaana"	2024	3.11	SAT	Yes	No	No	10596 | 2024	Currently Enrolled (4-Year)	No
-10598	"Ponce Mendoza, Kimberly"	2024	2.94	SAT	No	No	No	10598 | 2024	No Longer Enrolled	No
-10597	"Ponce, Daniela"	2024	3.39	SAT	Yes	No	No	10597 | 2024	Currently Enrolled (4-Year)	No
-10599	"Priego Parra, Edson Jael"	2024	2.96	SAT	No	Yes	No	10599 | 2024	Currently Enrolled (4-Year)	No
-10601	"Rescalvo Sanchez, Naomi Sherlyn"	2024	3.91	SAT	Yes	Yes	Yes	10601 | 2024	No Longer Enrolled	Yes
-10602	"Rojas Zambrano, Leslie Jasmin"	2024	3.23	SAT	Yes	No	No	10602 | 2024	Currently Enrolled (4-Year)	No
-10603	"Roland, Semira Louise"	2024	3.52	SAT	Yes	Yes	Yes	10603 | 2024	Currently Enrolled (4-Year)	Yes
-10604	"Romero, Jocelyn Yazmin"	2024	3.68	SAT	Yes	Yes	Yes	10604 | 2024	Currently Enrolled (4-Year)	No
-10605	"Rubio Robles, Arianell"	2024	3.03	SAT	Yes	No	No	10605 | 2024	Currently Enrolled (4-Year)	No
-10609	"Sanchez, Brandon Gabriel"	2024	3.44	SAT	Yes	No	No	10609 | 2024	Currently Enrolled (4-Year)	No
-10607	"Sanchez, Jorge Luis"	2024	3.23	SAT	Yes	Yes	Yes	10607 | 2024	Currently Enrolled (2-Year)	Yes
-10610	"Sanchez, Mylo Oswaldo"	2024	2.96	SAT	No	No	No	10610 | 2024	Currently Enrolled (2-Year)	No
-10612	"Santiago Lopez, Miguel"	2024	3.14	SAT	Yes	Yes	Yes	10612 | 2024	Currently Enrolled (4-Year)	Yes
-10613	"Santoscoy-MacPhee, Joaquin Edwin"	2024	3.98	SAT	Yes	Yes	Yes	10613 | 2024	Currently Enrolled (4-Year)	Yes
-10614	"Segura Hernandez, Joshua Emmanuel"	2024	3.18	SAT	Yes	Yes	Yes	10614 | 2024	No Longer Enrolled	No
-10499	"Solis Rosas, Betsy Katherine"	2024	3.09	SAT	Yes	Yes	Yes	10499 | 2024	Currently Enrolled (4-Year)	Yes
-10615	"Solis, Jose Javier"	2024	3.88	SAT	Yes	Yes	Yes	10615 | 2024	Currently Enrolled (4-Year)	Yes
-10617	"Taylor, Shamar R"	2024	3.3	SAT	Yes	Yes	Yes	10617 | 2024	Currently Enrolled (4-Year)	Yes
-10618	"Tello, Alexis"	2024	3.16	SAT	Yes	Yes	Yes	10618 | 2024	No Longer Enrolled	No
-10619	"Tenesaca, Lesley Annai"	2024	3.2	SAT	Yes	No	No	10619 | 2024	Currently Enrolled (4-Year)	No
-10621	"Torres Lopez, Freddy Giovani"	2024	2.98	SAT	No	No	No	10621 | 2024	Never Enrolled	No
-10914	"Turner, Reina"	2024	3.65	SAT	Yes	Yes	Yes	10914 | 2024	Currently Enrolled (4-Year)	Yes
-10622	"Urgiles Plasencia, Christian Rafael"	2024	3.53	SAT	Yes	Yes	Yes	10622 | 2024	Currently Enrolled (4-Year)	No
-10623	"Venegas Garcia, Karen Sofia"	2024	3.35	SAT	Yes	Yes	Yes	10623 | 2024	Currently Enrolled (4-Year)	No
-10627	"Waller, Ijahrod"	2024	3.32	SAT	Yes	No	No	10627 | 2024	Currently Enrolled (4-Year)	No
-10630	"Williams, Neah Marie"	2024	2.85	SAT	No	No	No	10630 | 2024	Currently Enrolled (4-Year)	No
-10629	"Williams, Za'Mariyah Rekia"	2024	2.95	SAT	No	No	No	10629 | 2024	Currently Enrolled (2-Year)	No
-10632	"Yaurincela, Milko Roy"	2024	2.98	SAT	No	No	No	10632 | 2024	Currently Enrolled (2-Year)	No
-10633	"Zuniga, Diana Arelie"	2024	3.27	SAT	Yes	Yes	Yes	10633 | 2024	Currently Enrolled (4-Year)	No
-10817	"Abdulkadir, Abdulbaari Mohamed"	2025	3.81	SAT	Yes	Yes	Yes	10817 | 2025	Currently Enrolled (4-Year)	Yes
-10812	"Acero, Emily"	2025	2.69	SAT	No	No	No	10812 | 2025	Currently Enrolled (2-Year)	No
-10785	"Aguilar, Kevin Emmanuel"	2025	2.85	SAT	No	Yes	No	10785 | 2025	Currently Enrolled (4-Year)	No
-10789	"Aguilar, Rafael"	2025	3.44	SAT	Yes	No	No	10789 | 2025	Currently Enrolled (4-Year)	No
-10886	"Aguirre-Iglesias, Frida Karolina"	2025	3.31	SAT	Yes	Yes	Yes	10886 | 2025	Currently Enrolled (4-Year)	Yes
-10788	"Ali, Somaya"	2025	3.68	SAT	Yes	Yes	Yes	10788 | 2025	Currently Enrolled (2-Year)	Yes
-10854	"Amaro, Juan Carlos"	2025	2.92	SAT	No	Yes	No	10854 | 2025	Currently Enrolled (4-Year)	No
-10829	"Andres Martinez, Aleyda Josani"	2025	3.1	SAT	Yes	No	No	10829 | 2025	Currently Enrolled (4-Year)	No
-10840	"Arana, Gisselle Esmeralda"	2025	3.45	SAT	Yes	Yes	Yes	10840 | 2025	Currently Enrolled (4-Year)	Yes
-10797	"Arenas Cruz, Diego"	2025	3.36	SAT	Yes	Yes	Yes	10797 | 2025	Currently Enrolled (4-Year)	No
-11025	"Barajas Guzman, Rafael"	2025	3.12	SAT	Yes	Yes	Yes	11025 | 2025	Currently Enrolled (4-Year)	No
-10864	"Barragan, Kailani"	2025	3.23	SAT	Yes	No	No	10864 | 2025	Currently Enrolled (4-Year)	No
-10826	"Barth, Ma'Phion"	2025	3	SAT	Yes	No	No	10826 | 2025	Never Enrolled	No
-10873	"Bau, Caren Lizeth"	2025	3.21	SAT	Yes	No	No	10873 | 2025	Currently Enrolled (2-Year)	No
-10819	"Bau, David Fernando"	2025	3.29	SAT	Yes	No	No	10819 | 2025	Currently Enrolled (2-Year)	No
-10875	"Bunay, Jason Alexander"	2025	3.69	SAT	Yes	Yes	Yes	10875 | 2025	Currently Enrolled (4-Year)	No
-10649	"Cantos Flores, Jessica Cenaida"	2025	2.97	SAT	No	No	No	10649 | 2025	Currently Enrolled (2-Year)	No
-10902	"Castillo Palacios, Magali Lisette"	2025	2.88	SAT	No	No	No	10902 | 2025	Never Enrolled	No
-10897	"Chino Cruz, Kimberly "	2025	2.87	SAT	No	No	No	10897 | 2025	Currently Enrolled (2-Year)	No
-10793	"Chunchi, Andrew"	2025	3.17	SAT	Yes	No	No	10793 | 2025	Currently Enrolled (4-Year)	No
-10887	"Cisneros Vasquez, Kevin"	2025	3.78	SAT	Yes	Yes	Yes	10887 | 2025	Currently Enrolled (4-Year)	Yes
-10861	"Contreras Ortega, Angeli Josell"	2025	3	SAT	Yes	No	No	10861 | 2025	Currently Enrolled (4-Year)	No
-10814	"Cruz Medina, Bryant Omar"	2025	3.34	SAT	Yes	Yes	Yes	10814 | 2025	Currently Enrolled (4-Year)	No
-10911	"Cruz, Jasmin"	2025	3.53	SAT	Yes	No	No	10911 | 2025	Currently Enrolled (4-Year)	No
-10784	"Cruz-Brun, Tania Laurine"	2025	3.62	SAT	Yes	No	No	10784 | 2025	Currently Enrolled (4-Year)	No
-10856	"Cunin, Scott"	2025	3.71	SAT	Yes	Yes	Yes	10856 | 2025	Currently Enrolled (4-Year)	No
-10808	"Daniel-Garcia, Briana Angela"	2025	2.97	SAT	No	No	No	10808 | 2025	Currently Enrolled (2-Year)	No
-10844	"Deleon Castaneda, Ricardo Deleon"	2025	3.19	SAT	Yes	No	No	10844 | 2025	Currently Enrolled (2-Year)	No
-10834	"Diaz Alarcon, Eric M"	2025	3.77	SAT	Yes	Yes	Yes	10834 | 2025	Currently Enrolled (4-Year)	No
-10903	"Diaz, Sherlyn Yairel"	2025	3.12	SAT	Yes	No	No	10903 | 2025	Never Enrolled	No
-10806	"Diaz-Beltran, Kiara Xiomara"	2025	3.1	SAT	Yes	Yes	Yes	10806 | 2025	Currently Enrolled (2-Year)	No
-10799	"Duarte Ponce, Nanci"	2025	2.9	SAT	No	No	No	10799 | 2025	Currently Enrolled (4-Year)	No
-10820	"Enriquez-Garcia, John"	2025	3.65	SAT	Yes	Yes	Yes	10820 | 2025	Currently Enrolled (4-Year)	Yes
-10920	"Fernandez, Christopher Brian"	2025	3.07	SAT	Yes	No	No	10920 | 2025	Currently Enrolled (4-Year)	No
-10796	"Flores, Bryan Angel"	2025	2.96	SAT	No	No	No	10796 | 2025	Currently Enrolled (2-Year)	No
-10824	"Frazier, Nia Vicktoria"	2025	3.15	SAT	Yes	No	No	10824 | 2025	Currently Enrolled (4-Year)	No
-10787	"Fuentes Garcia, Jimena"	2025	2.98	SAT	No	No	No	10787 | 2025	Currently Enrolled (2-Year)	No
-10794	"Garcia Santos, Zoe"	2025	3.76	SAT	Yes	Yes	Yes	10794 | 2025	Currently Enrolled (4-Year)	Yes
-10815	"Gonzalez Diaz, Diego"	2025	2.92	SAT	No	No	No	10815 | 2025	No Longer Enrolled	No
-10825	"Gonzalez Maldonado, Gezelle"	2025	3.49	SAT	Yes	No	No	10825 | 2025	Currently Enrolled (4-Year)	No
-10874	"Gonzalez Quintana, Ximena"	2025	3.04	SAT	Yes	No	No	10874 | 2025	Currently Enrolled (4-Year)	No
-10865	"Gonzalez, Diana Lizeth"	2025	3.54	SAT	Yes	No	No	10865 | 2025	Currently Enrolled (4-Year)	No
-10863	"Guachichulca, Giselle Tatiana"	2025	3.44	SAT	Yes	No	No	10863 | 2025	Currently Enrolled (4-Year)	No
-10822	"Hernandez Avendano, Ingrid"	2025	3.58	SAT	Yes	No	No	10822 | 2025	Currently Enrolled (4-Year)	No
-10841	"Hernandez Nava, Jesus Neftali"	2025	2.75	SAT	No	No	No	10841 | 2025	Never Enrolled	No
-10836	"Hernandez-Silva, Oscar"	2025	3.02	SAT	Yes	No	No	10836 | 2025	Never Enrolled	No
-10810	"Hoang, Jason Lee"	2025	3.84	SAT	Yes	Yes	Yes	10810 | 2025	Currently Enrolled (4-Year)	Yes
-10909	"Holbrook, Myleeyah Rose"	2025	2.78	SAT	No	Yes	No	10909 | 2025	Currently Enrolled (4-Year)	Yes
-10862	"Jara, Jady Liseth"	2025	3.69	SAT	Yes	Yes	Yes	10862 | 2025	Currently Enrolled (4-Year)	No
-10847	"Jimenez Marin, Laysha"	2025	3.77	SAT	Yes	Yes	Yes	10847 | 2025	Currently Enrolled (4-Year)	No
-10898	"Jones, Julian Ray"	2025	2.84	SAT	No	No	No	10898 | 2025	Currently Enrolled (4-Year)	No
-10871	"Jones, Terion"	2025	3.19	SAT	Yes	Yes	Yes	10871 | 2025	Currently Enrolled (4-Year)	No
-10782	"Khalif, Samira Mohamed"	2025	3.48	SAT	Yes	Yes	Yes	10782 | 2025	Currently Enrolled (4-Year)	Yes
-10888	"Kolpitcke, Xavier"	2025	3.42	SAT	Yes	Yes	Yes	10888 | 2025	Currently Enrolled (4-Year)	No
-10901	"Lambert Vargas, Hildebram"	2025	2.82	SAT	No	No	No	10901 | 2025	Never Enrolled	No
-10839	"Lara-Coria, Lupita"	2025	3.12	SAT	Yes	No	No	10839 | 2025	No Longer Enrolled	No
-10803	"Lezama, Adriana Celeste"	2025	3.13	SAT	Yes	No	No	10803 | 2025	Currently Enrolled (4-Year)	No
-10828	"Llapa, Ashley Alexandra"	2025	3.58	SAT	Yes	Yes	Yes	10828 | 2025	Currently Enrolled (4-Year)	No
-10832	"Llapa, Ava Aylin"	2025	3.84	SAT	Yes	Yes	Yes	10832 | 2025	Currently Enrolled (4-Year)	Yes
-10651	"Macario-Alatoma, Santiago"	2025	3.31	SAT	Yes	Yes	Yes	10651 | 2025	Never Enrolled	Yes
-10833	"Marquez Chino, Rosemary"	2025	3.35	SAT	Yes	No	No	10833 | 2025	Currently Enrolled (4-Year)	No
-10858	"Martinez, Montserrat"	2025	3.61	SAT	Yes	Yes	Yes	10858 | 2025	Currently Enrolled (4-Year)	No
-10848	"Menchaca Salgado, Yareli"	2025	3.16	SAT	Yes	Yes	Yes	10848 | 2025	Currently Enrolled (4-Year)	Yes
-10805	"Meza Gonzalez, Mark Damian"	2025	3.04	SAT	Yes	No	No	10805 | 2025	Currently Enrolled (2-Year)	No
-10849	"Montiel Zuñiga, Ricardo"	2025	3.37	SAT	Yes	Yes	Yes	10849 | 2025	Currently Enrolled (4-Year)	Yes
-10867	"Morocho, Ivan"	2025	3.36	SAT	Yes	Yes	Yes	10867 | 2025	Currently Enrolled (4-Year)	No
-10900	"Nivicela, Yulissa Del Cisne"	2025	3.2	SAT	Yes	No	No	10900 | 2025	Currently Enrolled (4-Year)	No
-10811	"Olivos Aguilar, Alexander"	2025	3.13	SAT	Yes	Yes	Yes	10811 | 2025	Currently Enrolled (2-Year)	No
-10830	"Ortiz-Machuca, Esmeralda Ruby"	2025	3.11	SAT	Yes	No	No	10830 | 2025	Currently Enrolled (2-Year)	No
-10795	"Palma Lundquist, Diego Alonso"	2025	3.52	SAT	Yes	Yes	Yes	10795 | 2025	Currently Enrolled (4-Year)	No
-10891	"Paredes, Fabiola Alexandra"	2025	3.66	SAT	Yes	Yes	Yes	10891 | 2025	Currently Enrolled (4-Year)	No
-10843	"Paredes, Henry Chris"	2025	3.6	SAT	Yes	Yes	Yes	10843 | 2025	Currently Enrolled (4-Year)	Yes
-10855	"Pena Cruz, Karen Angelique"	2025	3.52	SAT	Yes	No	No	10855 | 2025	Currently Enrolled (4-Year)	No
-10823	"Pimentel Jimenez, Giselle"	2025	3.46	SAT	Yes	No	No	10823 | 2025	Currently Enrolled (4-Year)	No
-10869	"Pineda, Karen Juleidy"	2025	3.91	SAT	Yes	Yes	Yes	10869 | 2025	Currently Enrolled (4-Year)	No
-10894	"Quintana, Alma Lupita"	2025	3.15	SAT	Yes	Yes	Yes	10894 | 2025	Currently Enrolled (4-Year)	No
-10781	"Ramos-Camarillo, Samuel"	2025	2.83	SAT	No	Yes	No	10781 | 2025	Currently Enrolled (4-Year)	Yes
-10857	"Reyes Gavilan, Alexandra"	2025	3.57	SAT	Yes	No	No	10857 | 2025	Currently Enrolled (4-Year)	No
-10809	"Rosas Gomez, Victor"	2025	3.18	SAT	Yes	Yes	Yes	10809 | 2025	Currently Enrolled (2-Year)	Yes
-10879	"Rubio-Gil, Denzel Aaron"	2025	3.3	SAT	Yes	Yes	Yes	10879 | 2025	Currently Enrolled (4-Year)	No
-10912	"Salgado Genis, Gael"	2025	3.57	SAT	Yes	Yes	Yes	10912 | 2025	Currently Enrolled (4-Year)	Yes
-10804	"Salinas Hernandez, Fernando"	2025	3.14	SAT	Yes	No	No	10804 | 2025	Currently Enrolled (4-Year)	No
-10786	"Sanchez Rojas, Yadira"	2025	3.77	SAT	Yes	Yes	Yes	10786 | 2025	Currently Enrolled (4-Year)	No
-10816	"Sanchez Rojas, Yasmin"	2025	3.66	SAT	Yes	Yes	Yes	10816 | 2025	Currently Enrolled (4-Year)	No
-10850	"Sanchez Romero, Justyn"	2025	2.94	SAT	No	No	No	10850 | 2025	Never Enrolled	No
-10835	"Sanchez-Medina, Ruby"	2025	3.63	SAT	Yes	No	No	10835 | 2025	Currently Enrolled (4-Year)	No
-10838	"Santoscoy-MacPhee, Giovani"	2025	3.9	SAT	Yes	Yes	Yes	10838 | 2025	Currently Enrolled (4-Year)	Yes
-10827	"Sibri, Brandon"	2025	3.67	SAT	Yes	Yes	Yes	10827 | 2025	Currently Enrolled (4-Year)	Yes
-10892	"Smith, Terrachel"	2025	3.29	SAT	Yes	Yes	Yes	10892 | 2025	Currently Enrolled (4-Year)	No
-10792	"Solis, Sarahi Yanelin"	2025	3.44	SAT	Yes	Yes	Yes	10792 | 2025	Currently Enrolled (4-Year)	No
-10790	"Steele, Darnell Elisha"	2025	2.65	SAT	No	No	No	10790 | 2025	Currently Enrolled (4-Year)	No
-10883	"Tapia Rodriguez, Jose Miguel"	2025	3.19	SAT	Yes	Yes	Yes	10883 | 2025	Currently Enrolled (4-Year)	No
-10845	"Toledano Saavedra, Evelyn"	2025	3.04	SAT	Yes	No	No	10845 | 2025	Currently Enrolled (4-Year)	No
-10852	"Torres, Daniel"	2025	3.13	SAT	Yes	No	No	10852 | 2025	Never Enrolled	No
-10899	"Trinidad Osorio, Jennifer"	2025	2.87	SAT	No	No	No	10899 | 2025	Currently Enrolled (2-Year)	No
-10876	"Valdivieso, Cory Irving"	2025	3.07	SAT	Yes	No	No	10876 | 2025	Currently Enrolled (4-Year)	No
-10868	"Velez - Alvarado, Marco Vinicio"	2025	3.31	SAT	Yes	Yes	Yes	10868 | 2025	Currently Enrolled (4-Year)	Yes
-10800	"Venancio Laureano, Adrian"	2025	3.19	SAT	Yes	Yes	Yes	10800 | 2025	Currently Enrolled (4-Year)	Yes
-10807	"Villa Castro, Cristian"	2025	3.12	SAT	Yes	Yes	Yes	10807 | 2025	Currently Enrolled (4-Year)	Yes
-10791	"Zambrano, Briana Kimberly"	2025	3.8	SAT	Yes	No	No	10791 | 2025	Currently Enrolled (4-Year)	No
+12341	AA	2016	3.27	ACT	Yes	Yes	Yes	12341 | AA | 2016	Graduated (2-Year)	No
+12342	AB	2016	3.32	ACT	Yes	No	No	12342 | AB | 2016	No Longer Enrolled	No
+12343	AC	2016	3.32	ACT	Yes	No	No	12343 | AC | 2016	No Longer Enrolled	No
+12344	AD	2016	3.52	ACT	Yes	Yes	Yes	12344 | AD | 2016	No Longer Enrolled	Yes
+12345	AE	2016	3.57	ACT	Yes	Yes	Yes	12345 | AE | 2016	Credential Received	No
+12346	AF	2016	3.49	ACT	Yes	No	No	12346 | AF | 2016	No Longer Enrolled	No
+12347	AG	2016	2.95	ACT	No	Yes	No	12347 | AG | 2016	No Longer Enrolled	No
+12348	AH	2016	3.54	ACT	Yes	Yes	Yes	12348 | AH | 2016	Graduated (4-Year)	No
+12349	AI	2016	3.45	ACT	Yes	Yes	Yes	12349 | AI | 2016	No Longer Enrolled	No
+12350	AJ	2016	3.34	ACT	Yes	Yes	Yes	12350 | AJ | 2016	No Longer Enrolled	No
+12351	AK	2016	3.27	ACT	Yes	No	No	12351 | AK | 2016	No Longer Enrolled	No
+12352	AL	2016	3.23	ACT	Yes	No	No	12352 | AL | 2016	Graduated (2-Year)	No
+12353	AM	2016	3.74	ACT	Yes	Yes	Yes	12353 | AM | 2016	No Longer Enrolled	Yes
+12354	AN	2016	3.34	ACT	Yes	Yes	Yes	12354 | AN | 2016	No Longer Enrolled	No
+12355	AO	2016	3.61	ACT	Yes	Yes	Yes	12355 | AO | 2016	Graduated (4-Year)	Yes
+12356	AP	2016	3.23	ACT	Yes	No	No	12356 | AP | 2016	Graduated (4-Year)	No
+12357	AQ	2016	2.85	ACT	No	Yes	No	12357 | AQ | 2016	No Longer Enrolled	No
+12358	AR	2016	2.86	ACT	No	No	No	12358 | AR | 2016	Never Enrolled	No
+12359	AS	2016	3.46	ACT	Yes	No	No	12359 | AS | 2016	Graduated (4-Year)	No
+12360	AT	2016	3.26	ACT	Yes	No	No	12360 | AT | 2016	No Longer Enrolled	No
+12361	AU	2016	3.34	ACT	Yes	No	No	12361 | AU | 2016	Graduated (4-Year)	No
+12362	AV	2016	3.14	ACT	Yes	No	No	12362 | AV | 2016	Graduated (4-Year)	No
+12363	AW	2016	3.22	ACT	Yes	No	No	12363 | AW | 2016	Graduated (2-Year)	No
+12364	AX	2016	2.91	ACT	No	No	No	12364 | AX | 2016	No Longer Enrolled	No
+12365	AY	2016	3.26	ACT	Yes	Yes	Yes	12365 | AY | 2016	Credential Received	No
+12366	AZ	2016	3.12	ACT	Yes	No	No	12366 | AZ | 2016	No Longer Enrolled	No
+12367	AA	2016	3.35	ACT	Yes	No	No	12367 | AA | 2016	No Longer Enrolled	No
+12368	AB	2016	3.24	ACT	Yes	Yes	Yes	12368 | AB | 2016	No Longer Enrolled	No
+12369	AC	2016	3.24	ACT	Yes	No	No	12369 | AC | 2016	No Longer Enrolled	No
+12370	AD	2016	3.49	ACT	Yes	Yes	Yes	12370 | AD | 2016	Graduated (4-Year)	No
+12371	AE	2016	3.24	ACT	Yes	No	No	12371 | AE | 2016	Credential Received	No
+12372	AF	2016	3.46	ACT	Yes	No	No	12372 | AF | 2016	No Longer Enrolled	Yes
+12373	AG	2016	3.21	ACT	Yes	No	No	12373 | AG | 2016	Credential Received	No
+12374	AH	2016	3.53	ACT	Yes	Yes	Yes	12374 | AH | 2016	Graduated (4-Year)	No
+12375	AI	2016	3.11	ACT	Yes	No	No	12375 | AI | 2016	Graduated (2-Year)	No
+12376	AJ	2016	3.21	ACT	Yes	No	No	12376 | AJ | 2016	Credential Received	No
+12377	AK	2016	3.4	ACT	Yes	No	No	12377 | AK | 2016	Graduated (4-Year)	No
+12378	AL	2016	3.05	ACT	Yes	Yes	Yes	12378 | AL | 2016	No Longer Enrolled	No
+12379	AM	2016	3.17	ACT	Yes	Yes	Yes	12379 | AM | 2016	No Longer Enrolled	No
+12380	AN	2016	3.57	ACT	Yes	Yes	Yes	12380 | AN | 2016	Graduated (4-Year)	Yes
+12381	AO	2016	3.62	ACT	Yes	Yes	Yes	12381 | AO | 2016	Graduated (4-Year)	Yes
+12382	AP	2016	3.69	ACT	Yes	No	No	12382 | AP | 2016	Graduated (4-Year)	Yes
+12383	AQ	2016	3.06	ACT	Yes	Yes	Yes	12383 | AQ | 2016	Graduated (4-Year)	Yes
+12384	AR	2016	3.24	ACT	Yes	Yes	Yes	12384 | AR | 2016	Never Enrolled	No
+12385	AS	2016	3.2	ACT	Yes	Yes	Yes	12385 | AS | 2016	No Longer Enrolled	Yes
+12386	AT	2016	3.38	ACT	Yes	Yes	Yes	12386 | AT | 2016	No Longer Enrolled	No
+12387	AU	2016	3.73	ACT	Yes	Yes	Yes	12387 | AU | 2016	Graduated (4-Year)	No
+12388	AV	2016	3.34	ACT	Yes	Yes	Yes	12388 | AV | 2016	Graduated (4-Year)	No
+12389	AW	2016	3.19	ACT	Yes	No	No	12389 | AW | 2016	Graduated (4-Year)	No
+12390	AX	2016	3.31	ACT	Yes	No	No	12390 | AX | 2016	No Longer Enrolled	No
+12391	AY	2016	3.37	ACT	Yes	No	No	12391 | AY | 2016	Never Enrolled	No
+12392	AZ	2016	3.33	ACT	Yes	No	No	12392 | AZ | 2016	No Longer Enrolled	No
+12393	AA	2016	3.5	ACT	Yes	Yes	Yes	12393 | AA | 2016	No Longer Enrolled	No
+12394	AB	2016	3.07	ACT	Yes	Yes	Yes	12394 | AB | 2016	No Longer Enrolled	No
+12395	AC	2016	3.42	ACT	Yes	No	No	12395 | AC | 2016	No Longer Enrolled	No
+12396	AD	2016	3.5	ACT	Yes	No	No	12396 | AD | 2016	Graduated (4-Year)	No
+12397	AE	2016	3.14	ACT	Yes	Yes	Yes	12397 | AE | 2016	No Longer Enrolled	No
+12398	AF	2016	3.16	ACT	Yes	No	No	12398 | AF | 2016	Never Enrolled	No
+12399	AG	2016	3.42	ACT	Yes	No	No	12399 | AG | 2016	Graduated (4-Year)	No
+12400	AH	2016	3.09	ACT	Yes	No	No	12400 | AH | 2016	Never Enrolled	No
+12401	AI	2016	3.53	ACT	Yes	Yes	Yes	12401 | AI | 2016	No Longer Enrolled	No
+12402	AJ	2016	3.46	ACT	Yes	No	No	12402 | AJ | 2016	Graduated (2-Year)	No
+12403	AK	2016	3.31	ACT	Yes	Yes	Yes	12403 | AK | 2016	No Longer Enrolled	No
+12404	AL	2016	3.05	ACT	Yes	Yes	Yes	12404 | AL | 2016	No Longer Enrolled	No
+12405	AM	2016	3.25	ACT	Yes	Yes	Yes	12405 | AM | 2016	Never Enrolled	No
+12406	AN	2016	3.48	ACT	Yes	Yes	Yes	12406 | AN | 2016	No Longer Enrolled	Yes
+12407	AO	2016	3.26	ACT	Yes	No	No	12407 | AO | 2016	Graduated (4-Year)	Yes
+12408	AP	2016	3.41	ACT	Yes	No	No	12408 | AP | 2016	Graduated (4-Year)	No
+12409	AQ	2016	3.12	ACT	Yes	No	No	12409 | AQ | 2016	No Longer Enrolled	No
+12410	AR	2016	3.05	ACT	Yes	Yes	Yes	12410 | AR | 2016	No Longer Enrolled	No
+12411	AS	2016	2.85	ACT	No	Yes	No	12411 | AS | 2016	No Longer Enrolled	No
+12412	AT	2017	3.52	ACT	Yes	Yes	Yes	12412 | AT | 2017	Graduated (4-Year)	No
+12413	AU	2017	3.06	ACT	Yes	Yes	Yes	12413 | AU | 2017	No Longer Enrolled	Yes
+12414	AV	2017	2.99	ACT	No	No	No	12414 | AV | 2017	No Longer Enrolled	No
+12415	AW	2017	3.63	ACT	Yes	Yes	Yes	12415 | AW | 2017	No Longer Enrolled	No
+12416	AX	2017	3.3	ACT	Yes	Yes	Yes	12416 | AX | 2017	No Longer Enrolled	No
+12417	AY	2017	3.82	ACT	Yes	Yes	Yes	12417 | AY | 2017	Graduated (4-Year)	No
+12418	AZ	2017	3.57	ACT	Yes	Yes	Yes	12418 | AZ | 2017	Graduated (4-Year)	No
+12419	AA	2017	3.59	ACT	Yes	No	No	12419 | AA | 2017	No Longer Enrolled	Yes
+12420	AB	2017	3.56	ACT	Yes	No	No	12420 | AB | 2017	Graduated (4-Year)	No
+12421	AC	2017	3.06	ACT	Yes	Yes	Yes	12421 | AC | 2017	Graduated (4-Year)	No
+12422	AD	2017	3.54	ACT	Yes	Yes	Yes	12422 | AD | 2017	Graduated (4-Year)	No
+12423	AE	2017	3.29	ACT	Yes	Yes	Yes	12423 | AE | 2017	Graduated (4-Year)	No
+12424	AF	2017	3.41	ACT	Yes	Yes	Yes	12424 | AF | 2017	No Longer Enrolled	Yes
+12425	AG	2017	2.91	ACT	No	No	No	12425 | AG | 2017	Graduated (4-Year)	Yes
+12426	AH	2017	3.34	ACT	Yes	No	No	12426 | AH | 2017	Graduated (4-Year)	No
+12427	AI	2017	3.43	ACT	Yes	Yes	Yes	12427 | AI | 2017	Graduated (4-Year)	No
+12428	AJ	2017	3.12	ACT	Yes	No	No	12428 | AJ | 2017	Graduated (2-Year)	No
+12429	AK	2017	3.74	ACT	Yes	Yes	Yes	12429 | AK | 2017	No Longer Enrolled	Yes
+12430	AL	2017	3.16	ACT	Yes	Yes	Yes	12430 | AL | 2017	No Longer Enrolled	No
+12431	AM	2017	3.62	ACT	Yes	No	No	12431 | AM | 2017	Graduated (4-Year)	No
+12432	AN	2017	3.7	ACT	Yes	Yes	Yes	12432 | AN | 2017	Graduated (4-Year)	Yes
+12433	AO	2017	3.03	ACT	Yes	Yes	Yes	12433 | AO | 2017	No Longer Enrolled	No
+12434	AP	2017	3.44	ACT	Yes	Yes	Yes	12434 | AP | 2017	Graduated (4-Year)	No
+12435	AQ	2017	3.64	ACT	Yes	No	No	12435 | AQ | 2017	No Longer Enrolled	No
+12436	AR	2017	3.6	ACT	Yes	No	No	12436 | AR | 2017	No Longer Enrolled	Yes
+12437	AS	2017	3.41	ACT	Yes	Yes	Yes	12437 | AS | 2017	Graduated (4-Year)	No
+12438	AT	2017	3.42	ACT	Yes	No	No	12438 | AT | 2017	Graduated (4-Year)	No
+12439	AU	2017	3.5	ACT	Yes	No	No	12439 | AU | 2017	No Longer Enrolled	No
+12440	AV	2017	3.26	ACT	Yes	Yes	Yes	12440 | AV | 2017	No Longer Enrolled	No
+12441	AW	2017	3.21	ACT	Yes	Yes	Yes	12441 | AW | 2017	No Longer Enrolled	No
+12442	AX	2017	3.25	ACT	Yes	Yes	Yes	12442 | AX | 2017	No Longer Enrolled	Yes
+12443	AY	2017	3.46	ACT	Yes	No	No	12443 | AY | 2017	Graduated (4-Year)	Yes
+12444	AZ	2017	2.96	ACT	No	Yes	No	12444 | AZ | 2017	No Longer Enrolled	No
+12445	AA	2017	3.12	ACT	Yes	No	No	12445 | AA | 2017	No Longer Enrolled	No
+12446	AB	2017	3.5	ACT	Yes	No	No	12446 | AB | 2017	No Longer Enrolled	Yes
+12447	AC	2017	3.09	ACT	Yes	Yes	Yes	12447 | AC | 2017	Graduated (4-Year)	No
+12448	AD	2017	3.09	ACT	Yes	No	No	12448 | AD | 2017	No Longer Enrolled	No
+12449	AE	2017	3.61	ACT	Yes	Yes	Yes	12449 | AE | 2017	Graduated (4-Year)	Yes
+12450	AF	2017	2.98	ACT	No	Yes	No	12450 | AF | 2017	Never Enrolled	No
+12451	AG	2017	3	ACT	Yes	No	No	12451 | AG | 2017	No Longer Enrolled	No
+12452	AH	2017	3.15	ACT	Yes	No	No	12452 | AH | 2017	Graduated (4-Year)	No
+12453	AI	2017	3.44	ACT	Yes	No	No	12453 | AI | 2017	Graduated (4-Year)	No
+12454	AJ	2017	3.29	ACT	Yes	Yes	Yes	12454 | AJ | 2017	Graduated (4-Year)	No
+12455	AK	2017	3.19	ACT	Yes	No	No	12455 | AK | 2017	No Longer Enrolled	No
+12456	AL	2017	3.53	ACT	Yes	Yes	Yes	12456 | AL | 2017	No Longer Enrolled	No
+12457	AM	2017	3.52	ACT	Yes	No	No	12457 | AM | 2017	Graduated (4-Year)	No
+12458	AN	2017	3.26	ACT	Yes	Yes	Yes	12458 | AN | 2017	Graduated (2-Year)	No
+12459	AO	2017	3.1	ACT	Yes	Yes	Yes	12459 | AO | 2017	Graduated (2-Year)	No
+12460	AP	2017	3.32	ACT	Yes	Yes	Yes	12460 | AP | 2017	Graduated (2-Year)	No
+12461	AQ	2017	3.83	ACT	Yes	No	No	12461 | AQ | 2017	Graduated (4-Year)	Yes
+12462	AR	2017	3.59	ACT	Yes	Yes	Yes	12462 | AR | 2017	Graduated (4-Year)	No
+12463	AS	2017	3.34	ACT	Yes	No	No	12463 | AS | 2017	Graduated (4-Year)	No
+12464	AT	2017	3.13	ACT	Yes	No	No	12464 | AT | 2017	No Longer Enrolled	No
+12465	AU	2017	3.44	ACT	Yes	No	No	12465 | AU | 2017	No Longer Enrolled	No
+12466	AV	2017	3.37	ACT	Yes	Yes	Yes	12466 | AV | 2017	Graduated (2-Year)	No
+12467	AW	2017	3.47	ACT	Yes	No	No	12467 | AW | 2017	No Longer Enrolled	No
+12468	AX	2017	3.56	ACT	Yes	Yes	Yes	12468 | AX | 2017	Graduated (4-Year)	No
+12469	AY	2017	3.23	ACT	Yes	Yes	Yes	12469 | AY | 2017	Graduated (2-Year)	No
+12470	AZ	2017	3.22	ACT	Yes	Yes	Yes	12470 | AZ | 2017	No Longer Enrolled	No
+12471	AA	2017	3.75	ACT	Yes	No	No	12471 | AA | 2017	Graduated (4-Year)	No
+12472	AB	2017	3.67	ACT	Yes	No	No	12472 | AB | 2017	Graduated (4-Year)	Yes
+12473	AC	2017	3.5	ACT	Yes	No	No	12473 | AC | 2017	Graduated (4-Year)	No
+12474	AD	2017	3.35	ACT	Yes	Yes	Yes	12474 | AD | 2017	Graduated (4-Year)	No
+12475	AE	2017	3.25	ACT	Yes	Yes	Yes	12475 | AE | 2017	No Longer Enrolled	No
+12476	AF	2017	3.57	ACT	Yes	Yes	Yes	12476 | AF | 2017	No Longer Enrolled	No
+12477	AG	2017	3.91	ACT	Yes	Yes	Yes	12477 | AG | 2017	Graduated (4-Year)	Yes
+12478	AH	2017	3.7	ACT	Yes	Yes	Yes	12478 | AH | 2017	Graduated (4-Year)	Yes
+12479	AI	2017	3.42	ACT	Yes	No	No	12479 | AI | 2017	No Longer Enrolled	No
+12480	AJ	2017	3.02	ACT	Yes	Yes	Yes	12480 | AJ | 2017	No Longer Enrolled	No
+12481	AK	2017	2.96	ACT	No	No	No	12481 | AK | 2017	No Longer Enrolled	No
+12482	AL	2017	3.71	ACT	Yes	Yes	Yes	12482 | AL | 2017	Graduated (4-Year)	No
+12483	AM	2017	3.05	ACT	Yes	Yes	Yes	12483 | AM | 2017	Graduated (2-Year)	No
+12484	AN	2017	3.08	ACT	Yes	No	No	12484 | AN | 2017	No Longer Enrolled	No
+12485	AO	2017	3.11	ACT	Yes	Yes	Yes	12485 | AO | 2017	No Longer Enrolled	Yes
+12486	AP	2017	3.68	ACT	Yes	No	No	12486 | AP | 2017	Graduated (4-Year)	No
+12487	AQ	2017	3.51	ACT	Yes	Yes	Yes	12487 | AQ | 2017	No Longer Enrolled	Yes
+12488	AR	2017	3.35	ACT	Yes	No	No	12488 | AR | 2017	No Longer Enrolled	No
+12489	AS	2017	3.23	ACT	Yes	Yes	Yes	12489 | AS | 2017	Graduated (4-Year)	No
+12490	AT	2017	3.25	ACT	Yes	Yes	Yes	12490 | AT | 2017	Never Enrolled	No
+12491	AU	2017	3.54	ACT	Yes	Yes	Yes	12491 | AU | 2017	Graduated (4-Year)	No
+12492	AV	2017	3.28	ACT	Yes	Yes	Yes	12492 | AV | 2017	No Longer Enrolled	No
+12493	AW	2017	3.5	ACT	Yes	Yes	Yes	12493 | AW | 2017	No Longer Enrolled	No
+12494	AX	2017	3.49	ACT	Yes	Yes	Yes	12494 | AX | 2017	Graduated (4-Year)	No
+12495	AY	2017	3.64	ACT	Yes	No	No	12495 | AY | 2017	No Longer Enrolled	No
+12496	AZ	2017	3.03	ACT	Yes	Yes	Yes	12496 | AZ | 2017	No Longer Enrolled	No
+12497	AA	2018	3.28	ACT	Yes	No	No	12497 | AA | 2018	Graduated (4-Year)	No
+12498	AB	2018	3.83	ACT	Yes	No	No	12498 | AB | 2018	"Graduated (4-Year), Continuing"	No
+12499	AC	2018	3.19	ACT	Yes	No	No	12499 | AC | 2018	No Longer Enrolled	No
+12500	AD	2018	3.03	ACT	Yes	Yes	Yes	12500 | AD | 2018	Graduated (2-Year)	No
+12501	AE	2018	3.06	ACT	Yes	Yes	Yes	12501 | AE | 2018	Never Enrolled	No
+12502	AF	2018	3.64	ACT	Yes	Yes	Yes	12502 | AF | 2018	Graduated (4-Year)	Yes
+12503	AG	2018	3.24	ACT	Yes	No	No	12503 | AG | 2018	No Longer Enrolled	Yes
+12504	AH	2018	3.61	ACT	Yes	No	No	12504 | AH | 2018	Graduated (4-Year)	No
+12505	AI	2018	3.29	ACT	Yes	No	No	12505 | AI | 2018	Graduated (2-Year)	No
+12506	AJ	2018	3.19	ACT	Yes	No	No	12506 | AJ | 2018	No Longer Enrolled	No
+12507	AK	2018	3.1	ACT	Yes	Yes	Yes	12507 | AK | 2018	No Longer Enrolled	No
+12508	AL	2018	2.88	ACT	No	No	No	12508 | AL | 2018	No Longer Enrolled	No
+12509	AM	2018	3.51	ACT	Yes	Yes	Yes	12509 | AM | 2018	Graduated (4-Year)	No
+12510	AN	2018	3.38	ACT	Yes	Yes	Yes	12510 | AN | 2018	Currently Enrolled (4-Year)	No
+12511	AO	2018	3.33	ACT	Yes	Yes	Yes	12511 | AO | 2018	Currently Enrolled (4-Year)	Yes
+12512	AP	2018	3.69	ACT	Yes	No	No	12512 | AP | 2018	"Graduated (2-Year), Continuing"	No
+12513	AQ	2018	3.67	ACT	Yes	No	No	12513 | AQ | 2018	Graduated (4-Year)	Yes
+12514	AR	2018	2.78	ACT	No	No	No	12514 | AR | 2018	Never Enrolled	No
+12515	AS	2018	3.71	ACT	Yes	No	No	12515 | AS | 2018	Graduated (4-Year)	No
+12516	AT	2018	3.4	ACT	Yes	No	No	12516 | AT | 2018	Graduated (2-Year)	No
+12517	AU	2018	2.86	ACT	No	No	No	12517 | AU | 2018	No Longer Enrolled	No
+12518	AV	2018	2.68	ACT	No	No	No	12518 | AV | 2018	No Longer Enrolled	No
+12519	AW	2018	3.01	ACT	Yes	Yes	Yes	12519 | AW | 2018	No Longer Enrolled	No
+12520	AX	2018	3.07	ACT	Yes	No	No	12520 | AX | 2018	"Graduated (2-Year), Continuing"	No
+12521	AY	2018	3.41	ACT	Yes	No	No	12521 | AY | 2018	Graduated (4-Year)	Yes
+12522	AZ	2018	3.25	ACT	Yes	Yes	Yes	12522 | AZ | 2018	Never Enrolled	No
+12523	AA	2018	3.15	ACT	Yes	No	No	12523 | AA | 2018	Graduated (2-Year)	No
+12524	AB	2018	3.42	ACT	Yes	Yes	Yes	12524 | AB | 2018	Graduated (4-Year)	No
+12525	AC	2018	3.73	ACT	Yes	No	No	12525 | AC | 2018	Credential Received	No
+12526	AD	2018	3.28	ACT	Yes	No	No	12526 | AD | 2018	"Graduated (4-Year), Continuing"	No
+12527	AE	2018	3.1	ACT	Yes	No	No	12527 | AE | 2018	Currently Enrolled (4-Year)	No
+12528	AF	2018	3.34	ACT	Yes	No	No	12528 | AF | 2018	No Longer Enrolled	No
+12529	AG	2018	3.08	ACT	Yes	Yes	Yes	12529 | AG | 2018	No Longer Enrolled	No
+12530	AH	2018	3.31	ACT	Yes	No	No	12530 | AH | 2018	No Longer Enrolled	No
+12531	AI	2018	3.69	ACT	Yes	No	No	12531 | AI | 2018	"Graduated (2-Year), Continuing"	Yes
+12532	AJ	2018	2.75	ACT	No	No	No	12532 | AJ | 2018	No Longer Enrolled	No
+12533	AK	2018	3.16	ACT	Yes	No	No	12533 | AK | 2018	Graduated (4-Year)	No
+12534	AL	2018	3.3	ACT	Yes	No	No	12534 | AL | 2018	Graduated (4-Year)	No
+12535	AM	2018	2.95	ACT	No	Yes	No	12535 | AM | 2018	No Longer Enrolled	No
+12536	AN	2018	3.08	ACT	Yes	Yes	Yes	12536 | AN | 2018	Graduated (2-Year)	No
+12537	AO	2018	3.3	ACT	Yes	No	No	12537 | AO | 2018	No Longer Enrolled	No
+12538	AP	2018	3.61	ACT	Yes	Yes	Yes	12538 | AP | 2018	Graduated (4-Year)	No
+12539	AQ	2018	3.31	ACT	Yes	No	No	12539 | AQ | 2018	Graduated (4-Year)	No
+12540	AR	2018	3.48	ACT	Yes	Yes	Yes	12540 | AR | 2018	Never Enrolled	Yes
+12541	AS	2018	3.59	ACT	Yes	No	No	12541 | AS | 2018	No Longer Enrolled	No
+12542	AT	2018	3.02	ACT	Yes	Yes	Yes	12542 | AT | 2018	No Longer Enrolled	No
+12543	AU	2018	2.84	ACT	No	No	No	12543 | AU | 2018	No Longer Enrolled	No
+12544	AV	2018	3.54	ACT	Yes	Yes	Yes	12544 | AV | 2018	Graduated (4-Year)	No
+12545	AW	2018	3.05	ACT	Yes	Yes	Yes	12545 | AW | 2018	No Longer Enrolled	No
+12546	AX	2018	3.08	ACT	Yes	Yes	Yes	12546 | AX | 2018	No Longer Enrolled	No
+12547	AY	2018	3.55	ACT	Yes	No	No	12547 | AY | 2018	Graduated (4-Year)	No
+12548	AZ	2018	3.31	ACT	Yes	Yes	Yes	12548 | AZ | 2018	No Longer Enrolled	No
+12549	AA	2018	3.46	ACT	Yes	No	No	12549 | AA | 2018	Graduated (2-Year)	No
+12550	AB	2018	2.9	ACT	No	Yes	No	12550 | AB | 2018	No Longer Enrolled	No
+12551	AC	2018	2.75	ACT	No	Yes	No	12551 | AC | 2018	Never Enrolled	No
+12552	AD	2018	3.28	ACT	Yes	No	No	12552 | AD | 2018	Currently Enrolled (4-Year)	No
+12553	AE	2018	3.74	ACT	Yes	No	No	12553 | AE | 2018	"Graduated (4-Year), Continuing"	No
+12554	AF	2018	3.31	ACT	Yes	No	No	12554 | AF | 2018	Credential Received	No
+12555	AG	2018	3.17	ACT	Yes	Yes	Yes	12555 | AG | 2018	Graduated (4-Year)	No
+12556	AH	2018	3.06	ACT	Yes	Yes	Yes	12556 | AH | 2018	No Longer Enrolled	No
+12557	AI	2018	3.25	ACT	Yes	Yes	Yes	12557 | AI | 2018	No Longer Enrolled	No
+12558	AJ	2018	3.53	ACT	Yes	Yes	Yes	12558 | AJ | 2018	No Longer Enrolled	No
+12559	AK	2018	3.52	ACT	Yes	Yes	Yes	12559 | AK | 2018	Currently Enrolled (4-Year)	No
+12560	AL	2018	3.22	ACT	Yes	No	No	12560 | AL | 2018	Graduated (4-Year)	No
+12561	AM	2018	3.22	ACT	Yes	Yes	Yes	12561 | AM | 2018	No Longer Enrolled	Yes
+12562	AN	2018	3.45	ACT	Yes	No	No	12562 | AN | 2018	No Longer Enrolled	No
+12563	AO	2018	3.14	ACT	Yes	No	No	12563 | AO | 2018	Graduated (4-Year)	Yes
+12564	AP	2018	3.1	ACT	Yes	Yes	Yes	12564 | AP | 2018	Never Enrolled	No
+12565	AQ	2018	2.82	ACT	No	Yes	No	12565 | AQ | 2018	No Longer Enrolled	No
+12566	AR	2018	3.61	ACT	Yes	No	No	12566 | AR | 2018	Graduated (4-Year)	No
+12567	AS	2018	3.63	ACT	Yes	No	No	12567 | AS | 2018	Graduated (4-Year)	No
+12568	AT	2018	3.24	ACT	Yes	Yes	Yes	12568 | AT | 2018	Never Enrolled	No
+12569	AU	2018	3.56	ACT	Yes	No	No	12569 | AU | 2018	Graduated (4-Year)	No
+12570	AV	2018	3.72	ACT	Yes	Yes	Yes	12570 | AV | 2018	"Graduated (4-Year), Continuing"	No
+12571	AW	2018	2.92	ACT	No	No	No	12571 | AW | 2018	No Longer Enrolled	No
+12572	AX	2018	3.85	ACT	Yes	Yes	Yes	12572 | AX | 2018	"Graduated (4-Year), Continuing"	Yes
+12573	AY	2018	3.41	ACT	Yes	Yes	Yes	12573 | AY | 2018	No Longer Enrolled	No
+12574	AZ	2018	3.87	ACT	Yes	Yes	Yes	12574 | AZ | 2018	Graduated (4-Year)	No
+12575	AA	2018	3.7	ACT	Yes	Yes	Yes	12575 | AA | 2018	Graduated (4-Year)	Yes
+12576	AB	2018	3.05	ACT	Yes	No	No	12576 | AB | 2018	Never Enrolled	No
+12577	AC	2019	3.46	ACT	Yes	Yes	Yes	12577 | AC | 2019	Graduated (4-Year)	Yes
+12578	AD	2019	3.57	ACT	Yes	No	No	12578 | AD | 2019	Graduated (4-Year)	No
+12579	AE	2019	3.5	ACT	Yes	No	No	12579 | AE | 2019	Currently Enrolled (4-Year)	Yes
+12580	AF	2019	3.19	ACT	Yes	Yes	Yes	12580 | AF | 2019	No Longer Enrolled	No
+12581	AG	2019	3.52	ACT	Yes	No	No	12581 | AG | 2019	Graduated (4-Year)	No
+12582	AH	2019	3.88	ACT	Yes	Yes	Yes	12582 | AH | 2019	Graduated (4-Year)	Yes
+12583	AI	2019	3.07	ACT	Yes	No	No	12583 | AI | 2019	No Longer Enrolled	No
+12584	AJ	2019	3.81	ACT	Yes	No	No	12584 | AJ | 2019	"Graduated (4-Year), Continuing"	Yes
+12585	AK	2019	3.01	ACT	Yes	Yes	Yes	12585 | AK | 2019	Never Enrolled	No
+12586	AL	2019	3.25	ACT	Yes	No	No	12586 | AL | 2019	No Longer Enrolled	No
+12587	AM	2019	3.51	ACT	Yes	Yes	Yes	12587 | AM | 2019	No Longer Enrolled	No
+12588	AN	2019	2.88	ACT	No	No	No	12588 | AN | 2019	Never Enrolled	No
+12589	AO	2019	3.82	ACT	Yes	Yes	Yes	12589 | AO | 2019	Graduated (4-Year)	No
+12590	AP	2019	3.23	ACT	Yes	No	No	12590 | AP | 2019	No Longer Enrolled	No
+12591	AQ	2019	3.64	ACT	Yes	No	No	12591 | AQ | 2019	Graduated (4-Year)	No
+12592	AR	2019	3.41	ACT	Yes	Yes	Yes	12592 | AR | 2019	No Longer Enrolled	No
+12593	AS	2019	3.42	ACT	Yes	Yes	Yes	12593 | AS | 2019	No Longer Enrolled	No
+12594	AT	2019	3.4	ACT	Yes	Yes	Yes	12594 | AT | 2019	Graduated (4-Year)	No
+12595	AU	2019	3.76	ACT	Yes	No	No	12595 | AU | 2019	No Longer Enrolled	Yes
+12596	AV	2019	3.37	ACT	Yes	No	No	12596 | AV | 2019	No Longer Enrolled	No
+12597	AW	2019	3.6	ACT	Yes	Yes	Yes	12597 | AW | 2019	Graduated (4-Year)	No
+12598	AX	2019	3.07	ACT	Yes	No	No	12598 | AX | 2019	No Longer Enrolled	No
+12599	AY	2019	3.96	ACT	Yes	No	No	12599 | AY | 2019	Graduated (4-Year)	Yes
+12600	AZ	2019	3.32	ACT	Yes	Yes	Yes	12600 | AZ | 2019	No Longer Enrolled	No
+12601	AA	2019	3.13	ACT	Yes	No	No	12601 | AA | 2019	No Longer Enrolled	No
+12602	AB	2019	2.97	ACT	No	No	No	12602 | AB | 2019	No Longer Enrolled	No
+12603	AC	2019	3.27	ACT	Yes	No	No	12603 | AC | 2019	Currently Enrolled (2-Year)	No
+12604	AD	2019	3.47	ACT	Yes	Yes	Yes	12604 | AD | 2019	No Longer Enrolled	No
+12605	AE	2019	3.15	ACT	Yes	Yes	Yes	12605 | AE | 2019	Graduated (2-Year)	No
+12606	AF	2019	2.94	ACT	No	Yes	No	12606 | AF | 2019	Never Enrolled	No
+12607	AG	2019	3.18	ACT	Yes	Yes	Yes	12607 | AG | 2019	"Graduated (2-Year), Continuing"	No
+12608	AH	2019	3.69	ACT	Yes	No	No	12608 | AH | 2019	No Longer Enrolled	Yes
+12609	AI	2019	3.85	ACT	Yes	Yes	Yes	12609 | AI | 2019	Graduated (4-Year)	No
+12610	AJ	2019	3.43	ACT	Yes	Yes	Yes	12610 | AJ | 2019	Graduated (2-Year)	No
+12611	AK	2019	3.18	ACT	Yes	Yes	Yes	12611 | AK | 2019	No Longer Enrolled	No
+12612	AL	2019	3.31	ACT	Yes	Yes	Yes	12612 | AL | 2019	No Longer Enrolled	No
+12613	AM	2019	3.52	ACT	Yes	No	No	12613 | AM | 2019	No Longer Enrolled	No
+12614	AN	2019	3.83	ACT	Yes	Yes	Yes	12614 | AN | 2019	Graduated (4-Year)	Yes
+12615	AO	2019	3.2	ACT	Yes	No	No	12615 | AO | 2019	No Longer Enrolled	No
+12616	AP	2019	3.7	ACT	Yes	Yes	Yes	12616 | AP | 2019	Graduated (4-Year)	No
+12617	AQ	2019	3.39	ACT	Yes	No	No	12617 | AQ | 2019	"Graduated (2-Year), Continuing"	No
+12618	AR	2019	3.64	ACT	Yes	Yes	Yes	12618 | AR | 2019	No Longer Enrolled	No
+12619	AS	2019	3.3	ACT	Yes	No	No	12619 | AS | 2019	Never Enrolled	No
+12620	AT	2019	3.24	ACT	Yes	Yes	Yes	12620 | AT | 2019	No Longer Enrolled	Yes
+12621	AU	2019	3.95	ACT	Yes	Yes	Yes	12621 | AU | 2019	Graduated (4-Year)	No
+12622	AV	2019	3.62	ACT	Yes	Yes	Yes	12622 | AV | 2019	"Graduated (4-Year), Continuing"	No
+12623	AW	2019	2.73	ACT	No	No	No	12623 | AW | 2019	Never Enrolled	Yes
+12624	AX	2019	3.9	ACT	Yes	Yes	Yes	12624 | AX | 2019	Graduated (4-Year)	No
+12625	AY	2019	3.35	ACT	Yes	No	No	12625 | AY | 2019	"Graduated (2-Year), Continuing"	No
+12626	AZ	2019	2.9	ACT	No	No	No	12626 | AZ | 2019	No Longer Enrolled	No
+12627	AA	2019	3.33	ACT	Yes	No	No	12627 | AA | 2019	Graduated (4-Year)	No
+12628	AB	2019	3.61	ACT	Yes	Yes	Yes	12628 | AB | 2019	Graduated (4-Year)	No
+12629	AC	2019	3.95	ACT	Yes	Yes	Yes	12629 | AC | 2019	Graduated (4-Year)	No
+12630	AD	2019	3.26	ACT	Yes	No	No	12630 | AD | 2019	Graduated (4-Year)	Yes
+12631	AE	2019	3.52	ACT	Yes	Yes	Yes	12631 | AE | 2019	No Longer Enrolled	Yes
+12632	AF	2019	3.76	ACT	Yes	No	No	12632 | AF | 2019	"Graduated (4-Year), Continuing"	No
+12633	AG	2019	3.27	ACT	Yes	No	No	12633 | AG | 2019	Graduated (2-Year)	Yes
+12634	AH	2019	3.56	ACT	Yes	No	No	12634 | AH | 2019	Graduated (4-Year)	No
+12635	AI	2019	3.77	ACT	Yes	Yes	Yes	12635 | AI | 2019	Graduated (4-Year)	No
+12636	AJ	2019	3.64	ACT	Yes	No	No	12636 | AJ | 2019	Never Enrolled	No
+12637	AK	2019	2.97	ACT	No	No	No	12637 | AK | 2019	Never Enrolled	No
+12638	AL	2019	3.85	ACT	Yes	Yes	Yes	12638 | AL | 2019	"Graduated (4-Year), Continuing"	No
+12639	AM	2019	2.9	ACT	No	No	No	12639 | AM | 2019	Currently Enrolled (2-Year)	No
+12640	AN	2019	3.81	ACT	Yes	No	No	12640 | AN | 2019	Graduated (4-Year)	Yes
+12641	AO	2019	3.83	ACT	Yes	Yes	Yes	12641 | AO | 2019	No Longer Enrolled	No
+12642	AP	2019	3.54	ACT	Yes	Yes	Yes	12642 | AP | 2019	Graduated (4-Year)	No
+12643	AQ	2019	3.5	ACT	Yes	Yes	Yes	12643 | AQ | 2019	Currently Enrolled (4-Year)	Yes
+12644	AR	2019	3.8	ACT	Yes	Yes	Yes	12644 | AR | 2019	Graduated (4-Year)	No
+12645	AS	2019	3.09	ACT	Yes	No	No	12645 | AS | 2019	No Longer Enrolled	Yes
+12646	AT	2019	3.27	ACT	Yes	Yes	Yes	12646 | AT | 2019	Never Enrolled	Yes
+12647	AU	2019	3.85	ACT	Yes	No	No	12647 | AU | 2019	No Longer Enrolled	No
+12648	AV	2019	2.96	ACT	No	Yes	No	12648 | AV | 2019	Credential Received	No
+12649	AW	2019	3.58	ACT	Yes	No	No	12649 | AW | 2019	No Longer Enrolled	No
+12650	AX	2019	3.37	ACT	Yes	Yes	Yes	12650 | AX | 2019	Never Enrolled	Yes
+12651	AY	2019	3.29	ACT	Yes	Yes	Yes	12651 | AY | 2019	No Longer Enrolled	No
+12652	AZ	2019	3.46	ACT	Yes	Yes	Yes	12652 | AZ | 2019	No Longer Enrolled	Yes
+12653	AA	2019	3.95	ACT	Yes	No	No	12653 | AA | 2019	Graduated (4-Year)	No
+12654	AB	2019	3.25	ACT	Yes	Yes	Yes	12654 | AB | 2019	Never Enrolled	Yes
+12655	AC	2019	3.79	ACT	Yes	Yes	Yes	12655 | AC | 2019	Graduated (4-Year)	No
+12656	AD	2019	3.35	ACT	Yes	No	No	12656 | AD | 2019	Never Enrolled	Yes
+12657	AE	2019	3.22	ACT	Yes	No	No	12657 | AE | 2019	"Graduated (2-Year), Continuing"	Yes
+12658	AF	2019	3.08	ACT	Yes	No	No	12658 | AF | 2019	No Longer Enrolled	No
+12659	AG	2019	3.17	ACT	Yes	Yes	Yes	12659 | AG | 2019	Currently Enrolled (2-Year)	No
+12660	AH	2019	3.93	ACT	Yes	Yes	Yes	12660 | AH | 2019	Graduated (4-Year)	No
+12661	AI	2019	3.35	ACT	Yes	Yes	Yes	12661 | AI | 2019	No Longer Enrolled	No
+12662	AJ	2019	3.08	ACT	Yes	Yes	Yes	12662 | AJ | 2019	Graduated (4-Year)	No
+12663	AK	2019	3.35	ACT	Yes	Yes	Yes	12663 | AK | 2019	No Longer Enrolled	No
+12664	AL	2019	3.7	ACT	Yes	No	No	12664 | AL | 2019	Graduated (4-Year)	Yes
+12665	AM	2019	3.49	ACT	Yes	No	No	12665 | AM | 2019	Graduated (4-Year)	No
+12666	AN	2019	3.82	ACT	Yes	Yes	Yes	12666 | AN | 2019	Graduated (4-Year)	No
+12667	AO	2019	2.71	ACT	No	No	No	12667 | AO | 2019	Never Enrolled	No
+12668	AP	2019	3.81	ACT	Yes	Yes	Yes	12668 | AP | 2019	Currently Enrolled (2-Year)	No
+12669	AQ	2019	3.38	ACT	Yes	Yes	Yes	12669 | AQ | 2019	Graduated (4-Year)	No
+12670	AR	2019	3.74	ACT	Yes	No	No	12670 | AR | 2019	Graduated (4-Year)	No
+12671	AS	2019	3.62	ACT	Yes	Yes	Yes	12671 | AS | 2019	Graduated (4-Year)	Yes
+12672	AT	2019	3.03	ACT	Yes	Yes	Yes	12672 | AT | 2019	Never Enrolled	No
+12673	AU	2019	3.65	ACT	Yes	Yes	Yes	12673 | AU | 2019	Graduated (4-Year)	No
+12674	AV	2019	3.84	ACT	Yes	Yes	Yes	12674 | AV | 2019	Graduated (4-Year)	No
+12675	AW	2019	2.78	ACT	No	No	No	12675 | AW | 2019	Never Enrolled	No
+12676	AX	2019	3.29	ACT	Yes	Yes	Yes	12676 | AX | 2019	No Longer Enrolled	No
+12677	AY	2019	3.52	ACT	Yes	Yes	Yes	12677 | AY | 2019	Graduated (4-Year)	No
+12678	AZ	2019	3.81	ACT	Yes	Yes	Yes	12678 | AZ | 2019	No Longer Enrolled	Yes
+12679	AA	2019	3.6	ACT	Yes	No	No	12679 | AA | 2019	No Longer Enrolled	No
+12680	AB	2019	3.87	ACT	Yes	No	No	12680 | AB | 2019	Graduated (4-Year)	Yes
+12681	AC	2019	3.65	ACT	Yes	Yes	Yes	12681 | AC | 2019	Never Enrolled	No
+12682	AD	2019	2.96	ACT	No	Yes	No	12682 | AD | 2019	Never Enrolled	No
+12683	AE	2019	3.68	ACT	Yes	Yes	Yes	12683 | AE | 2019	Graduated (4-Year)	No
+12684	AF	2019	3.65	ACT	Yes	Yes	Yes	12684 | AF | 2019	Graduated (4-Year)	No
+12685	AG	2019	2.86	ACT	No	Yes	No	12685 | AG | 2019	No Longer Enrolled	No
+12686	AH	2019	3.32	ACT	Yes	No	No	12686 | AH | 2019	No Longer Enrolled	No
+12687	AI	2019	3.58	ACT	Yes	Yes	Yes	12687 | AI | 2019	No Longer Enrolled	No
+12688	AJ	2019	3.85	ACT	Yes	Yes	Yes	12688 | AJ | 2019	No Longer Enrolled	No
+12689	AK	2019	2.88	ACT	No	No	No	12689 | AK | 2019	No Longer Enrolled	Yes
+12690	AL	2019	3.41	ACT	Yes	Yes	Yes	12690 | AL | 2019	Never Enrolled	No
+12691	AM	2019	3.83	ACT	Yes	Yes	Yes	12691 | AM | 2019	Graduated (4-Year)	No
+12692	AN	2019	2.88	ACT	No	Yes	No	12692 | AN | 2019	No Longer Enrolled	No
+12693	AO	2019	2.95	ACT	No	Yes	No	12693 | AO | 2019	No Longer Enrolled	No
+12694	AP	2019	2.78	ACT	No	Yes	No	12694 | AP | 2019	Graduated (4-Year)	No
+12695	AQ	2019	3.81	ACT	Yes	No	No	12695 | AQ | 2019	Graduated (4-Year)	Yes
+12696	AR	2019	3.69	ACT	Yes	No	No	12696 | AR | 2019	Graduated (4-Year)	Yes
+12697	AS	2019	2.86	ACT	No	Yes	No	12697 | AS | 2019	Never Enrolled	No
+12698	AT	2019	3.47	ACT	Yes	No	No	12698 | AT | 2019	Credential Received	No
+12699	AU	2019	3	ACT	Yes	No	No	12699 | AU | 2019	No Longer Enrolled	No
+12700	AV	2019	3.04	ACT	Yes	Yes	Yes	12700 | AV | 2019	No Longer Enrolled	No
+12701	AW	2019	3.32	ACT	Yes	No	No	12701 | AW | 2019	"Graduated (2-Year), Continuing"	No
+12702	AX	2019	3.79	ACT	Yes	Yes	Yes	12702 | AX | 2019	No Longer Enrolled	No
+12703	AY	2019	3.35	ACT	Yes	Yes	Yes	12703 | AY | 2019	No Longer Enrolled	No
+12704	AZ	2019	3.04	ACT	Yes	No	No	12704 | AZ | 2019	No Longer Enrolled	No
+12705	AA	2019	3.82	ACT	Yes	No	No	12705 | AA | 2019	Graduated (4-Year)	No
+12706	AB	2020	3.67	ACT	Yes	No	No	12706 | AB | 2020	Graduated (4-Year)	No
+12707	AC	2020	2.99	ACT	No	No	No	12707 | AC | 2020	Never Enrolled	No
+12708	AD	2020	3.57	ACT	Yes	Yes	Yes	12708 | AD | 2020	No Longer Enrolled	No
+12709	AE	2020	3.34	ACT	Yes	No	No	12709 | AE | 2020	Currently Enrolled (4-Year)	No
+12710	AF	2020	3.85	ACT	Yes	Yes	Yes	12710 | AF | 2020	Graduated (4-Year)	No
+12711	AG	2020	3.41	ACT	Yes	No	No	12711 | AG | 2020	No Longer Enrolled	No
+12712	AH	2020	3.39	ACT	Yes	Yes	Yes	12712 | AH | 2020	No Longer Enrolled	Yes
+12713	AI	2020	2.93	ACT	No	Yes	No	12713 | AI | 2020	Never Enrolled	No
+12714	AJ	2020	3.58	ACT	Yes	No	No	12714 | AJ | 2020	No Longer Enrolled	No
+12715	AK	2020	3.28	ACT	Yes	Yes	Yes	12715 | AK | 2020	No Longer Enrolled	No
+12716	AL	2020	3.77	ACT	Yes	Yes	Yes	12716 | AL | 2020	"Graduated (4-Year), Continuing"	No
+12717	AM	2020	3.85	ACT	Yes	No	No	12717 | AM | 2020	Never Enrolled	No
+12718	AN	2020	3.73	ACT	Yes	Yes	Yes	12718 | AN | 2020	Graduated (4-Year)	No
+12719	AO	2020	3.31	ACT	Yes	No	No	12719 | AO | 2020	Credential Received	No
+12720	AP	2020	3.78	ACT	Yes	No	No	12720 | AP | 2020	Graduated (4-Year)	No
+12721	AQ	2020	3.91	ACT	Yes	Yes	Yes	12721 | AQ | 2020	"Graduated (4-Year), Continuing"	No
+12722	AR	2020	3.65	ACT	Yes	Yes	Yes	12722 | AR | 2020	Currently Enrolled (2-Year)	No
+12723	AS	2020	2.77	ACT	No	Yes	No	12723 | AS | 2020	Never Enrolled	No
+12724	AT	2020	3.04	ACT	Yes	Yes	Yes	12724 | AT | 2020	Graduated (4-Year)	Yes
+12725	AU	2020	3.65	ACT	Yes	No	No	12725 | AU | 2020	Graduated (4-Year)	No
+12726	AV	2020	3.85	ACT	Yes	Yes	Yes	12726 | AV | 2020	Currently Enrolled (4-Year)	Yes
+12727	AW	2020	3.79	ACT	Yes	Yes	Yes	12727 | AW | 2020	Currently Enrolled (4-Year)	No
+12728	AX	2020	3.49	ACT	Yes	Yes	Yes	12728 | AX | 2020	No Longer Enrolled	No
+12729	AY	2020	3.12	ACT	Yes	No	No	12729 | AY | 2020	"Graduated (2-Year), Continuing"	Yes
+12730	AZ	2020	3.19	ACT	Yes	No	No	12730 | AZ | 2020	No Longer Enrolled	No
+12731	AA	2020	3.86	ACT	Yes	No	No	12731 | AA | 2020	"Graduated (4-Year), Continuing"	No
+12732	AB	2020	3.69	ACT	Yes	Yes	Yes	12732 | AB | 2020	No Longer Enrolled	No
+12733	AC	2020	3.81	ACT	Yes	Yes	Yes	12733 | AC | 2020	No Longer Enrolled	No
+12734	AD	2020	3.48	ACT	Yes	No	No	12734 | AD | 2020	Graduated (4-Year)	Yes
+12735	AE	2020	3.73	ACT	Yes	No	No	12735 | AE | 2020	Graduated (4-Year)	No
+12736	AF	2020	3.85	ACT	Yes	No	No	12736 | AF | 2020	Graduated (4-Year)	No
+12737	AG	2020	3.45	ACT	Yes	Yes	Yes	12737 | AG | 2020	No Longer Enrolled	No
+12738	AH	2020	3.8	ACT	Yes	Yes	Yes	12738 | AH | 2020	No Longer Enrolled	No
+12739	AI	2020	3.8	ACT	Yes	Yes	Yes	12739 | AI | 2020	Graduated (4-Year)	No
+12740	AJ	2020	3.16	ACT	Yes	Yes	Yes	12740 | AJ | 2020	"Graduated (4-Year), Continuing"	Yes
+12741	AK	2020	3.53	ACT	Yes	No	No	12741 | AK | 2020	Graduated (4-Year)	Yes
+12742	AL	2020	3.5	ACT	Yes	Yes	Yes	12742 | AL | 2020	No Longer Enrolled	No
+12743	AM	2020	2.95	ACT	No	Yes	No	12743 | AM | 2020	No Longer Enrolled	No
+12744	AN	2020	3.61	ACT	Yes	No	No	12744 | AN | 2020	No Longer Enrolled	Yes
+12745	AO	2020	3.65	ACT	Yes	Yes	Yes	12745 | AO | 2020	Graduated (4-Year)	Yes
+12746	AP	2020	3.65	ACT	Yes	Yes	Yes	12746 | AP | 2020	Graduated (2-Year)	No
+12747	AQ	2020	3.49	ACT	Yes	Yes	Yes	12747 | AQ | 2020	No Longer Enrolled	Yes
+12748	AR	2020	3.4	ACT	Yes	Yes	Yes	12748 | AR | 2020	No Longer Enrolled	Yes
+12749	AS	2020	3.92	ACT	Yes	Yes	Yes	12749 | AS | 2020	Graduated (4-Year)	Yes
+12750	AT	2020	3.6	ACT	Yes	Yes	Yes	12750 | AT | 2020	Graduated (4-Year)	Yes
+12751	AU	2020	2.97	ACT	No	Yes	No	12751 | AU | 2020	No Longer Enrolled	No
+12752	AV	2020	3.64	ACT	Yes	Yes	Yes	12752 | AV | 2020	Graduated (4-Year)	No
+12753	AW	2020	3.08	ACT	Yes	No	No	12753 | AW | 2020	Graduated (2-Year)	Yes
+12754	AX	2020	3.45	ACT	Yes	No	No	12754 | AX | 2020	Graduated (2-Year)	Yes
+12755	AY	2020	3.62	ACT	Yes	No	No	12755 | AY | 2020	Graduated (4-Year)	No
+12756	AZ	2020	3.32	ACT	Yes	Yes	Yes	12756 | AZ | 2020	Graduated (2-Year)	No
+12757	AA	2020	3.23	ACT	Yes	Yes	Yes	12757 | AA | 2020	No Longer Enrolled	No
+12758	AB	2020	3.56	ACT	Yes	No	No	12758 | AB | 2020	Never Enrolled	No
+12759	AC	2020	3.72	ACT	Yes	No	No	12759 | AC | 2020	Graduated (4-Year)	No
+12760	AD	2020	3.63	ACT	Yes	No	No	12760 | AD | 2020	No Longer Enrolled	No
+12761	AE	2020	3.28	ACT	Yes	Yes	Yes	12761 | AE | 2020	Currently Enrolled (2-Year)	No
+12762	AF	2020	3.97	ACT	Yes	Yes	Yes	12762 | AF | 2020	Graduated (4-Year)	No
+12763	AG	2020	3.86	ACT	Yes	No	No	12763 | AG | 2020	Graduated (4-Year)	No
+12764	AH	2020	3.22	ACT	Yes	No	No	12764 | AH | 2020	Never Enrolled	No
+12765	AI	2020	2.93	ACT	No	Yes	No	12765 | AI | 2020	No Longer Enrolled	No
+12766	AJ	2020	3.42	ACT	Yes	No	No	12766 | AJ | 2020	Graduated (4-Year)	No
+12767	AK	2020	3.42	ACT	Yes	Yes	Yes	12767 | AK | 2020	Currently Enrolled (2-Year)	No
+12768	AL	2020	3.58	ACT	Yes	Yes	Yes	12768 | AL | 2020	No Longer Enrolled	No
+12769	AM	2020	3.31	ACT	Yes	Yes	Yes	12769 | AM | 2020	No Longer Enrolled	No
+12770	AN	2020	3.86	ACT	Yes	No	No	12770 | AN | 2020	Graduated (4-Year)	Yes
+12771	AO	2020	3.29	ACT	Yes	No	No	12771 | AO | 2020	Never Enrolled	Yes
+12772	AP	2020	3.59	ACT	Yes	No	No	12772 | AP | 2020	Graduated (4-Year)	No
+12773	AQ	2020	3.27	ACT	Yes	No	No	12773 | AQ | 2020	Graduated (4-Year)	No
+12774	AR	2020	3.42	ACT	Yes	Yes	Yes	12774 | AR | 2020	No Longer Enrolled	No
+12775	AS	2020	3.28	ACT	Yes	Yes	Yes	12775 | AS | 2020	Never Enrolled	No
+12776	AT	2020	3.87	ACT	Yes	Yes	Yes	12776 | AT | 2020	Graduated (4-Year)	No
+12777	AU	2020	3.91	ACT	Yes	Yes	Yes	12777 | AU | 2020	No Longer Enrolled	Yes
+12778	AV	2020	3.06	ACT	Yes	Yes	Yes	12778 | AV | 2020	No Longer Enrolled	Yes
+12779	AW	2020	3.88	ACT	Yes	No	No	12779 | AW | 2020	Graduated (4-Year)	Yes
+12780	AX	2020	3.22	ACT	Yes	No	No	12780 | AX | 2020	Never Enrolled	Yes
+12781	AY	2020	3.58	ACT	Yes	No	No	12781 | AY | 2020	Currently Enrolled (4-Year)	No
+12782	AZ	2020	3.7	ACT	Yes	Yes	Yes	12782 | AZ | 2020	Graduated (4-Year)	No
+12783	AA	2020	3.17	ACT	Yes	Yes	Yes	12783 | AA | 2020	Graduated (4-Year)	No
+12784	AB	2020	2.64	ACT	No	No	No	12784 | AB | 2020	Never Enrolled	Yes
+12785	AC	2020	2.84	ACT	No	Yes	No	12785 | AC | 2020	No Longer Enrolled	Yes
+12786	AD	2020	3.46	ACT	Yes	No	No	12786 | AD | 2020	Graduated (4-Year)	No
+12787	AE	2020	3.39	ACT	Yes	Yes	Yes	12787 | AE | 2020	Never Enrolled	Yes
+12788	AF	2020	3.69	ACT	Yes	Yes	Yes	12788 | AF | 2020	Graduated (2-Year)	No
+12789	AG	2020	3.3	ACT	Yes	Yes	Yes	12789 | AG | 2020	No Longer Enrolled	No
+12790	AH	2020	3.16	ACT	Yes	No	No	12790 | AH | 2020	No Longer Enrolled	Yes
+12791	AI	2020	3.42	ACT	Yes	Yes	Yes	12791 | AI | 2020	No Longer Enrolled	No
+12792	AJ	2020	3.49	ACT	Yes	No	No	12792 | AJ | 2020	Never Enrolled	No
+12793	AK	2020	3.46	ACT	Yes	Yes	Yes	12793 | AK | 2020	Graduated (4-Year)	No
+12794	AL	2020	3.73	ACT	Yes	Yes	Yes	12794 | AL | 2020	Graduated (4-Year)	No
+12795	AM	2020	3.63	ACT	Yes	No	No	12795 | AM | 2020	Graduated (2-Year)	No
+12796	AN	2020	3.43	ACT	Yes	Yes	Yes	12796 | AN | 2020	Never Enrolled	No
+12797	AO	2020	3.92	ACT	Yes	Yes	Yes	12797 | AO | 2020	No Longer Enrolled	No
+12798	AP	2020	3.61	ACT	Yes	No	No	12798 | AP | 2020	No Longer Enrolled	No
+12799	AQ	2020	3.58	ACT	Yes	No	No	12799 | AQ | 2020	"Graduated (4-Year), Continuing"	No
+12800	AR	2020	3.48	ACT	Yes	Yes	Yes	12800 | AR | 2020	No Longer Enrolled	No
+12801	AS	2020	3.68	ACT	Yes	No	No	12801 | AS | 2020	Credential Received	No
+12802	AT	2020	3.68	ACT	Yes	No	No	12802 | AT | 2020	Graduated (4-Year)	No
+12803	AU	2020	3.39	ACT	Yes	Yes	Yes	12803 | AU | 2020	Currently Enrolled (2-Year)	No
+12804	AV	2020	3.59	ACT	Yes	No	No	12804 | AV | 2020	No Longer Enrolled	No
+12805	AW	2020	3.91	ACT	Yes	No	No	12805 | AW | 2020	Graduated (4-Year)	Yes
+12806	AX	2020	3.62	ACT	Yes	No	No	12806 | AX | 2020	No Longer Enrolled	No
+12807	AY	2020	3.17	ACT	Yes	No	No	12807 | AY | 2020	Graduated (2-Year)	No
+12808	AZ	2020	3.87	ACT	Yes	Yes	Yes	12808 | AZ | 2020	"Graduated (4-Year), Continuing"	No
+12809	AA	2020	3.57	ACT	Yes	Yes	Yes	12809 | AA | 2020	No Longer Enrolled	No
+12810	AB	2020	3.55	ACT	Yes	Yes	Yes	12810 | AB | 2020	Graduated (4-Year)	Yes
+12811	AC	2020	3.35	ACT	Yes	Yes	Yes	12811 | AC | 2020	Graduated (4-Year)	No
+12812	AD	2020	3.68	ACT	Yes	Yes	Yes	12812 | AD | 2020	Graduated (2-Year)	No
+12813	AE	2020	3.26	ACT	Yes	Yes	Yes	12813 | AE | 2020	Graduated (4-Year)	No
+12814	AF	2020	3.06	ACT	Yes	Yes	Yes	12814 | AF | 2020	Currently Enrolled (4-Year)	Yes
+12815	AG	2020	3.59	ACT	Yes	Yes	Yes	12815 | AG | 2020	Graduated (4-Year)	No
+12816	AH	2020	3.71	ACT	Yes	No	No	12816 | AH | 2020	Graduated (4-Year)	No
+12817	AI	2020	3.91	ACT	Yes	No	No	12817 | AI | 2020	Graduated (4-Year)	No
+12818	AJ	2020	3.69	ACT	Yes	Yes	Yes	12818 | AJ | 2020	Graduated (4-Year)	No
+12819	AK	2020	3.62	ACT	Yes	Yes	Yes	12819 | AK | 2020	No Longer Enrolled	No
+12820	AL	2020	3.63	ACT	Yes	No	No	12820 | AL | 2020	No Longer Enrolled	Yes
+12821	AM	2020	3.32	ACT	Yes	Yes	Yes	12821 | AM | 2020	Currently Enrolled (2-Year)	No
+12822	AN	2020	3.88	ACT	Yes	Yes	Yes	12822 | AN | 2020	Graduated (4-Year)	No
+12823	AO	2020	3.63	ACT	Yes	Yes	Yes	12823 | AO | 2020	Graduated (4-Year)	No
+12824	AP	2020	3.28	ACT	Yes	Yes	Yes	12824 | AP | 2020	Currently Enrolled (4-Year)	No
+12825	AQ	2020	3.61	ACT	Yes	Yes	Yes	12825 | AQ | 2020	Currently Enrolled (4-Year)	Yes
+12826	AR	2020	3.13	ACT	Yes	Yes	Yes	12826 | AR | 2020	Currently Enrolled (2-Year)	No
+12827	AS	2020	3.6	ACT	Yes	No	No	12827 | AS | 2020	No Longer Enrolled	Yes
+12828	AT	2020	3.49	NA	Yes	Yes	Yes	12828 | AT | 2020	No Longer Enrolled	No
+12829	AU	2020	3.19	NA	Yes	Yes	Yes	12829 | AU | 2020	No Longer Enrolled	No
+12830	AV	2022	3.1	NA	Yes	No	No	12830 | AV | 2022	No Longer Enrolled	No
+12831	AW	2022	2.99	NA	No	No	No	12831 | AW | 2022	Never Enrolled	No
+12832	AX	2022	2.98	NA	No	Yes	No	12832 | AX | 2022	No Longer Enrolled	No
+12833	AY	2022	3.18	NA	Yes	No	No	12833 | AY | 2022	Currently Enrolled (4-Year)	No
+12834	AZ	2022	3.86	NA	Yes	Yes	Yes	12834 | AZ | 2022	Currently Enrolled (4-Year)	No
+12835	AA	2022	2.91	NA	No	No	No	12835 | AA | 2022	No Longer Enrolled	No
+12836	AB	2022	3.21	NA	Yes	No	No	12836 | AB | 2022	Never Enrolled	Yes
+12837	AC	2022	3.22	NA	Yes	Yes	Yes	12837 | AC | 2022	No Longer Enrolled	No
+12838	AD	2022	3.71	NA	Yes	Yes	Yes	12838 | AD | 2022	No Longer Enrolled	No
+12839	AE	2022	3.76	NA	Yes	No	No	12839 | AE | 2022	Currently Enrolled (4-Year)	No
+12840	AF	2022	3.69	NA	Yes	Yes	Yes	12840 | AF | 2022	No Longer Enrolled	No
+12841	AG	2022	3.19	NA	Yes	No	No	12841 | AG | 2022	No Longer Enrolled	No
+12842	AH	2022	3.55	NA	Yes	No	No	12842 | AH | 2022	No Longer Enrolled	No
+12843	AI	2022	2.83	NA	No	No	No	12843 | AI | 2022	Graduated (2-Year)	No
+12844	AJ	2022	3.34	NA	Yes	No	No	12844 | AJ | 2022	Currently Enrolled (4-Year)	No
+12845	AK	2022	3.64	NA	Yes	Yes	Yes	12845 | AK | 2022	Graduated (2-Year)	No
+12846	AL	2022	3.19	NA	Yes	No	No	12846 | AL | 2022	No Longer Enrolled	No
+12847	AM	2022	3.78	NA	Yes	No	No	12847 | AM | 2022	Currently Enrolled (4-Year)	No
+12848	AN	2022	3.32	NA	Yes	Yes	Yes	12848 | AN | 2022	Currently Enrolled (4-Year)	No
+12849	AO	2022	3.56	NA	Yes	Yes	Yes	12849 | AO | 2022	Currently Enrolled (4-Year)	No
+12850	AP	2022	3.9	NA	Yes	Yes	Yes	12850 | AP | 2022	Currently Enrolled (4-Year)	No
+12851	AQ	2022	3.48	NA	Yes	Yes	Yes	12851 | AQ | 2022	Currently Enrolled (2-Year)	No
+12852	AR	2022	3.44	NA	Yes	No	No	12852 | AR | 2022	No Longer Enrolled	No
+12853	AS	2022	3.26	NA	Yes	Yes	Yes	12853 | AS | 2022	Never Enrolled	No
+12854	AT	2022	3.9	NA	Yes	Yes	Yes	12854 | AT | 2022	No Longer Enrolled	No
+12855	AU	2022	3.38	NA	Yes	No	No	12855 | AU | 2022	Never Enrolled	No
+12856	AV	2022	3.8	NA	Yes	No	No	12856 | AV | 2022	Currently Enrolled (4-Year)	No
+12857	AW	2022	3.62	NA	Yes	No	No	12857 | AW | 2022	No Longer Enrolled	No
+12858	AX	2022	3.8	NA	Yes	Yes	Yes	12858 | AX | 2022	Currently Enrolled (4-Year)	No
+12859	AY	2022	3.62	NA	Yes	Yes	Yes	12859 | AY | 2022	Currently Enrolled (2-Year)	No
+12860	AZ	2022	2.79	NA	No	No	No	12860 | AZ | 2022	Never Enrolled	No
+12861	AA	2022	2.58	NA	No	No	No	12861 | AA | 2022	Never Enrolled	No
+12862	AB	2022	2.72	NA	No	No	No	12862 | AB | 2022	Never Enrolled	No
+12863	AC	2022	3.55	NA	Yes	Yes	Yes	12863 | AC | 2022	No Longer Enrolled	No
+12864	AD	2022	3.85	NA	Yes	Yes	Yes	12864 | AD | 2022	Currently Enrolled (4-Year)	No
+12865	AE	2022	3.12	NA	Yes	No	No	12865 | AE | 2022	No Longer Enrolled	No
+12866	AF	2022	3.15	NA	Yes	No	No	12866 | AF | 2022	No Longer Enrolled	No
+12867	AG	2022	2.69	NA	No	No	No	12867 | AG | 2022	No Longer Enrolled	No
+12868	AH	2022	3.83	NA	Yes	No	No	12868 | AH | 2022	"Graduated (2-Year), Continuing"	No
+12869	AI	2022	3.44	NA	Yes	No	No	12869 | AI | 2022	Never Enrolled	No
+12870	AJ	2022	3.94	NA	Yes	Yes	Yes	12870 | AJ | 2022	Currently Enrolled (4-Year)	No
+12871	AK	2022	3.83	NA	Yes	Yes	Yes	12871 | AK | 2022	Never Enrolled	No
+12872	AL	2022	3.7	NA	Yes	No	No	12872 | AL | 2022	Currently Enrolled (4-Year)	No
+12873	AM	2022	3.57	NA	Yes	No	No	12873 | AM | 2022	Currently Enrolled (4-Year)	No
+12874	AN	2022	2.53	NA	No	No	No	12874 | AN | 2022	No Longer Enrolled	No
+12875	AO	2022	3.17	NA	Yes	No	No	12875 | AO | 2022	Currently Enrolled (2-Year)	No
+12876	AP	2022	3.55	NA	Yes	Yes	Yes	12876 | AP | 2022	Currently Enrolled (4-Year)	No
+12877	AQ	2022	3.38	NA	Yes	Yes	Yes	12877 | AQ | 2022	No Longer Enrolled	No
+12878	AR	2022	3.41	NA	Yes	Yes	Yes	12878 | AR | 2022	Graduated (4-Year)	No
+12879	AS	2022	2.39	NA	No	No	No	12879 | AS | 2022	Never Enrolled	No
+12880	AT	2022	3.78	NA	Yes	Yes	Yes	12880 | AT | 2022	Graduated (2-Year)	No
+12881	AU	2022	3.33	NA	Yes	No	No	12881 | AU | 2022	No Longer Enrolled	No
+12882	AV	2022	3.48	NA	Yes	No	No	12882 | AV | 2022	Currently Enrolled (4-Year)	No
+12883	AW	2022	3.49	NA	Yes	No	No	12883 | AW | 2022	No Longer Enrolled	No
+12884	AX	2022	3.77	NA	Yes	Yes	Yes	12884 | AX | 2022	Currently Enrolled (4-Year)	No
+12885	AY	2022	3.68	NA	Yes	No	No	12885 | AY | 2022	Currently Enrolled (4-Year)	No
+12886	AZ	2022	3.55	NA	Yes	Yes	Yes	12886 | AZ | 2022	Currently Enrolled (4-Year)	No
+12887	AA	2022	3.08	NA	Yes	No	No	12887 | AA | 2022	Never Enrolled	No
+12888	AB	2022	3.26	NA	Yes	No	No	12888 | AB | 2022	No Longer Enrolled	No
+12889	AC	2022	3.86	NA	Yes	No	No	12889 | AC | 2022	Currently Enrolled (4-Year)	No
+12890	AD	2022	3.94	NA	Yes	Yes	Yes	12890 | AD | 2022	Currently Enrolled (4-Year)	No
+12891	AE	2022	3.75	NA	Yes	No	No	12891 | AE | 2022	Graduated (4-Year)	No
+12892	AF	2022	3.88	NA	Yes	Yes	Yes	12892 | AF | 2022	No Longer Enrolled	No
+12893	AG	2022	3.2	NA	Yes	No	No	12893 | AG | 2022	Currently Enrolled (4-Year)	No
+12894	AH	2022	3.72	NA	Yes	Yes	Yes	12894 | AH | 2022	Currently Enrolled (4-Year)	No
+12895	AI	2022	2.9	NA	No	No	No	12895 | AI | 2022	No Longer Enrolled	No
+12896	AJ	2022	2.73	NA	No	No	No	12896 | AJ | 2022	Currently Enrolled (2-Year)	No
+12897	AK	2022	3.84	NA	Yes	No	No	12897 | AK | 2022	Currently Enrolled (4-Year)	No
+12898	AL	2022	3.83	NA	Yes	Yes	Yes	12898 | AL | 2022	Graduated (4-Year)	No
+12899	AM	2022	2.96	NA	No	No	No	12899 | AM | 2022	No Longer Enrolled	No
+12900	AN	2022	3.81	NA	Yes	No	No	12900 | AN | 2022	Currently Enrolled (4-Year)	No
+12901	AO	2022	3.81	NA	Yes	Yes	Yes	12901 | AO | 2022	Never Enrolled	No
+12902	AP	2022	3.84	NA	Yes	Yes	Yes	12902 | AP | 2022	"Graduated (2-Year), Continuing"	No
+12903	AQ	2022	3.52	NA	Yes	No	No	12903 | AQ | 2022	Currently Enrolled (4-Year)	No
+12904	AR	2022	3.87	NA	Yes	Yes	Yes	12904 | AR | 2022	Currently Enrolled (4-Year)	No
+12905	AS	2022	2.92	NA	No	No	No	12905 | AS | 2022	Currently Enrolled (2-Year)	No
+12906	AT	2022	3.48	NA	Yes	No	No	12906 | AT | 2022	Currently Enrolled (4-Year)	No
+12907	AU	2022	3.26	NA	Yes	Yes	Yes	12907 | AU | 2022	No Longer Enrolled	No
+12908	AV	2022	3.08	NA	Yes	No	No	12908 | AV | 2022	Currently Enrolled (2-Year)	No
+12909	AW	2022	3.6	NA	Yes	Yes	Yes	12909 | AW | 2022	Currently Enrolled (4-Year)	No
+12910	AX	2022	3.12	NA	Yes	No	No	12910 | AX | 2022	No Longer Enrolled	No
+12911	AY	2022	3.86	NA	Yes	No	No	12911 | AY | 2022	Currently Enrolled (4-Year)	No
+12912	AZ	2022	3.52	NA	Yes	Yes	Yes	12912 | AZ | 2022	Never Enrolled	No
+12913	AA	2022	2.88	NA	No	No	No	12913 | AA | 2022	No Longer Enrolled	No
+12914	AB	2022	3.92	NA	Yes	No	No	12914 | AB | 2022	Currently Enrolled (4-Year)	No
+12915	AC	2022	2.95	NA	No	Yes	No	12915 | AC | 2022	No Longer Enrolled	No
+12916	AD	2022	3.69	NA	Yes	Yes	Yes	12916 | AD | 2022	Currently Enrolled (4-Year)	No
+12917	AE	2022	3.65	NA	Yes	Yes	Yes	12917 | AE | 2022	Currently Enrolled (4-Year)	No
+12918	AF	2022	3.95	NA	Yes	Yes	Yes	12918 | AF | 2022	No Longer Enrolled	No
+12919	AG	2022	3.68	NA	Yes	No	No	12919 | AG | 2022	Currently Enrolled (2-Year)	No
+12920	AH	2022	3.79	NA	Yes	Yes	Yes	12920 | AH | 2022	Currently Enrolled (4-Year)	No
+12921	AI	2022	3.65	NA	Yes	No	No	12921 | AI | 2022	Currently Enrolled (4-Year)	No
+12922	AJ	2022	3.5	NA	Yes	No	No	12922 | AJ | 2022	No Longer Enrolled	No
+12923	AK	2022	3.55	NA	Yes	No	No	12923 | AK | 2022	Currently Enrolled (4-Year)	No
+12924	AL	2022	3.59	NA	Yes	No	No	12924 | AL | 2022	No Longer Enrolled	No
+12925	AM	2022	3.72	NA	Yes	Yes	Yes	12925 | AM | 2022	Currently Enrolled (4-Year)	No
+12926	AN	2022	3.53	NA	Yes	Yes	Yes	12926 | AN | 2022	Currently Enrolled (4-Year)	No
+12927	AO	2022	3.53	NA	Yes	Yes	Yes	12927 | AO | 2022	Currently Enrolled (4-Year)	No
+12928	AP	2022	3.23	NA	Yes	No	No	12928 | AP | 2022	Never Enrolled	No
+12929	AQ	2022	3.81	NA	Yes	No	No	12929 | AQ | 2022	Currently Enrolled (2-Year)	No
+12930	AR	2022	3.19	NA	Yes	Yes	Yes	12930 | AR | 2022	No Longer Enrolled	No
+12931	AS	2022	3.86	NA	Yes	Yes	Yes	12931 | AS | 2022	Currently Enrolled (4-Year)	No
+12932	AT	2022	3.87	NA	Yes	No	No	12932 | AT | 2022	Currently Enrolled (4-Year)	No
+12933	AU	2022	3.45	NA	Yes	No	No	12933 | AU | 2022	Currently Enrolled (2-Year)	No
+12934	AV	2023	3.37	SAT	Yes	No	No	12934 | AV | 2023	Currently Enrolled (4-Year)	No
+12935	AW	2023	2.9	SAT	No	No	No	12935 | AW | 2023	No Longer Enrolled	No
+12936	AX	2023	2.9	SAT	No	No	No	12936 | AX | 2023	No Longer Enrolled	No
+12937	AY	2023	3.85	SAT	Yes	Yes	Yes	12937 | AY | 2023	Currently Enrolled (4-Year)	No
+12938	AZ	2023	3.3	SAT	Yes	No	No	12938 | AZ | 2023	Currently Enrolled (4-Year)	No
+12939	AA	2023	2.38	SAT	No	No	No	12939 | AA | 2023	Never Enrolled	No
+12940	AB	2023	3.36	SAT	Yes	Yes	Yes	12940 | AB | 2023	Currently Enrolled (4-Year)	No
+12941	AC	2023	3.53	SAT	Yes	Yes	Yes	12941 | AC | 2023	No Longer Enrolled	No
+12942	AD	2023	3.97	SAT	Yes	Yes	Yes	12942 | AD | 2023	Currently Enrolled (4-Year)	No
+12943	AE	2023	3.44	SAT	Yes	No	No	12943 | AE | 2023	Currently Enrolled (4-Year)	No
+12944	AF	2023	3.3	SAT	Yes	No	No	12944 | AF | 2023	No Longer Enrolled	No
+12945	AG	2023	2.96	SAT	No	No	No	12945 | AG | 2023	No Longer Enrolled	No
+12946	AH	2023	3.64	SAT	Yes	Yes	Yes	12946 | AH | 2023	Currently Enrolled (4-Year)	No
+12947	AI	2023	2.9	SAT	No	Yes	No	12947 | AI | 2023	No Longer Enrolled	No
+12948	AJ	2023	3.71	SAT	Yes	No	No	12948 | AJ | 2023	Currently Enrolled (4-Year)	No
+12949	AK	2023	3.21	SAT	Yes	No	No	12949 | AK | 2023	No Longer Enrolled	No
+12950	AL	2023	3.29	SAT	Yes	No	No	12950 | AL | 2023	No Longer Enrolled	No
+12951	AM	2023	3	SAT	Yes	No	No	12951 | AM | 2023	Currently Enrolled (2-Year)	No
+12952	AN	2023	3.02	SAT	Yes	No	No	12952 | AN | 2023	Currently Enrolled (4-Year)	No
+12953	AO	2023	3.06	SAT	Yes	No	No	12953 | AO | 2023	Credential Received	No
+12954	AP	2023	3.07	SAT	Yes	No	No	12954 | AP | 2023	No Longer Enrolled	No
+12955	AQ	2023	3.32	SAT	Yes	No	No	12955 | AQ | 2023	Currently Enrolled (4-Year)	No
+12956	AR	2023	2.46	SAT	No	No	No	12956 | AR | 2023	Currently Enrolled (2-Year)	No
+12957	AS	2023	3.29	SAT	Yes	Yes	Yes	12957 | AS | 2023	Graduated (2-Year)	No
+12958	AT	2023	3	SAT	Yes	No	No	12958 | AT | 2023	No Longer Enrolled	No
+12959	AU	2023	3.9	SAT	Yes	Yes	Yes	12959 | AU | 2023	Currently Enrolled (4-Year)	No
+12960	AV	2023	3.45	SAT	Yes	Yes	Yes	12960 | AV | 2023	Currently Enrolled (4-Year)	No
+12961	AW	2023	3.03	SAT	Yes	No	No	12961 | AW | 2023	Graduated (2-Year)	No
+12962	AX	2023	2.81	SAT	No	No	No	12962 | AX | 2023	Currently Enrolled (2-Year)	No
+12963	AY	2023	3.9	SAT	Yes	Yes	Yes	12963 | AY | 2023	Currently Enrolled (4-Year)	No
+12964	AZ	2023	3.05	SAT	Yes	Yes	Yes	12964 | AZ | 2023	Currently Enrolled (4-Year)	No
+12965	AA	2023	2.72	SAT	No	No	No	12965 | AA | 2023	No Longer Enrolled	No
+12966	AB	2023	3.34	SAT	Yes	No	No	12966 | AB | 2023	No Longer Enrolled	No
+12967	AC	2023	3.74	SAT	Yes	Yes	Yes	12967 | AC | 2023	Currently Enrolled (2-Year)	No
+12968	AD	2023	3.67	SAT	Yes	Yes	Yes	12968 | AD | 2023	Currently Enrolled (4-Year)	No
+12969	AE	2023	3.8	SAT	Yes	No	No	12969 | AE | 2023	No Longer Enrolled	No
+12970	AF	2023	3.75	SAT	Yes	No	No	12970 | AF | 2023	Currently Enrolled (4-Year)	No
+12971	AG	2023	3.34	SAT	Yes	Yes	Yes	12971 | AG | 2023	Currently Enrolled (4-Year)	No
+12972	AH	2023	3.12	SAT	Yes	Yes	Yes	12972 | AH | 2023	No Longer Enrolled	No
+12973	AI	2023	3.88	SAT	Yes	Yes	Yes	12973 | AI | 2023	Currently Enrolled (4-Year)	No
+12974	AJ	2023	2.98	SAT	No	Yes	No	12974 | AJ | 2023	Currently Enrolled (2-Year)	No
+12975	AK	2023	3.2	SAT	Yes	No	No	12975 | AK | 2023	Currently Enrolled (4-Year)	No
+12976	AL	2023	3.06	SAT	Yes	No	No	12976 | AL | 2023	No Longer Enrolled	No
+12977	AM	2023	3.74	SAT	Yes	Yes	Yes	12977 | AM | 2023	Currently Enrolled (4-Year)	No
+12978	AN	2023	2.97	SAT	No	No	No	12978 | AN | 2023	"Graduated (2-Year), Continuing"	No
+12979	AO	2023	3.85	SAT	Yes	Yes	Yes	12979 | AO | 2023	Currently Enrolled (4-Year)	No
+12980	AP	2023	3.93	SAT	Yes	Yes	Yes	12980 | AP | 2023	Currently Enrolled (4-Year)	No
+12981	AQ	2023	3.17	SAT	Yes	No	No	12981 | AQ | 2023	No Longer Enrolled	No
+12982	AR	2023	3.24	SAT	Yes	No	No	12982 | AR | 2023	Currently Enrolled (4-Year)	No
+12983	AS	2023	3.63	SAT	Yes	Yes	Yes	12983 | AS | 2023	Currently Enrolled (4-Year)	No
+12984	AT	2023	3.08	SAT	Yes	Yes	Yes	12984 | AT | 2023	Graduated (2-Year)	No
+12985	AU	2023	2.78	SAT	No	Yes	No	12985 | AU | 2023	No Longer Enrolled	No
+12986	AV	2023	3.7	SAT	Yes	Yes	Yes	12986 | AV | 2023	Currently Enrolled (4-Year)	No
+12987	AW	2023	3.74	SAT	Yes	No	No	12987 | AW | 2023	Currently Enrolled (4-Year)	No
+12988	AX	2023	2.98	SAT	No	No	No	12988 | AX | 2023	No Longer Enrolled	No
+12989	AY	2023	3.18	SAT	Yes	No	No	12989 | AY | 2023	Currently Enrolled (4-Year)	No
+12990	AZ	2023	2.79	SAT	No	No	No	12990 | AZ | 2023	No Longer Enrolled	No
+12991	AA	2023	3.45	SAT	Yes	No	No	12991 | AA | 2023	Graduated (2-Year)	No
+12992	AB	2023	3.08	SAT	Yes	No	No	12992 | AB | 2023	No Longer Enrolled	No
+12993	AC	2023	3.82	SAT	Yes	Yes	Yes	12993 | AC | 2023	Currently Enrolled (4-Year)	No
+12994	AD	2023	3.35	SAT	Yes	Yes	Yes	12994 | AD | 2023	Currently Enrolled (2-Year)	No
+12995	AE	2023	3.28	SAT	Yes	No	No	12995 | AE | 2023	Currently Enrolled (4-Year)	No
+12996	AF	2023	3.31	SAT	Yes	No	No	12996 | AF | 2023	No Longer Enrolled	No
+12997	AG	2023	3.49	SAT	Yes	No	No	12997 | AG | 2023	No Longer Enrolled	No
+12998	AH	2023	3.65	SAT	Yes	Yes	Yes	12998 | AH | 2023	Currently Enrolled (4-Year)	No
+12999	AI	2023	3.08	SAT	Yes	No	No	12999 | AI | 2023	No Longer Enrolled	No
+13000	AJ	2023	3.9	SAT	Yes	Yes	Yes	13000 | AJ | 2023	Currently Enrolled (4-Year)	No
+13001	AK	2023	3.33	SAT	Yes	No	No	13001 | AK | 2023	No Longer Enrolled	No
+13002	AL	2023	2.51	SAT	No	No	No	13002 | AL | 2023	Currently Enrolled (2-Year)	No
+13003	AM	2023	3.05	SAT	Yes	No	No	13003 | AM | 2023	No Longer Enrolled	No
+13004	AN	2023	3.42	SAT	Yes	No	No	13004 | AN | 2023	Currently Enrolled (4-Year)	No
+13005	AO	2023	3.11	SAT	Yes	No	No	13005 | AO | 2023	No Longer Enrolled	No
+13006	AP	2023	3.82	SAT	Yes	No	No	13006 | AP | 2023	Currently Enrolled (4-Year)	No
+13007	AQ	2023	3.65	SAT	Yes	No	No	13007 | AQ | 2023	Currently Enrolled (4-Year)	No
+13008	AR	2023	3.96	SAT	Yes	Yes	Yes	13008 | AR | 2023	Currently Enrolled (4-Year)	No
+13009	AS	2023	3.27	SAT	Yes	No	No	13009 | AS | 2023	Currently Enrolled (4-Year)	No
+13010	AT	2023	2.83	SAT	No	No	No	13010 | AT | 2023	No Longer Enrolled	No
+13011	AU	2023	2.88	SAT	No	Yes	No	13011 | AU | 2023	Currently Enrolled (2-Year)	No
+13012	AV	2023	3.96	SAT	Yes	Yes	Yes	13012 | AV | 2023	Currently Enrolled (4-Year)	No
+13013	AW	2023	2.78	SAT	No	No	No	13013 | AW | 2023	Never Enrolled	No
+13014	AX	2023	3.43	SAT	Yes	No	No	13014 | AX | 2023	No Longer Enrolled	No
+13015	AY	2023	3.2	SAT	Yes	No	No	13015 | AY | 2023	"Graduated (2-Year), Continuing"	No
+13016	AZ	2023	3.1	SAT	Yes	No	No	13016 | AZ | 2023	Currently Enrolled (2-Year)	No
+13017	AA	2023	3.27	SAT	Yes	Yes	Yes	13017 | AA | 2023	Currently Enrolled (4-Year)	No
+13018	AB	2023	3.63	SAT	Yes	Yes	Yes	13018 | AB | 2023	Currently Enrolled (4-Year)	No
+13019	AC	2023	3.21	SAT	Yes	Yes	Yes	13019 | AC | 2023	Never Enrolled	No
+13020	AD	2023	2.95	SAT	No	No	No	13020 | AD | 2023	Currently Enrolled (2-Year)	No
+13021	AE	2023	3.65	SAT	Yes	No	No	13021 | AE | 2023	Currently Enrolled (2-Year)	No
+13022	AF	2023	2.44	SAT	No	No	No	13022 | AF | 2023	Never Enrolled	No
+13023	AG	2023	3.14	SAT	Yes	No	No	13023 | AG | 2023	Currently Enrolled (4-Year)	No
+13024	AH	2023	3.51	SAT	Yes	Yes	Yes	13024 | AH | 2023	Currently Enrolled (4-Year)	No
+13025	AI	2023	2.91	SAT	No	No	No	13025 | AI | 2023	Currently Enrolled (2-Year)	No
+13026	AJ	2023	3.41	SAT	Yes	No	No	13026 | AJ | 2023	Currently Enrolled (2-Year)	No
+13027	AK	2023	2.76	SAT	No	No	No	13027 | AK | 2023	No Longer Enrolled	No
+13028	AL	2023	3.66	SAT	Yes	Yes	Yes	13028 | AL | 2023	Currently Enrolled (4-Year)	No
+13029	AM	2023	2.94	SAT	No	Yes	No	13029 | AM | 2023	Currently Enrolled (2-Year)	No
+13030	AN	2023	3.26	SAT	Yes	No	No	13030 | AN | 2023	Currently Enrolled (4-Year)	No
+13031	AO	2023	2.92	SAT	No	No	No	13031 | AO | 2023	Currently Enrolled (4-Year)	No
+13032	AP	2023	3.5	SAT	Yes	Yes	Yes	13032 | AP | 2023	Currently Enrolled (4-Year)	No
+13033	AQ	2023	3.38	SAT	Yes	No	No	13033 | AQ | 2023	Currently Enrolled (4-Year)	No
+13034	AR	2023	3.66	SAT	Yes	No	No	13034 | AR | 2023	Currently Enrolled (4-Year)	No
+13035	AS	2023	3.35	SAT	Yes	No	No	13035 | AS | 2023	No Longer Enrolled	No
+13036	AT	2023	3.97	SAT	Yes	Yes	Yes	13036 | AT | 2023	Currently Enrolled (4-Year)	No
+13037	AU	2023	3.88	SAT	Yes	Yes	Yes	13037 | AU | 2023	Graduated (2-Year)	No
+13038	AV	2023	3.79	SAT	Yes	Yes	Yes	13038 | AV | 2023	No Longer Enrolled	No
+13039	AW	2023	2.8	SAT	No	No	No	13039 | AW | 2023	No Longer Enrolled	No
+13040	AX	2023	3.09	SAT	Yes	No	No	13040 | AX | 2023	Never Enrolled	No
+13041	AY	2023	3.5	SAT	Yes	No	No	13041 | AY | 2023	No Longer Enrolled	No
+13042	AZ	2023	2.67	SAT	No	No	No	13042 | AZ | 2023	No Longer Enrolled	No
+13043	AA	2023	3.84	SAT	Yes	Yes	Yes	13043 | AA | 2023	Currently Enrolled (4-Year)	No
+13044	AB	2023	3.99	SAT	Yes	Yes	Yes	13044 | AB | 2023	Currently Enrolled (4-Year)	No
+13045	AC	2023	2.39	SAT	No	No	No	13045 | AC | 2023	No Longer Enrolled	No
+13046	AD	2023	3.25	SAT	Yes	No	No	13046 | AD | 2023	No Longer Enrolled	No
+13047	AE	2023	3.46	SAT	Yes	No	No	13047 | AE | 2023	Currently Enrolled (4-Year)	No
+13048	AF	2023	3.81	SAT	Yes	No	No	13048 | AF | 2023	Currently Enrolled (4-Year)	No
+13049	AG	2024	2.95	SAT	No	No	No	13049 | AG | 2024	No Longer Enrolled	No
+13050	AH	2024	2.94	SAT	No	No	No	13050 | AH | 2024	Currently Enrolled (4-Year)	No
+13051	AI	2024	3.5	SAT	Yes	No	No	13051 | AI | 2024	Currently Enrolled (4-Year)	No
+13052	AJ	2024	2.81	SAT	No	No	No	13052 | AJ | 2024	Currently Enrolled (4-Year)	No
+13053	AK	2024	3.17	SAT	Yes	No	No	13053 | AK | 2024	No Longer Enrolled	No
+13054	AL	2024	3.49	SAT	Yes	No	No	13054 | AL | 2024	Currently Enrolled (4-Year)	No
+13055	AM	2024	3.44	SAT	Yes	Yes	Yes	13055 | AM | 2024	Currently Enrolled (2-Year)	No
+13056	AN	2024	3.24	SAT	Yes	No	No	13056 | AN | 2024	Currently Enrolled (2-Year)	No
+13057	AO	2024	3.06	SAT	Yes	No	No	13057 | AO | 2024	Currently Enrolled (4-Year)	No
+13058	AP	2024	2.95	SAT	No	Yes	No	13058 | AP | 2024	Currently Enrolled (4-Year)	No
+13059	AQ	2024	3.51	SAT	Yes	Yes	Yes	13059 | AQ | 2024	Currently Enrolled (4-Year)	No
+13060	AR	2024	3.08	SAT	Yes	Yes	Yes	13060 | AR | 2024	Currently Enrolled (2-Year)	No
+13061	AS	2024	2.99	SAT	No	No	No	13061 | AS | 2024	Currently Enrolled (4-Year)	No
+13062	AT	2024	2.87	SAT	No	No	No	13062 | AT | 2024	Never Enrolled	No
+13063	AU	2024	2.56	SAT	No	No	No	13063 | AU | 2024	Never Enrolled	No
+13064	AV	2024	3	SAT	Yes	Yes	Yes	13064 | AV | 2024	Currently Enrolled (4-Year)	No
+13065	AW	2024	3.5	SAT	Yes	Yes	Yes	13065 | AW | 2024	Currently Enrolled (4-Year)	No
+13066	AX	2024	3.18	SAT	Yes	No	No	13066 | AX | 2024	Currently Enrolled (4-Year)	No
+13067	AY	2024	2.37	SAT	No	No	No	13067 | AY | 2024	Currently Enrolled (2-Year)	No
+13068	AZ	2024	3.85	SAT	Yes	Yes	Yes	13068 | AZ | 2024	No Longer Enrolled	No
+13069	AA	2024	3.58	SAT	Yes	No	No	13069 | AA | 2024	Currently Enrolled (4-Year)	No
+13070	AB	2024	2.94	SAT	No	No	No	13070 | AB | 2024	Currently Enrolled (4-Year)	No
+13071	AC	2024	3.09	SAT	Yes	No	No	13071 | AC | 2024	No Longer Enrolled	No
+13072	AD	2024	3.82	SAT	Yes	No	No	13072 | AD | 2024	Currently Enrolled (4-Year)	No
+13073	AE	2024	2.79	SAT	No	No	No	13073 | AE | 2024	Currently Enrolled (2-Year)	No
+13074	AF	2024	3.82	SAT	Yes	Yes	Yes	13074 | AF | 2024	Currently Enrolled (4-Year)	No
+13075	AG	2024	2.89	SAT	No	No	No	13075 | AG | 2024	Currently Enrolled (4-Year)	No
+13076	AH	2024	2.89	SAT	No	No	No	13076 | AH | 2024	No Longer Enrolled	No
+13077	AI	2024	3.67	SAT	Yes	Yes	Yes	13077 | AI | 2024	Currently Enrolled (4-Year)	No
+13078	AJ	2024	3.44	SAT	Yes	Yes	Yes	13078 | AJ | 2024	Currently Enrolled (4-Year)	No
+13079	AK	2024	3.32	SAT	Yes	No	No	13079 | AK | 2024	No Longer Enrolled	No
+13080	AL	2024	3.55	SAT	Yes	Yes	Yes	13080 | AL | 2024	Currently Enrolled (4-Year)	No
+13081	AM	2024	3.86	SAT	Yes	Yes	Yes	13081 | AM | 2024	No Longer Enrolled	No
+13082	AN	2024	3.15	SAT	Yes	No	No	13082 | AN | 2024	No Longer Enrolled	No
+13083	AO	2024	2.63	SAT	No	No	No	13083 | AO | 2024	Never Enrolled	No
+13084	AP	2024	3.63	SAT	Yes	No	No	13084 | AP | 2024	Currently Enrolled (4-Year)	No
+13085	AQ	2024	3.57	SAT	Yes	Yes	Yes	13085 | AQ | 2024	Currently Enrolled (4-Year)	No
+13086	AR	2024	3.06	SAT	Yes	Yes	Yes	13086 | AR | 2024	Currently Enrolled (4-Year)	No
+13087	AS	2024	3.06	SAT	Yes	Yes	Yes	13087 | AS | 2024	Never Enrolled	No
+13088	AT	2024	3.06	SAT	Yes	No	No	13088 | AT | 2024	Currently Enrolled (4-Year)	No
+13089	AU	2024	3.03	SAT	Yes	No	No	13089 | AU | 2024	Currently Enrolled (4-Year)	No
+13090	AV	2024	2.77	SAT	No	No	No	13090 | AV | 2024	Currently Enrolled (2-Year)	No
+13091	AW	2024	3.48	SAT	Yes	Yes	Yes	13091 | AW | 2024	Never Enrolled	No
+13092	AX	2024	3.69	SAT	Yes	Yes	Yes	13092 | AX | 2024	Currently Enrolled (4-Year)	No
+13093	AY	2024	3.87	SAT	Yes	Yes	Yes	13093 | AY | 2024	No Longer Enrolled	No
+13094	AZ	2024	3.06	SAT	Yes	Yes	Yes	13094 | AZ | 2024	Currently Enrolled (2-Year)	No
+13095	AA	2024	3.59	SAT	Yes	Yes	Yes	13095 | AA | 2024	Currently Enrolled (4-Year)	No
+13096	AB	2024	2.74	SAT	No	No	No	13096 | AB | 2024	Currently Enrolled (2-Year)	No
+13097	AC	2024	3.02	SAT	Yes	Yes	Yes	13097 | AC | 2024	No Longer Enrolled	No
+13098	AD	2024	2.86	SAT	No	No	No	13098 | AD | 2024	No Longer Enrolled	No
+13099	AE	2024	3.42	SAT	Yes	No	No	13099 | AE | 2024	Currently Enrolled (4-Year)	No
+13100	AF	2024	3.52	SAT	Yes	Yes	Yes	13100 | AF | 2024	Currently Enrolled (4-Year)	No
+13101	AG	2024	3.11	SAT	Yes	No	No	13101 | AG | 2024	Currently Enrolled (2-Year)	No
+13102	AH	2024	3.39	SAT	Yes	Yes	Yes	13102 | AH | 2024	Currently Enrolled (4-Year)	No
+13103	AI	2024	3.65	SAT	Yes	Yes	Yes	13103 | AI | 2024	Currently Enrolled (4-Year)	No
+13104	AJ	2024	3.53	SAT	Yes	No	No	13104 | AJ | 2024	No Longer Enrolled	No
+13105	AK	2024	3.47	SAT	Yes	No	No	13105 | AK | 2024	Currently Enrolled (4-Year)	No
+13106	AL	2024	2.79	SAT	No	Yes	No	13106 | AL | 2024	No Longer Enrolled	No
+13107	AM	2024	3.53	SAT	Yes	Yes	Yes	13107 | AM | 2024	Currently Enrolled (4-Year)	No
+13108	AN	2024	3.81	SAT	Yes	Yes	Yes	13108 | AN | 2024	Currently Enrolled (4-Year)	No
+13109	AO	2024	3.44	SAT	Yes	Yes	Yes	13109 | AO | 2024	Currently Enrolled (4-Year)	No
+13110	AP	2024	3.31	SAT	Yes	No	No	13110 | AP | 2024	Currently Enrolled (4-Year)	No
+13111	AQ	2024	3.35	SAT	Yes	No	No	13111 | AQ | 2024	Currently Enrolled (4-Year)	No
+13112	AR	2024	3	SAT	Yes	Yes	Yes	13112 | AR | 2024	Currently Enrolled (4-Year)	No
+13113	AS	2024	3.24	SAT	Yes	No	No	13113 | AS | 2024	Currently Enrolled (4-Year)	No
+13114	AT	2024	3.58	SAT	Yes	No	No	13114 | AT | 2024	Currently Enrolled (4-Year)	No
+13115	AU	2024	3.13	SAT	Yes	No	No	13115 | AU | 2024	Currently Enrolled (4-Year)	No
+13116	AV	2024	3.45	SAT	Yes	Yes	Yes	13116 | AV | 2024	Currently Enrolled (4-Year)	No
+13117	AW	2024	3.52	SAT	Yes	Yes	Yes	13117 | AW | 2024	Currently Enrolled (4-Year)	No
+13118	AX	2024	3.21	SAT	Yes	No	No	13118 | AX | 2024	Currently Enrolled (4-Year)	No
+13119	AY	2024	3.04	SAT	Yes	No	No	13119 | AY | 2024	Currently Enrolled (4-Year)	No
+13120	AZ	2024	3.11	SAT	Yes	No	No	13120 | AZ | 2024	Currently Enrolled (4-Year)	No
+13121	AA	2024	2.94	SAT	No	No	No	13121 | AA | 2024	No Longer Enrolled	No
+13122	AB	2024	3.39	SAT	Yes	No	No	13122 | AB | 2024	Currently Enrolled (4-Year)	No
+13123	AC	2024	2.96	SAT	No	Yes	No	13123 | AC | 2024	Currently Enrolled (4-Year)	No
+13124	AD	2024	3.91	SAT	Yes	Yes	Yes	13124 | AD | 2024	No Longer Enrolled	No
+13125	AE	2024	3.23	SAT	Yes	No	No	13125 | AE | 2024	Currently Enrolled (4-Year)	No
+13126	AF	2024	3.52	SAT	Yes	Yes	Yes	13126 | AF | 2024	Currently Enrolled (4-Year)	No
+13127	AG	2024	3.68	SAT	Yes	Yes	Yes	13127 | AG | 2024	Currently Enrolled (4-Year)	No
+13128	AH	2024	3.03	SAT	Yes	No	No	13128 | AH | 2024	Currently Enrolled (4-Year)	No
+13129	AI	2024	3.44	SAT	Yes	No	No	13129 | AI | 2024	Currently Enrolled (4-Year)	No
+13130	AJ	2024	3.23	SAT	Yes	Yes	Yes	13130 | AJ | 2024	Currently Enrolled (2-Year)	No
+13131	AK	2024	2.96	SAT	No	No	No	13131 | AK | 2024	Currently Enrolled (2-Year)	No
+13132	AL	2024	3.14	SAT	Yes	Yes	Yes	13132 | AL | 2024	Currently Enrolled (4-Year)	No
+13133	AM	2024	3.98	SAT	Yes	Yes	Yes	13133 | AM | 2024	Currently Enrolled (4-Year)	No
+13134	AN	2024	3.18	SAT	Yes	Yes	Yes	13134 | AN | 2024	No Longer Enrolled	No
+13135	AO	2024	3.09	SAT	Yes	Yes	Yes	13135 | AO | 2024	Currently Enrolled (4-Year)	No
+13136	AP	2024	3.88	SAT	Yes	Yes	Yes	13136 | AP | 2024	Currently Enrolled (4-Year)	No
+13137	AQ	2024	3.3	SAT	Yes	Yes	Yes	13137 | AQ | 2024	Currently Enrolled (4-Year)	No
+13138	AR	2024	3.16	SAT	Yes	Yes	Yes	13138 | AR | 2024	No Longer Enrolled	No
+13139	AS	2024	3.2	SAT	Yes	No	No	13139 | AS | 2024	Currently Enrolled (4-Year)	No
+13140	AT	2024	2.98	SAT	No	No	No	13140 | AT | 2024	Never Enrolled	No
+13141	AU	2024	3.65	SAT	Yes	Yes	Yes	13141 | AU | 2024	Currently Enrolled (4-Year)	No
+13142	AV	2024	3.53	SAT	Yes	Yes	Yes	13142 | AV | 2024	Currently Enrolled (4-Year)	No
+13143	AW	2024	3.35	SAT	Yes	Yes	Yes	13143 | AW | 2024	Currently Enrolled (4-Year)	No
+13144	AX	2024	3.32	SAT	Yes	No	No	13144 | AX | 2024	Currently Enrolled (4-Year)	No
+13145	AY	2024	2.85	SAT	No	No	No	13145 | AY | 2024	Currently Enrolled (4-Year)	No
+13146	AZ	2024	2.95	SAT	No	No	No	13146 | AZ | 2024	Currently Enrolled (2-Year)	No
+13147	AA	2024	2.98	SAT	No	No	No	13147 | AA | 2024	Currently Enrolled (2-Year)	No
+13148	AB	2024	3.27	SAT	Yes	Yes	Yes	13148 | AB | 2024	Currently Enrolled (4-Year)	No
+13149	AC	2025	3.81	SAT	Yes	Yes	Yes	13149 | AC | 2025	Currently Enrolled (4-Year)	No
+13150	AD	2025	2.69	SAT	No	No	No	13150 | AD | 2025	Currently Enrolled (2-Year)	No
+13151	AE	2025	2.85	SAT	No	Yes	No	13151 | AE | 2025	Currently Enrolled (4-Year)	No
+13152	AF	2025	3.44	SAT	Yes	No	No	13152 | AF | 2025	Currently Enrolled (4-Year)	No
+13153	AG	2025	3.31	SAT	Yes	Yes	Yes	13153 | AG | 2025	Currently Enrolled (4-Year)	No
+13154	AH	2025	3.68	SAT	Yes	Yes	Yes	13154 | AH | 2025	Currently Enrolled (2-Year)	No
+13155	AI	2025	2.92	SAT	No	Yes	No	13155 | AI | 2025	Currently Enrolled (4-Year)	No
+13156	AJ	2025	3.1	SAT	Yes	No	No	13156 | AJ | 2025	Currently Enrolled (4-Year)	No
+13157	AK	2025	3.45	SAT	Yes	Yes	Yes	13157 | AK | 2025	Currently Enrolled (4-Year)	No
+13158	AL	2025	3.36	SAT	Yes	Yes	Yes	13158 | AL | 2025	Currently Enrolled (4-Year)	No
+13159	AM	2025	3.12	SAT	Yes	Yes	Yes	13159 | AM | 2025	Currently Enrolled (4-Year)	No
+13160	AN	2025	3.23	SAT	Yes	No	No	13160 | AN | 2025	Currently Enrolled (4-Year)	No
+13161	AO	2025	3	SAT	Yes	No	No	13161 | AO | 2025	Never Enrolled	No
+13162	AP	2025	3.21	SAT	Yes	No	No	13162 | AP | 2025	Currently Enrolled (2-Year)	No
+13163	AQ	2025	3.29	SAT	Yes	No	No	13163 | AQ | 2025	Currently Enrolled (2-Year)	No
+13164	AR	2025	3.69	SAT	Yes	Yes	Yes	13164 | AR | 2025	Currently Enrolled (4-Year)	No
+13165	AS	2025	2.97	SAT	No	No	No	13165 | AS | 2025	Currently Enrolled (2-Year)	No
+13166	AT	2025	2.88	SAT	No	No	No	13166 | AT | 2025	Never Enrolled	No
+13167	AU	2025	2.87	SAT	No	No	No	13167 | AU | 2025	Currently Enrolled (2-Year)	No
+13168	AV	2025	3.17	SAT	Yes	No	No	13168 | AV | 2025	Currently Enrolled (4-Year)	No
+13169	AW	2025	3.78	SAT	Yes	Yes	Yes	13169 | AW | 2025	Currently Enrolled (4-Year)	No
+13170	AX	2025	3	SAT	Yes	No	No	13170 | AX | 2025	Currently Enrolled (4-Year)	No
+13171	AY	2025	3.34	SAT	Yes	Yes	Yes	13171 | AY | 2025	Currently Enrolled (4-Year)	No
+13172	AZ	2025	3.53	SAT	Yes	No	No	13172 | AZ | 2025	Currently Enrolled (4-Year)	No
+13173	AA	2025	3.62	SAT	Yes	No	No	13173 | AA | 2025	Currently Enrolled (4-Year)	No
+13174	AB	2025	3.71	SAT	Yes	Yes	Yes	13174 | AB | 2025	Currently Enrolled (4-Year)	No
+13175	AC	2025	2.97	SAT	No	No	No	13175 | AC | 2025	Currently Enrolled (2-Year)	No
+13176	AD	2025	3.19	SAT	Yes	No	No	13176 | AD | 2025	Currently Enrolled (2-Year)	No
+13177	AE	2025	3.77	SAT	Yes	Yes	Yes	13177 | AE | 2025	Currently Enrolled (4-Year)	No
+13178	AF	2025	3.12	SAT	Yes	No	No	13178 | AF | 2025	Never Enrolled	No
+13179	AG	2025	3.1	SAT	Yes	Yes	Yes	13179 | AG | 2025	Currently Enrolled (2-Year)	No
+13180	AH	2025	2.9	SAT	No	No	No	13180 | AH | 2025	Currently Enrolled (4-Year)	No
+13181	AI	2025	3.65	SAT	Yes	Yes	Yes	13181 | AI | 2025	Currently Enrolled (4-Year)	No
+13182	AJ	2025	3.07	SAT	Yes	No	No	13182 | AJ | 2025	Currently Enrolled (4-Year)	No
+13183	AK	2025	2.96	SAT	No	No	No	13183 | AK | 2025	Currently Enrolled (2-Year)	No
+13184	AL	2025	3.15	SAT	Yes	No	No	13184 | AL | 2025	Currently Enrolled (4-Year)	No
+13185	AM	2025	2.98	SAT	No	No	No	13185 | AM | 2025	Currently Enrolled (2-Year)	No
+13186	AN	2025	3.76	SAT	Yes	Yes	Yes	13186 | AN | 2025	Currently Enrolled (4-Year)	No
+13187	AO	2025	2.92	SAT	No	No	No	13187 | AO | 2025	No Longer Enrolled	No
+13188	AP	2025	3.49	SAT	Yes	No	No	13188 | AP | 2025	Currently Enrolled (4-Year)	No
+13189	AQ	2025	3.04	SAT	Yes	No	No	13189 | AQ | 2025	Currently Enrolled (4-Year)	No
+13190	AR	2025	3.54	SAT	Yes	No	No	13190 | AR | 2025	Currently Enrolled (4-Year)	No
+13191	AS	2025	3.44	SAT	Yes	No	No	13191 | AS | 2025	Currently Enrolled (4-Year)	No
+13192	AT	2025	3.58	SAT	Yes	No	No	13192 | AT | 2025	Currently Enrolled (4-Year)	No
+13193	AU	2025	2.75	SAT	No	No	No	13193 | AU | 2025	Never Enrolled	No
+13194	AV	2025	3.02	SAT	Yes	No	No	13194 | AV | 2025	Never Enrolled	No
+13195	AW	2025	3.84	SAT	Yes	Yes	Yes	13195 | AW | 2025	Currently Enrolled (4-Year)	No
+13196	AX	2025	2.78	SAT	No	Yes	No	13196 | AX | 2025	Currently Enrolled (4-Year)	No
+13197	AY	2025	3.69	SAT	Yes	Yes	Yes	13197 | AY | 2025	Currently Enrolled (4-Year)	No
+13198	AZ	2025	3.77	SAT	Yes	Yes	Yes	13198 | AZ | 2025	Currently Enrolled (4-Year)	No
+13199	AA	2025	2.84	SAT	No	No	No	13199 | AA | 2025	Currently Enrolled (4-Year)	No
+13200	AB	2025	3.19	SAT	Yes	Yes	Yes	13200 | AB | 2025	Currently Enrolled (4-Year)	No
+13201	AC	2025	3.48	SAT	Yes	Yes	Yes	13201 | AC | 2025	Currently Enrolled (4-Year)	No
+13202	AD	2025	3.42	SAT	Yes	Yes	Yes	13202 | AD | 2025	Currently Enrolled (4-Year)	No
+13203	AE	2025	2.82	SAT	No	No	No	13203 | AE | 2025	Never Enrolled	No
+13204	AF	2025	3.12	SAT	Yes	No	No	13204 | AF | 2025	No Longer Enrolled	No
+13205	AG	2025	3.13	SAT	Yes	No	No	13205 | AG | 2025	Currently Enrolled (4-Year)	No
+13206	AH	2025	3.58	SAT	Yes	Yes	Yes	13206 | AH | 2025	Currently Enrolled (4-Year)	No
+13207	AI	2025	3.84	SAT	Yes	Yes	Yes	13207 | AI | 2025	Currently Enrolled (4-Year)	No
+13208	AJ	2025	3.31	SAT	Yes	Yes	Yes	13208 | AJ | 2025	Never Enrolled	No
+13209	AK	2025	3.35	SAT	Yes	No	No	13209 | AK | 2025	Currently Enrolled (4-Year)	No
+13210	AL	2025	3.61	SAT	Yes	Yes	Yes	13210 | AL | 2025	Currently Enrolled (4-Year)	No
+13211	AM	2025	3.16	SAT	Yes	Yes	Yes	13211 | AM | 2025	Currently Enrolled (4-Year)	No
+13212	AN	2025	3.04	SAT	Yes	No	No	13212 | AN | 2025	Currently Enrolled (2-Year)	No
+13213	AO	2025	3.37	SAT	Yes	Yes	Yes	13213 | AO | 2025	Currently Enrolled (4-Year)	No
+13214	AP	2025	3.36	SAT	Yes	Yes	Yes	13214 | AP | 2025	Currently Enrolled (4-Year)	No
+13215	AQ	2025	3.2	SAT	Yes	No	No	13215 | AQ | 2025	Currently Enrolled (4-Year)	No
+13216	AR	2025	3.13	SAT	Yes	Yes	Yes	13216 | AR | 2025	Currently Enrolled (2-Year)	No
+13217	AS	2025	3.11	SAT	Yes	No	No	13217 | AS | 2025	Currently Enrolled (2-Year)	No
+13218	AT	2025	3.52	SAT	Yes	Yes	Yes	13218 | AT | 2025	Currently Enrolled (4-Year)	No
+13219	AU	2025	3.66	SAT	Yes	Yes	Yes	13219 | AU | 2025	Currently Enrolled (4-Year)	No
+13220	AV	2025	3.6	SAT	Yes	Yes	Yes	13220 | AV | 2025	Currently Enrolled (4-Year)	No
+13221	AW	2025	3.52	SAT	Yes	No	No	13221 | AW | 2025	Currently Enrolled (4-Year)	No
+13222	AX	2025	3.46	SAT	Yes	No	No	13222 | AX | 2025	Currently Enrolled (4-Year)	No
+13223	AY	2025	3.91	SAT	Yes	Yes	Yes	13223 | AY | 2025	Currently Enrolled (4-Year)	No
+13224	AZ	2025	3.15	SAT	Yes	Yes	Yes	13224 | AZ | 2025	Currently Enrolled (4-Year)	No
+13225	AA	2025	2.83	SAT	No	Yes	No	13225 | AA | 2025	Currently Enrolled (4-Year)	No
+13226	AB	2025	3.57	SAT	Yes	No	No	13226 | AB | 2025	Currently Enrolled (4-Year)	No
+13227	AC	2025	3.18	SAT	Yes	Yes	Yes	13227 | AC | 2025	Currently Enrolled (2-Year)	No
+13228	AD	2025	3.3	SAT	Yes	Yes	Yes	13228 | AD | 2025	Currently Enrolled (4-Year)	No
+13229	AE	2025	3.57	SAT	Yes	Yes	Yes	13229 | AE | 2025	Currently Enrolled (4-Year)	No
+13230	AF	2025	3.14	SAT	Yes	No	No	13230 | AF | 2025	Currently Enrolled (4-Year)	No
+13231	AG	2025	3.77	SAT	Yes	Yes	Yes	13231 | AG | 2025	Currently Enrolled (4-Year)	No
+13232	AH	2025	3.66	SAT	Yes	Yes	Yes	13232 | AH | 2025	Currently Enrolled (4-Year)	No
+13233	AI	2025	2.94	SAT	No	No	No	13233 | AI | 2025	Never Enrolled	No
+13234	AJ	2025	3.63	SAT	Yes	No	No	13234 | AJ | 2025	Currently Enrolled (4-Year)	No
+13235	AK	2025	3.9	SAT	Yes	Yes	Yes	13235 | AK | 2025	Currently Enrolled (4-Year)	No
+13236	AL	2025	3.67	SAT	Yes	Yes	Yes	13236 | AL | 2025	Currently Enrolled (4-Year)	No
+13237	AM	2025	3.29	SAT	Yes	Yes	Yes	13237 | AM | 2025	Currently Enrolled (4-Year)	No
+13238	AN	2025	3.44	SAT	Yes	Yes	Yes	13238 | AN | 2025	Currently Enrolled (4-Year)	No
+13239	AO	2025	2.65	SAT	No	No	No	13239 | AO | 2025	Currently Enrolled (4-Year)	No
+13240	AP	2025	3.19	SAT	Yes	Yes	Yes	13240 | AP | 2025	Currently Enrolled (4-Year)	No
+13241	AQ	2025	3.04	SAT	Yes	No	No	13241 | AQ | 2025	Currently Enrolled (4-Year)	No
+13242	AR	2025	3.13	SAT	Yes	No	No	13242 | AR | 2025	Never Enrolled	No
+13243	AS	2025	2.87	SAT	No	No	No	13243 | AS | 2025	Currently Enrolled (2-Year)	No
+13244	AT	2025	3.07	SAT	Yes	No	No	13244 | AT | 2025	Currently Enrolled (4-Year)	No
+13245	AU	2025	3.31	SAT	Yes	Yes	Yes	13245 | AU | 2025	Currently Enrolled (4-Year)	No
+13246	AV	2025	3.19	SAT	Yes	Yes	Yes	13246 | AV | 2025	Currently Enrolled (4-Year)	No
+13247	AW	2025	3.12	SAT	Yes	Yes	Yes	13247 | AW | 2025	Currently Enrolled (4-Year)	No
+13248	AX	2025	3.8	SAT	Yes	No	No	13248 | AX | 2025	Currently Enrolled (4-Year)	No
