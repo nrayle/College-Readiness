@@ -907,798 +907,798 @@ Student_Number	Name	Class Of	GPA	Test	Met GPA?	Met at Least 1 Benchmark?	College
 10800	"Venancio Laureano, Adrian"	2025	3.19	SAT	Yes	Yes	Yes	10800 | 2025	Currently Enrolled (4-Year)
 10807	"Villa Castro, Cristian"	2025	3.12	SAT	Yes	Yes	Yes	10807 | 2025	Currently Enrolled (4-Year)
 10791	"Zambrano, Briana Kimberly"	2025	3.8	SAT	Yes	No	No	10791 | 2025	Currently Enrolled (4-Year)
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-				SAT	FALSE	0	No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
-							No	 | 	
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
 							No	 | 	
 							No	 | 	
